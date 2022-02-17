@@ -6,7 +6,7 @@ description: "How autonomous vehicles work and how they sense bicyclists"
 hero_height: is-medium
 published: true
 tags: article freelance autonomous-vehicles bicycles bikes 
-series: freelance_articles
+series: Freelance_articles
 ---
 
 A friend of mine, who I’ll call Tom, came home one day with a bandaged hand, bruised face, and a general look of shock and bewilderment. He had just come from the hospital after hitting a car on his bike. A negligent happenstance for some, but a truly unlucky feat for Tom. And to be clear, *Tom* hit the car while riding his bike, the car did not hit him.

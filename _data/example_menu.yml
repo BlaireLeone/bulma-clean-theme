@@ -1,15 +1,13 @@
-- label: Example Menu
+- label: Blaire's work
   items:
-    - name: Home
-      link: /
-    - name: Pages
+    - name: Series
       link: /#
       items:
-        - name: Page With Sidebar
+        - name: Freelance Articles
           link: /page-1/
-        - name: Page Without Sidebar
+        - name: HAALo Newsletter Articles
           link: /page-2/
-        - name: Page With Menubar
+        - name: Book Reviews
           link: /page-3/
         - name: Page With Tabs
           link: /page-4/

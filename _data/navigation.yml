@@ -1,4 +1,4 @@
-- name: Articles
+- name: Series
   link: /#
   dropdown:
     - name: When the Bears Come Marching In

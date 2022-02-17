@@ -1,11 +1,11 @@
 - label: Blaire's work
   items:
-    - name: Past Articles
+    - name: Plant Articles
       link: /#
       items:
-        - name: How Climate Change Affests Human-Wildlife Interactions
+        - name: Herb Processing
           link: /page-1/
-        - name: Autonomous Vehicles and Bicycles
+        - name: Albizia
           link: /page-2/
     - name: Blog
       link: /blog/

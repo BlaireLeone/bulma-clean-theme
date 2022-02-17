@@ -1,8 +1,8 @@
 - name: Series
   link: /#
   dropdown:
-    - name: When the Bears Come Marching In
-      link: /article-1-when-the-bears-come-marching-in/
+    - name: Freelance Articles
+      link: /2022-02-07-when-the-bears-come-marching-in/
     - name: Page No Sidebar
       link: /page-2/
     - name: Page With Menubar

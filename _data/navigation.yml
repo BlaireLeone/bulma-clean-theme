@@ -4,7 +4,9 @@
     - name: Past Articles
       link: /page-3/
     - name: Book Reviews
-      link: /page-3/
+      link: /Book-reviews-menu/
+    - name: Plant Newsletter Content
+      link: /plant-newsletter-content-menu/
 - name: About
   link: /test/
 - name: Blog

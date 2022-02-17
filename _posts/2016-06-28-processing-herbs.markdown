@@ -3,7 +3,7 @@ layout: post
 title:  "Processing Herbs"
 date:   2016-06-28 10:50:07
 description: "How HAALo processes herbs from harvesting to storing"
-hero_height: is-small
+hero_height: is-medium
 hero_darken: true
 published: true
 tags: HAALo newsletter article herbs

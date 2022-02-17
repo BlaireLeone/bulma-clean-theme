@@ -3,7 +3,7 @@ layout: post
 title: "When the Bears Come Marching In"
 description: "How climate change affects human-wildlife relationships"
 date: 2022-02-07 09:00:07
-hero_height: is-small
+hero_height: is-medium
 hero_darken: true
 tags: article bears climate change environment
 published: yes

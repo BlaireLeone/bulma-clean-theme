@@ -1,11 +1,11 @@
 - label: Blaire's work
   items:
-    - name: Plant Articles
+    - name: Past Articles
       link: /#
       items:
-        - name: Herb Processing
+        - name: Bears
           link: /page-1/
-        - name: Albizia
+        - name: Autonomous Vehicles
           link: /page-2/
     - name: Blog
       link: /blog/

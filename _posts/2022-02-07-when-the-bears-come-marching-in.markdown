@@ -1,9 +1,8 @@
 ---
 layout: post
 title: When the Bears Come Marching In
-description: How change affected human and bear relationships
+description: How climate change affects human-wildlife relationships
 date: 2022-02-07 09:00:07
-hero_image: https://www.csrhymes.com/img/example-docs-page.jpg
 hero_height: is-small
 hero_darken: true
 tags: article bears climate change environment

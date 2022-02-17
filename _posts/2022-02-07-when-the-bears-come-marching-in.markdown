@@ -1,96 +1,36 @@
 ---
 layout: post
-title: Creating a docs site with Bulma Clean Theme
-description: How to create a docs site for your project with Bulma Clean Theme 
-date: 2020-05-08 09:00:07
+title: When the Bears Come Marching In
+description: How change affected human and bear relationships
+date: 2022-02-07 09:00:07
 hero_image: https://www.csrhymes.com/img/example-docs-page.jpg
-hero_height: is-large
+hero_height: is-small
 hero_darken: true
-image: https://www.csrhymes.com/img/example-docs-page.jpg
-tags: bulma-clean-theme jekyll docs
-canonical_url: https://www.csrhymes.com/2020/05/08/creating-a-docs-site-with-bulma-clean-theme.html
+tags: article bears climate change environment
+series: Freelance_articles
+
 ---
 
-I created Bulma Clean Theme as a theme for my own website and decided to open source it so others could use it as well. One of the key things I wanted to do was to create a theme that worked with GitHub Pages, which also means that you can also use it as a docs site for your project. 
+“When the Bears Come Marching In”
 
-## GitHub Pages Configuration
+By: Blaire Hobbs
 
-GitHub pages allows you to create a website for your project with free hosting. Go to your repo on GitHub, then click Settings, then scroll down to the GitHub Pages section. You have the option to create a site from the root of your master branch of from the /docs directory in your master branch. For this example, we are going to use the /docs directory. 
+Since the new year, I’ve been reflecting on the tumultuousness of our recent lives. Among an overbearingly present pandemic and an overdue sociopolitical reckoning (unquestionably monumental events), I’ve also been dwelling on the process and implications of our planet’s volatile climate. While human populations around the world are at risk, it wasn’t until I stayed with my parents in the Sierra Nevada Foothills last fall and observed the local bear population, that I considered how climate change might also affect wildlife. 
 
-Don't change this setting just yet as if you don't have a docs directory there will be nothing there to publish. 
+Bears, a common staple of foothill life, frequently visit my parent’s backyard. And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year – thus, a bountiful honeypot attracting animals from miles around. In years past, the bear sightings varied. Some years there was one bear, others two; sometimes a ‘teenaged’ bear that had been a tumbling cub the year prior (though it was never clear which bear was around as my parents referred to each of them as “*the* bear” and not “*a* bear”). But most distinguishing about these sightings: they were brief, intermittent, and routine. They scavenged for apples until inevitably startling and running away.
 
-## Creating the docs directory
+But it’s different now. Less keen on bolting when no obvious threat looms, they stand their ground and stay until presumably full. To make matters worse, three bears (the little cinnamon bear, the husky brown bear and her cubs, and the big male black bear) now vie for the same space in a standoffish dance my parents refer to animatedly as their 'bear drama'. Though it should be known that without fail the smaller bear will sprint away first - like any of us, they are afraid of a bigger bear.
 
-Clone your git repo to a local directory, let's say `~/code/my-project` for this example. The below assumes you don't yet have a docs directory and you have [jekyll installed](https://jekyllrb.com/docs/installation/). If you do already have a docs directory you will have to rename it to something else. 
+One afternoon last fall, I watched the husky brown bear and her two cubs forage for apples around the apple tree. After eating for 20 minutes, they collectively sensed something and rushed to a nearby pine tree. An hour later, I was amazed at their perseverance, since they hardly moved from their perch while the big black bear scarfed downed the same pile of apples they had so neatly created.
 
-Create a new jekyll installation in the docs directory, ensuring you replace your username and project name in the below example.
+This was the most prolonged encounter I had ever seen between the bears. In the past it may have been an intriguing slice of life in the food-chain, but with the perpetual tinge of dark umber smoke darkening the sky from several nearby wildfires, this incident felt more meaningful.
 
-```bash
-git clone https://github.com/username/my-project.git ~/code/my-project
-cd ~/code/my-project
-jekyll new docs
-```
+It's likely that the cascading climate effects from wildfires to droughts to heat waves have corralled these bears and other animals to food rich areas like my parent’s backyard. With this in mind, I can’t help but feel that the encounter I witnessed was more than just nature’s survival of the fittest – it was a slow motion shifting of behavioral patterns as the bears experience growing pains in this new reality – one I am convinced is a rippled effect of climate change. But more animals mean more competition and less available food.
 
-You should now have a base install of Jekyll in your freshly created docs directory. 
+One morning in October, my mom called and, brisk as always when relaying disturbing personal news, said, “You know, the bear broke into the house last night”. It had ripped through an open screened window and attempted to climb through. My mom woke to strange huffing noises coming from the living room, even more strange because the normally spitfire dogs didn’t notice. Turning on the lights, she made eye contact with a giant furry head, one arm and shoulder sticking out around it, before it startled and leapt into the night. Later, my mom thought it was the little cinnamon bear.
 
-## Configuring the theme
+As long as I had known, the bears in this area were shy, avoidant. While much of the wildlife was familiar with humans in some respect, the bears at least had always maintained distance. But if it’s true that they’re now hungry and can’t fill up on traditional food sources, this may not always be the case. 
 
-1. Replace everything in the Gemfile with the following
-```
-source 'https://rubygems.org'
-gem "bulma-clean-theme",  '0.7.2'
-gem 'github-pages', group: :jekyll_plugins
-```
+As it happens, this event turned out to be one of several scary, though low-damage, encounters my parents would have with the bears, though they could have been much worse. I’m not advocating for providing food to wildlife or curtailing their populations. But I think it’s worth considering the animal’s plight within our crazy new world phenomenon and how our beloved relationships with surrounding ecosystems could change. 
 
-2. Open the `_config.yml` and comment out or delete the line `theme: minima` and replace it with `remote_theme: chrisrhymes/bulma-clean-theme`, then add `github-pages` to the list of plugins. Update the baseurl to your GitHub repo name, in this example we are using `my-project` as the repo name
-```yaml
-#theme: minima
-remote_theme: chrisrhymes/bulma-clean-theme
-baseurl: "/my-project"
-plugins:
-- github-pages
-```
-
-3. Open the `index.md` file and update the front matter so the layout is page and then add a title
-```yaml
-layout: page
-title: Docs for My Project
-```
-
-4. Run `bundle install` and then `bundle exec jekyll serve`
-
-5. Visit `http://localhost:4000/my-project/` to view your new docs page.
-
-## Menu
-
-To create a menu on the left on your docs page you need to create a new yaml file in _data directory, such as `menu.yaml` and then use the below format, where the label will be the menu title and the items are the menu items. Each menu item can have a list of sub menu items if needed.
-
-```yaml
-- label: Example Menu
-  items:
-    - name: Menu item
-      link: /link/
-      items:
-        - name: Sub menu item 
-          link: /sub-menu-item/
-```
-
-## Table of contents
-
-If you would like auto generated table of contents for your docs page then add `toc: true` to the page's front matter. The table of contents works for markdown pages and loops through the heading 2s and heading 3s in the markdown and then auto generates the contents.
-
-## GitHub Sponsors
-
-If you want to link to your GitHub sponsors profile then add `gh_sponsor` with your username to the `_config.yml` file.
-
-```
-gh_sponsor: chrisrhymes
-```
-
-## Making the docs page live
-
-Once you have finished creating your docs page you can commit your changes and push everything up to GitHub. Go back to the GitHub settings page and scroll back down to the GitHub Pages section. Now we can update the setting to use the Master branch /docs folder and then GitHub will build your new docs page. 
-
-## Want to see an example?
-
-I recently updated one of my own packages to use Bulma Clean Theme to power the docs page. Check out the docs for [Bulma Block List](https://www.csrhymes.com/bulma-block-list) as an example. 
+Ever-present and ever-more-looming, as climate change settles in for the long haul, the world, its people and its ecosystems, have had to find ways to cope. Though the present is fraught with hurricanes, tornados, floods, and wildfires, the climate crisis isn’t just epic and catastrophic - it is also begrudgingly slow, comprehensive, and indiscriminate. In other words, climate change does not just refer to a changing climate, but a changing world.

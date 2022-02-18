@@ -15,7 +15,7 @@ items:
     description: >
 	Blaire has written for a variety of venues
     call_to_action_name: View Portfolio
-    call_to_action_link: blaire's_work_page
+    call_to_action_link: /blaires_work_page/
 
   - title: About Blaire
     subtitle: View Blaire's background and personal interests

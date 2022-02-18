@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Healthy Habits for the Sustainable Cheapskate
+title: Healthy Habits for the Conscious Consumer
 subtitle: Tips and tricks for healthy lifestyle changes
 hero_height: is-medium 
 hero_image: /path/to/image.jpg`

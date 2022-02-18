@@ -1,6 +1,6 @@
 ---
-title: Page With Sidebar
-subtitle: A demo page with a sidebar
+title: About Blaire Hobbs
+subtitle: And about this blog
 layout: page
 show_sidebar: true
 ---

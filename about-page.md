@@ -7,11 +7,15 @@ toc_title: Contents
 show_sidebar: true
 ---
 
-About Blaire
+
+
+# About Blaire
 
 I am freelance writer and editor covering environmental conservation, sustainable food systems, personal health, travel, people, media literacy, and behavioral science. I have a Cognitive Science degree from the University of California Santa Cruz, which broadly covered neurology, social systems, linguistics, and psychology. While my professional background is in media literacy and misinformation research, I have experience from many diverse fields, from reporting, to teaching, to storytelling, giving me a unique and diverse perspective. 
 
-More about me:
+
+
+## More about me:
 
 I love camping and hiking, especially when I can combine the two into backpacking! In the summer of 2020, my partner and I spent 3 months camping, hiking, and backpacking the Western US. It was still early in the pandemic - I had been laid off and he quit his job in preparation for grad school. After 3 weeks of intense planning and supply gathering, we packed our ‘96 Toyota Tacoma to the brim with a 32-gallon water tank, all the essential camping and backpacking gear (and as we discovered later – so much more inessential gear), our mountain bikes, and a large box of board games. Click here to read about what we learned while planning and packing, here for all the reasons we didn’t hate each other by the end (despite our friend’s and family’s assumptions), and here for our favorite stops and must sees.
 
@@ -21,9 +25,11 @@ My hobbies include writing, brainstorming for the blog, and reading. During the 
 
 Finally, my favorite activity is beach volleyball. After living by the ocean, I befriended a group of volleyball players and started to play a few times a week. I was terrible at first, but as I got better, and widened my group of volleyball friends, I came to love the whole process of playing, from actual games, to hanging out with people between games, to hanging out at the beach for a few hours. Now, beach volleyball is an activity I make time for when the opportunity strikes, though in colder environments, I’ll switch to indoor no problem!
 
+
+
  
 
-About this blog - 
+# About this blog - 
 
 I hope to use my experience, knowledge, and enthusiasm to guide the everyday conscious consumer - making decisions and building habits that allow individuals to sustain a healthier, more sustainable, and in the end, cheaper lifestyle.
 
@@ -35,11 +41,9 @@ My journey to this blog was a gradual awakening, as day after day I became aware
 
 I'm constantly learning, about myself and the surrounding the world. And new research to the field provides even more insight and opportunities for growth. Through this blog, I'll share what I've learned and along the way, provide in-depth reporting on complex nuanced topics to explain my decisions. I hope this information can help others become conscious consumers - from beginners to those who have maintained these habits for years.
 
- 
 
- 
 
-What do I mean by health?
+### What do I mean by health?
 
 Health is a spectrum. When I refer to health, I mostly mean personal health, but it also applies to environmental health.
 
@@ -49,11 +53,7 @@ Personal health too means several things: diet, exercise, hygiene, emotional sta
 
  
 
- 
-
- 
-
-Why I created this blog:
+## Why I created this blog:
 
 As a kid, I was active and excited by nature. I also grew up in a rural part of the mountains, which lead me to have a natural respect for the environment. But in my teens and early 20’s I started thinking more deeply about my individual impact on my surrounding environment. And how I could make changes to my daily habits that could reduce my impact. This feeling heightened the more I tuned into the world around me.
 
@@ -71,7 +71,7 @@ Being conscious of one’s decisions, I believe, reduces your consumption, waste
 
  
 
-A couple notes that I feel the need to address as I write this:
+### A couple notes that I feel the need to address as I write this:
 
 1. When reading this, it’s easy to think I’m saying that the time we are living in now is the worst it’s ever been. However, in reality, I think it’s over-aggrandizing to say that as I’m sure every generation can point to contemporary events of the same nature. Instead, I hope to relate that current events and forecasts concern me. And this makes me hyper aware of the choices I make and what I can do to help others if they choose to approach this lifestyle similarly. 
 

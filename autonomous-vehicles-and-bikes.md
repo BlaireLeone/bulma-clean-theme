@@ -1,11 +1,13 @@
 ---
-title: How Autonomous Vehicles Interact with Bicycles
-subtitle: March 20, 2020
+title: Autonomous Vehicles and bicycles
+subtitle: Why autonomous vehicles have a hard time identifying bicylists and what is being down to counter that
 layout: page
 show_sidebar: false
 ---
 
 
+
+March 20, 2020
 
 A friend of mine, who I’ll call Tom, came home one day with a bandaged hand, bruised face, and a general look of shock and bewilderment. He had just come from the hospital after hitting a car on his bike. A negligent happenstance for some, but a truly unlucky feat for Tom. And to be clear, *Tom* hit the car while riding his bike, the car did not hit him.
 

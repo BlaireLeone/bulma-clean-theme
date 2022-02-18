@@ -1,11 +1,13 @@
 ---
 title: When the Bears Come Marching In
-subtitle: February 7, 2022
+subtitle: How climate change altered the relationship between a family and their local population of bears
 layout: page
 show_sidebar: true
 ---
 
 “When the Bears Come Marching In”
+
+February 7, 2022
 
 By: Blaire Hobbs
 

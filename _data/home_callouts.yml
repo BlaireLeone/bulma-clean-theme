@@ -1,13 +1,17 @@
 style: is-light
+height: is_small
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
+  - title: Healthy Habits for the Conscious Consumer 
+    subtitle: A blog by Blaire Hobbs
+    icon: fa-space-shuttle
+    description: >
+	This a blog about building healthy habits and finding sustainable solutions in your daily life
+    call_to_action_name: Go to Blog
+    call_to_action_link: /blog/
+  - title: Porfolio
+    subtitle: View Blaire's past work
     icon: fa-copy
-    link: /blaire's-work-page/
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
+  - title: About Blaire
+    subtitle: View Blaire's background and personal interests
     icon: fa-github
     icon_brand: true

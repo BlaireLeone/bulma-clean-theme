@@ -15,7 +15,7 @@ I am freelance writer and editor covering environmental conservation, sustainabl
 
 
 
-## More about me:
+## More about me
 
 I love camping and hiking, especially when I can combine the two into backpacking! In the summer of 2020, my partner and I spent 3 months camping, hiking, and backpacking the Western US. It was still early in the pandemic - I had been laid off and he quit his job in preparation for grad school. After 3 weeks of intense planning and supply gathering, we packed our ‘96 Toyota Tacoma to the brim with a 32-gallon water tank, all the essential camping and backpacking gear (and as we discovered later – so much more inessential gear), our mountain bikes, and a large box of board games. Click here to read about what we learned while planning and packing, here for all the reasons we didn’t hate each other by the end (despite our friend’s and family’s assumptions), and here for our favorite stops and must sees.
 
@@ -29,7 +29,7 @@ Finally, my favorite activity is beach volleyball. After living by the ocean, I 
 
  
 
-# About this blog - 
+# About this blog
 
 I hope to use my experience, knowledge, and enthusiasm to guide the everyday conscious consumer - making decisions and building habits that allow individuals to sustain a healthier, more sustainable, and in the end, cheaper lifestyle.
 
@@ -53,7 +53,7 @@ Personal health too means several things: diet, exercise, hygiene, emotional sta
 
  
 
-## Why I created this blog:
+## Why I created this blog
 
 As a kid, I was active and excited by nature. I also grew up in a rural part of the mountains, which lead me to have a natural respect for the environment. But in my teens and early 20’s I started thinking more deeply about my individual impact on my surrounding environment. And how I could make changes to my daily habits that could reduce my impact. This feeling heightened the more I tuned into the world around me.
 
@@ -71,8 +71,8 @@ Being conscious of one’s decisions, I believe, reduces your consumption, waste
 
  
 
-### A couple notes that I feel the need to address as I write this:
+### A couple notes that I feel the need to address as I write this
 
-1. When reading this, it’s easy to think I’m saying that the time we are living in now is the worst it’s ever been. However, in reality, I think it’s over-aggrandizing to say that as I’m sure every generation can point to contemporary events of the same nature. Instead, I hope to relate that current events and forecasts concern me. And this makes me hyper aware of the choices I make and what I can do to help others if they choose to approach this lifestyle similarly. 
+1. When reading this, it’s easy to think I’m saying that the time we are living in now is the worst it’s ever been. However, in reality, I think it’s over-aggrandizing to say that; I’m sure every generation can point to contemporary events of the same nature. Instead, I hope to relate that current events and forecasts concern me. And this makes me hyper-aware of the choices I make and what I can do to help others if they choose to approach this lifestyle similarly. 
 
 2. I’ve had discussions over the years with multiple people about how the problems of today are not an individual’s problems to solve – they are the companies, governments, corporations, etc. that have created oceans of wasteland and promoted over-consumption through psychological manipulation and unfair commercial practices (among others) on such a massive scale that it would be impossible to make a difference. While I agree that as an individual, I’m not going to move the needle enough, I still hope to promote a lifestyle where I don’t support policy decisions or products that perpetuate these problems. Don't let best be the enemy of better. Best would be the companies paying retribution for their greed. But better, is what I'm able to do, which helps even on the smallest of scales. In a way, I’m voting with my dollar, but in the end I'm voting with my lifestyle. 

@@ -2,6 +2,8 @@
 title: About Blaire Hobbs
 subtitle: And about this blog
 layout: page
+toc: true
+toc_title: About Table of Contents
 show_sidebar: true
 ---
 

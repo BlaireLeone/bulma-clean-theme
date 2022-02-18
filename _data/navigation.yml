@@ -1,12 +1,12 @@
 - name: Series
-  link: /#
+  link: /
   dropdown:
     - name: Past Articles
       link: /past-articles-page/
     - name: Book Reviews
       link: /book-reviews-page/
     - name: Plant Newsletter
-      link: /plant-newsletter-content-menu/
+      link: /plant-newsletter-page/
 - name: About
   link: /about-page/
 - name: Blog

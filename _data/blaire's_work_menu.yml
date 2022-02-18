@@ -1,0 +1,12 @@
+- label: Blaire's work
+  items:
+    - name: Series
+      items:
+        - name: Past Articles
+          link: /past-articles-page/
+        - name: Book Reviews
+          link: /book-reviews-page/
+        - name: Plant Newsletter
+          link: /plant-newsletter-page/
+    - name: Blog
+      link: /blog/

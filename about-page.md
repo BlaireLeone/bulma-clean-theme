@@ -23,7 +23,7 @@ Finally, my favorite activity is beach volleyball. After living by the ocean, I 
 
 About this blog - 
 
-I hope to use my experience, knowledge, and enthusiasm to providing healthy and sustainable solutions for the conscious consumers - making decisions and building habits that allow individuals to sustain a healthier, more sustainable, and in the end, cheaper lifestyle.
+I hope to use my experience, knowledge, and enthusiasm to guide the everyday conscious consumer - making decisions and building habits that allow individuals to sustain a healthier, more sustainable, and in the end, cheaper lifestyle.
 
 In the past few years, I have become very health and sustainability conscious. I have always been the frugal type, having been raised by financially scrupulous parents. In college, I became aware of the fact that most of my frugal habits were incidentally also sustainable and, in some respects, healthy. For instance, bringing my own bags to the store, avoiding take-out, reusing jars and containers, etc. 
 

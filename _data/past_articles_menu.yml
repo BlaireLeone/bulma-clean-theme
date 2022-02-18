@@ -1,11 +1,10 @@
 - label: Blaire's work
   items:
     - name: Past Articles
-      link: /#
       items:
         - name: When the Bears Come Marching In
           link: /when-the-bears-come-marching-in/
         - name: Autonomous Vehicles
-          link: /page-2/
+          link: /autonomous-vehicles-and-bikes/
     - name: Blog
       link: /blog/

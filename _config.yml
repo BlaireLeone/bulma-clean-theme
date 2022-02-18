@@ -70,11 +70,11 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+footer_menu: footer_menu
 
 collections:
   products: 
     output: true
-    layout: product
+    layout: page
     image: https://via.placeholder.com/800x600
     show_sidebar: false

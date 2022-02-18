@@ -1,7 +1,7 @@
 ---
-title: Page with menubar
-subtitle: Demo page with a menubar
+title: Botanical Store Content
+subtitle: Weekly articles I wrote for a botanical store newsletter
 layout: page
 show_sidebar: false
-menubar: plant-newsletter-content-menu
+menubar: plant-newsletter-menu
 ---

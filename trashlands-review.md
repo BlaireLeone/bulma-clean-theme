@@ -3,7 +3,7 @@ layout: page
 title: Trashlands Review
 subtitle: by Alison Stine
 toc: true
-toc_title: Trashlands Table of Contents
+toc_title: Content
 menubar: book_reviews_menu
 show_sidebar: false
 ---

@@ -2,10 +2,10 @@
   link: /#
   dropdown:
     - name: Past Articles
-      link: /page-3/
+      link: /past-articles-page/
     - name: Book Reviews
       link: /Book-reviews-menu/
-    - name: Plant Newsletter Content
+    - name: Plant Newsletter
       link: /plant-newsletter-content-menu/
 - name: About
   link: /test/

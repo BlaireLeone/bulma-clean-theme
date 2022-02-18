@@ -21,17 +21,17 @@ Finally, my favorite activity is beach volleyball. After living by the ocean, I 
 
  
 
-About this blog-
+About this blog - 
 
-In the past few years, I have become very health and sustainability conscious (more on what those mean to me later). I have always been the frugal type, having been raised by financially scrupulous parents. In college, I became aware of the fact that most of the frugal habits I had were incidentally also sustainable and, in some respects, healthy. For instance, bringing my own bags to the store, avoiding take-out, reusing jars and containers, etc. 
+I hope to use my experience, knowledge, and enthusiasm to providing healthy and sustainable solutions for the conscious consumers - making decisions and building habits that allow individuals to sustain a healthier, more sustainable, and in the end, cheaper lifestyle.
 
-I was raised with a lifestyle very similar to the one I currently have, so in many ways I am just promoting my parent’s lifestyle. But previously, I never had reasons for my habits – I mostly did them, because it didn’t occur to me to do anything else.
+In the past few years, I have become very health and sustainability conscious. I have always been the frugal type, having been raised by financially scrupulous parents. In college, I became aware of the fact that most of my frugal habits were incidentally also sustainable and, in some respects, healthy. For instance, bringing my own bags to the store, avoiding take-out, reusing jars and containers, etc. 
 
-My journey to this blog was a gradual interrogation of these habits. Was this the best version of this habit? The healthiest, the most sustainable? How can I make this habit easier for myself? For others? 
+I was raised with a lifestyle very similar to the one I currently have, so in many ways I am just promoting my parent’s lifestyle. But previously, I never had reasons for my habits – I mostly did them, because it didn’t occur to me not to.
 
-I now seek to live by healthy, sustainable, and ethical values; but I also see myself as a student of these values - I am constantly meta-analyzing what is healthy or sustainable and considering how to improve. And because I have a long-term partner who is supportive of my goals, I have to make them approachable for him as well.
+My journey to this blog was a gradual awakening, as day after day I became aware of habits I didn't realize I had, or didn't realize had such an impact on mine and the environment's health. After meta-analyzing my choices time and again, I tried to determine the most ethical version of my decisions. I searched for healthier solutions and habits that least impact (and hopefully support) my personal health and the environment at large. 
 
-I hope to use my experience, knowledge, and enthusiasm to help others become conscious consumers, making decisions and building habits that allow them to have a healthier, more sustainable, and in the end, cheaper lifestyle.
+I'm constantly learning, about myself and the surrounding the world. And new research to the field provides even more insight and opportunities for growth. Through this blog, I'll share what I've learned and along the way, provide in-depth reporting on complex nuanced topics to explain my decisions. I hope this information can help others become conscious consumers - from beginners to those who have maintained these habits for years.
 
  
 
@@ -73,4 +73,4 @@ A couple notes that I feel the need to address as I write this:
 
 1. When reading this, it’s easy to think I’m saying that the time we are living in now is the worst it’s ever been. However, in reality, I think it’s over-aggrandizing to say that as I’m sure every generation can point to contemporary events of the same nature. Instead, I hope to relate that current events and forecasts concern me. And this makes me hyper aware of the choices I make and what I can do to help others if they choose to approach this lifestyle similarly. 
 
-2. I’ve had discussions over the years with multiple people about how the problems of today are not an individual’s problems to solve – they are the companies, governments, corporations, etc. that have created oceans of wasteland and promoted over-consumption through psychological manipulation and unfair commercial practices (among others) on such a massive scale that it would be impossible to make a difference. While I agree that as an individual, I’m not going to move the needle on the extent of waste and over-consumption, I still hope to promote a lifestyle where I don’t support policy decisions or products that perpetuate these problems. In a way, I’m voting with my dollar, but in the end I'm voting with my lifestyle.
+2. I’ve had discussions over the years with multiple people about how the problems of today are not an individual’s problems to solve – they are the companies, governments, corporations, etc. that have created oceans of wasteland and promoted over-consumption through psychological manipulation and unfair commercial practices (among others) on such a massive scale that it would be impossible to make a difference. While I agree that as an individual, I’m not going to move the needle enough, I still hope to promote a lifestyle where I don’t support policy decisions or products that perpetuate these problems. Don't let best be the enemy of better. Best would be the companies paying retribution for their greed. But better, is what I'm able to do, which helps even on the smallest of scales. In a way, I’m voting with my dollar, but in the end I'm voting with my lifestyle. 

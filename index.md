@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Healthy Habits for the Conscious Consumer
-subtitle: Tips and tricks for healthy lifestyle changes
+subtitle: How to build healthy habits and promote sustainable solutions 
 hero_height: is-medium 
-hero_image: /path/to/image.jpg`
 callouts: home_callouts
 show_sidebar: true
 ---

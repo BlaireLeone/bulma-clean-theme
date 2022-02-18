@@ -8,9 +8,15 @@ items:
 	This a blog about building healthy habits and finding sustainable solutions in your daily life
     call_to_action_name: Go to Blog
     call_to_action_link: /blog/
+
   - title: Porfolio
     subtitle: View Blaire's past work
     icon: fa-copy
+    description: >
+	Blaire has written for a variety of venues
+    call_to_action_name: View Portfolio
+    call_to_action_link: blaire's_work_page
+
   - title: About Blaire
     subtitle: View Blaire's background and personal interests
     icon: fa-github

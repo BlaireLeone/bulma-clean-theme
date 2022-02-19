@@ -18,7 +18,7 @@ Character-driven and evocative, but plot-shallow with flimsy world-building
 
 Seems perfect for: someone looking for mood and neighborhood immersion, but not for someone looking for action, complex plot, or air-tight world building
 
-Genre: Sci-Fi, Cli-fi, human interest, speculative fiction, 
+Genre: Sci-Fi, Cli-fi, human interest, speculative fiction
 
 Pages: 384 
 

@@ -13,11 +13,11 @@ items:
     icon: fa-copy
     description: >
     call_to_action_name: View Portfolio
-    call_to_action_link: /blaires_work_page/
+    call_to_action_link: /blaires-work-page/
 
   - title: About Blaire
     subtitle: Scroll down to learn more about Blaire
     icon: fa-github
     icon_brand: true
     call_to_action_name: Resume/CV
-    call_to_action_link: /resume_cv_page/
+    call_to_action_link: /resume-cv-page/

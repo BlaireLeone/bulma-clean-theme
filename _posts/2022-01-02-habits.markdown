@@ -10,18 +10,56 @@ tags: habits fast slow Daniel-Kahneman
 series: habits_series
 ---
 
-**Weekly Spotlight: Processing Herbs**
-![img](https://lh4.googleusercontent.com/GsykRrvTrjwCWfYERkez_zxGROiJqFbfghIIDheXeEpri6pYjDfrhfUc-2FpaE5PtycWKTeKPigAzaEZ6howntu_LaOKI2MMTaKpasJJJY5rG0pFULxsI5d7Fx-LtqWs2YZkwkcA)
-Many people ask us how we process our herbs in such large quantities. Most of our herbs are dropped off from local farms or foragers - for these we may only need to go dry, garble, and store the herbs (see below), but here’s a brief overview of how HAALo processes large patches of herbs. But it works for smaller ones too if you want to follow these steps! 
-*Harvesting* - This refers to taking cuttings from live plants, which can take some time when gathering large quantities. There are many details to note when harvesting that may affect how much you collect, from size, to color, to seasonality. Furthermore, when collecting, we always keep in mind how much of each herb we need. Peppermint for instance, is a light, bulky, inexpensive herb, useful for many treatments, thus we gather a lot each time. Chrysanthemum, however, is more expensive, and less widely used, thus, we gather much less. 
-It’s useful when collecting, to use specialized pruning shears, and to bring a large basket with a wide mouth for laying the herbs down relatively flat and uncrumpled. They should also be facing the same way and grouped, to make them easier to grab together. Lastly, when cutting each plant, be sure to make a generous enough cutting that it will be easy to bundle them, but don’t leave enough stem (a few inches should do) so it continues to grow for future harvests.
+Friction, a concept most people are familiar with from one science class or another, is also term from behavioral economics, which can largely be thought of as a subfield of both psychology and economics.
 
-*Bundling* - This is the process of gathering the herbs into small bouquets. Make sure to have string or twine on hand. You can also use rubber bands, though we don’t prefer them since the constriction can damage the herbs while they are drying. Some herbs are hard to differentiate once dried so it also may be useful to create name tags, with stickers or holepunched paper. 
-To bundle, grab a handful of your plant by the stems. Depending on the plant, the handful could be the size of a quarter to the size of a small coaster. Make sure the cuts are all about the same length. While avoiding as many leaves as possible, tie the string (or loop the rubber band) tight enough around the stems so they hold together in a small bouquet. And attach the name tag if using.
-Drying - this is the easiest part! Find a dry shaded spot around your house to hang the herbs up-side-down. Check on them every few days to see if they are dry. Don’t leave them too long or they won’t retain their nutrients or color. And try not to leave them in the sun, as this will fade the color. Garbling - this refers to the practice of rolling dried bundles of herbs over a wire mesh screen to separate the leaves from the stems. This practice is especially popular with herbalists who dry and harvest and process herbs in large quantities because it’s more efficient than picking leaves by hand. Since the leaves are the most medicinally concentrated, most herbalists don’t want to dilute their treatments with stems, which won’t offer as many medicinal nutrients.
-![img](https://lh5.googleusercontent.com/Na7qjqeg7VLYpJeor71Qu8-rru8xkNkZrLVAdWAV6wNPHVNMEKvnO8ADZb4L66hIlIkpmuXTCkD_qjctbEXSR5lTAkSDOKipBpagO6JsBqZdmybkDnP3Gwk3gkuuiKbvM0OZG3S7)
-Laying a mesh wire screen flat over a hollow surface, an herbalist will roll a bundle of herbs over the screen. In just a couple minutes, the leaves will rub off and fall through the screen, leaving the long stems perfectly intact.
-An herbalist can use different sized screens depending on how big they want their herb pieces to be, and can garble several herbs at the same time for an already mixed tea!
-*Storing* - Once garbled, we store our herbs in mason jars - though any airtight containers, will do for the freshest taste and most medicinal value.
-![img](https://lh4.googleusercontent.com/P53bDzx14Iy1KZdXz7ggvZzbUYj5YNgVVChpIoiwkYieEo-48KSujcxDQKw5vS5s5zpwv5oLKFFT5toZ3O-k2aIhLkxgtJJGO2jH-H-I3Z-6aatDM9wf7I4EQrDu0G2693nAbuJT)
-If you want to know more, check out [this video](https://www.youtube.com/watch?v=0TdvtQeF3_I) and [this video](https://www.youtube.com/watch?v=LHuVNPWE044) featuring our very own Shea Smith for a more detailed look at herb processing via mint and rosemary. Or come by the shop and speak to one of our specialists.
+In general, **behavioral economics** examines human behavior and decision-making. While more of a psychological science in practice, it is also considered an economic discipline for how individual decision-making affects broader socio-economic trends. For instance, behavioral economists might study the proportion of people that bought this particular product compared to another, and why? Or what made this insurance plan, or that gym membership more popular. While behaviorists are curious about particular decisions, they are more accurately curious about what made this decision so appealing out of the array of decisions available. Why did they choose an Apple product or Samsung or Motorola? 
+
+Most behaviors seem obvious and therefore deliberate: affirming strongly held beliefs - like the decision to attend a place of worship (if you have a particular faith) or the decision to join an extraterrestrial book club (if you believe in aliens); performing a practical or efficient task – like doing your laundry because you ran out of clean underwear or taking the train to work because it’s faster than driving. 
+
+Nobel Prize winning psychologist Daniel Kahneman, however, has a new perspective (spoiler alert: it changed how we view psychology and behavioral economics forever). In his book, Thinking Fast and Slow, he posits that our thinking, and more than that, our behavior, operates on two settings: slow and fast. 
+
+**Slow thinking** refers to decisions requiring consideration, deconstruction, or analysis. It can range from simple thought to deep deliberation. You might be navigating somewhere you’ve never been before, or answering a complex question. You might be learning a new instrument and carefully considering where to place your fingers. These actions generally take more time and brain power, but are necessary for navigating the surrounding world.
+
+**Fast thinking**, on the other hand, applies to decisions that are automatic and require little to no thought to motivate us. They are subconscious or intuitive - we have done them for so long we do them unthinkingly or we do them because of *gut instinct* – a principle not known for its scientific rigor, yet still behaviorally meaningful. This is not to say that we are being lazy; it would be impossible to think critically about every decision and movement every day – especially for activities like walking, breathing, speaking, or even putting your shoes and socks on (are you a left foot first kind of person or a right one?). Some things need to be automatic to free up space for other things that require more thought. In a way, you could call this task prioritization. 
+
+But thinking fast is where our habits catch up with us. According to James Clear, author of Atomic Habits, habits are small decisions you make and actions you perform every day. In fact, some researchers think they make up about 40% of our daily behaviors.[[1\]](#_ftn1) Habits are fast thinking and thus mostly intuitive. Much like Pavlov’s drooling dogs[[2\]](#_ftn2), habits occur on impulse. 
+
+Friction
+
+So where does friction come in? ***Friction\*** refers to the factors that make it harder to accomplish our desired goals[[3\]](#_ftn3) or demotivate us from habits we otherwise would pursue. It might be obvious, but the easier a task, or the less steps involved, the more likely we are to do it.
+
+When we make a decision to do something, but are unable to follow through, it is often friction that swoops in at the 11th hour and hinders our efforts. More than that, friction is invisible, or else, we do not consciously register when friction impedes us - it just happens. And because we are not thinking critically about our actions when friction affects them, it is our fast, and thus automatic, thinking friction impacts. Like the physical friction that slows objects down, behavioral friction makes it just a little more difficult to achieve habits we desire.
+
+What does friction look like? And how does it affect our lives?
+
+Friction can be many things. It can be the chocolate that lives on the top shelf of your cupboard, it can be the extra step of needing to look up an address to get to an appointment. It can also be sleeping in your workout clothes.
+
+Friction plays two roles in our efforts to build new habits: increasing or reducing.
+
+1.)  Increasing 
+
+a.   In the case of the high-up chocolate, we might not take it because it would take too much effort to grab. By keeping bars in an out-of-the-way place, one that might require additional effort to get to, you have created an extra step that requires extra effort. It’s not as easy as before. While you might still be motivated to grab a stool or a chair and eat the chocolate anyway - now you have to strategize, which could demotivate at least some of the times you’re just feeling snacky or bored. 
+
+2.)  Reducing:
+
+a.    In the case off the appointment, you might be less motivated to go if you don’t know where you’re going at the time. Friction in this case, is needing to look up the address. But if you had the address given to you, or automatically programmed into your phone, it removes one step from the process and makes it slightly easier to achieve this goal.
+
+b.   Finally, if you’re looking to implement a running habit, but finding it difficult to start, try sleeping in your workout clothes. Often the thought of getting up early and changing when you’re cold and groggy doesn’t seem worth it. You’ll try tomorrow. Getting up and changing is your friction. But by putting your running clothes on the night before, you’ve eliminated a crucial demotivating step and now you only need to get up.
+
+Companies, too, take friction into consideration when marketing their products and ensuring you buy. It’s in their best interest that you continue purchasing, and it’s a common practice now for company websites to ask if you would like to save your card information – they, like you, would rather you not have to get up for your wallet. Thus, by identifying and eliminating friction, they can profit.
+
+And individuals can do the same. By reading your habits and behaviors, you can understand where friction comes in and what it looks like. 
+
+friction plays two roles in our efforts to build new habits. In the case of the chocolate, you have increased the friction – or else made it harder to accomplish. On the other hand, for both the doctor’s appointment and running, you reduced friction – or made them easier to accomplish.
+
+If you’re looking to make changes, consider if you need to reduce or increase friction. From there, you can set goals and work at them by adjusting your friction. 
+
+
+
+------
+
+[[1\]](#_ftnref1) [Habits Guide: How to Build Good Habits and Break Bad Ones (jamesclear.com)](https://jamesclear.com/habits)
+
+[[2\]](#_ftnref2) Insert footnote
+
+[[3\]](#_ftnref3) Check out [this fantastic episode](https://hiddenbrain.org/podcast/work-2-0-the-obstacles-you-dont-see/) from the podcast Hidden Brain, which discusses the relationship between friction and fuel, and provides some fascinating real world examples to contextualize this concept.

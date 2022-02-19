@@ -2,7 +2,7 @@
 title: 
 subtitle: 
 layout: page
-toc: true
+menu_toc: true
 toc_title: Contents
 show_sidebar: false
 hide_hero: true

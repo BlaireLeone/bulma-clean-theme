@@ -23,37 +23,35 @@ Nobel Prize winning psychologist Daniel Kahneman, however, has a new perspective
 
 #### Slow Thinking 
 
-Slow thinking refers to decisions requiring consideration, deconstruction, or analysis. It can range from simple thought to deep deliberation. You might be navigating somewhere you’ve never been before, or answering a complex question. You might be learning a new instrument and carefully considering where to place your fingers. These actions generally take more time and brain power, but are necessary for navigating the surrounding world.
+**Slow thinking** refers to decisions requiring consideration, deconstruction, or analysis. It can range from simple thought to deep deliberation. You might be navigating somewhere you’ve never been before, or answering a complex question. You might be learning a new instrument and carefully considering where to place your fingers. These actions generally take more time and brain power, but are necessary for navigating the surrounding world.
 
 #### Fast Thinking
 
-Fast thinking, on the other hand, applies to decisions that are automatic and require little to no thought to motivate us. They are subconscious or intuitive - we have done them for so long we do them unthinkingly or we do them because of *gut instinct* – a principle not known for its scientific rigor, yet still behaviorally meaningful. This is not to say that we are being lazy; it would be impossible to think critically about every decision and movement every day – especially for activities like walking, breathing, speaking, or even putting your shoes and socks on (are you a left foot first kind of person or a right one?). Some things need to be automatic to free up space for other things that require more thought. In a way, you could call this task prioritization. 
+**Fast thinking**, on the other hand, applies to decisions that are automatic and require little to no thought to motivate us. They are subconscious or intuitive - we have done them for so long we do them unthinkingly or we do them because of *gut instinct* – a principle not known for its scientific rigor, yet still behaviorally meaningful. This is not to say that we are being lazy; it would be impossible to think critically about every decision and movement every day – especially for activities like walking, breathing, speaking, or even putting your shoes and socks on (are you a left foot first kind of person or a right one?). Some things need to be automatic to free up space for other things that require more thought. In a way, you could call this task prioritization. 
 
 But thinking fast is where our habits tend to catch up with us. According to James Clear, author of Atomic Habits, habits are small decisions you make and actions you perform every day. In fact, some researchers think they make up about 40% of our daily behaviors.[[1\]](#_ftn1) Habits are fast thinking and thus mostly intuitive. Much like Pavlov’s drooling dogs[[2\]](#_ftn2), habits occur on impulse. 
 
 ## Friction
 
-So where does friction come in? **Friction** refers to the factors that make it harder to accomplish our desired goals[[3\]](#_ftn3) or demotivate us from habits we otherwise would pursue. It might be obvious, but the easier a task, or the less steps involved, the more likely we are to do it. Which involves more steps -elevator or staircase? Friction is our staircase. Like the physical friction that slows objects down, behavioral friction makes it just a little more difficult to achieve behaviors we desire.
+So where does friction come in? **Friction** refers to the factors that make it harder to accomplish our desired goals[[3\]](#_ftn3) or demotivate us from habits we otherwise would pursue. It might be obvious, but the easier a task, or the less steps involved, the more likely we are to do it. For instance, which involves more steps - elevator or staircase? Friction is our staircase [[4\]](#_ftn4) Like the physical friction that slows objects down, behavioral friction makes it just a little more difficult to achieve behaviors we desire. 
 
 When we make a decision to do something, but are unable to follow through, it is often friction that swoops in at the 11th hour and hinders our efforts. The worst part? We don't consciously register when friction impedes us - it just happens. Ever wanted to stop at the grocery store on your way home, but the parking lot was full? So you think, "I'll do it tomorrow!" Friction strikes again.
 
 Because we are not thinking critically about our actions when friction affects them, it is our fast, and thus automatic, thinking impacted. More than that, our habits - the little daily behaviors we may not realize we have - may be defined by friction.  This in part, informs why implementing new habits, or overriding old ones, can be so difficult. 
 
+Friction, however, is not just a negative force - it can also assist us.
+
 #### So how does friction work?
 
 Friction plays two roles in our efforts.
 
-##### 1.)  Increasing: 
+**1.)  Increasing:**  We can use friction to our advantage when trying to demotivate a behavior by consciously increasing friction - or making it harder to pursue that habit.
 
-We can demotivate a behavior by consciously increasing friction - or making it harder to pursue that habit.
+If you have a chocolate or candy affinity, placing it on the top shelf of your cupboard can help in your efforts to ditch the habit. It accomplishes two things. 1.) The candy is out of sight, thus when you're feeling snacky or bored, you might not instinctively grab for it. 2.) By keeping it out of reach, it's more difficult to get to. You might not want it because it would require additional effort to get to. You have created a staircase when previously you had an elevator.
 
-If you have a chocolate or candy affinity, placing it on the top shelf of your cupboard can help in your efforts to ditch the habit. It accomplishes two things. 1.) The candy is out of sight, thus when you're feeling snacky or bored, you might not instinctively grab for it. 2.) By keeping it out of reach, it's more difficult to get to. You might not want it because it would require additional effort to get to. You have created an extra step that requires extra effort.
+**2.)  Reducing:** We can motivate other behaviors by reducing the frictions around them - or finding ways to make these habits easier.
 
-##### 2.)  Reducing:
-
-We can motivate other behaviors by reducing our frictions - or finding ways to make these habits easier.
-
-If you’re looking to implement a running habit, but finding it difficult to start, try sleeping in your workout clothes. Often the thought of getting up early and changing when you’re cold and groggy doesn’t seem worth it. You’ll try tomorrow. The 'getting up' to 'changing' process is your friction. But by putting your running clothes on the night before, you’ve eliminated a crucial demotivating step and now you only need to get up!
+Trying to eat more fruits and veggies instead of chocolate and candy? Try prepping your fruits and veggies ahead of time. Cut them into smaller peices and keep them in a tupperware. This makes the veggies more snackable and appealing and thus makes you more inclined to eat them when you're feeling snacky or maybe prepping other meals.
 
 
 
@@ -74,3 +72,5 @@ If you’re looking to make changes, consider if you need to reduce or increase 
 [[2\]](#_ftnref2) Insert footnote
 
 [[3\]](#_ftnref3) Check out [this fantastic episode](https://hiddenbrain.org/podcast/work-2-0-the-obstacles-you-dont-see/) from the podcast Hidden Brain, which discusses the relationship between friction and fuel, and provides some fascinating real world examples to contextualize this concept.
+
+[[4\]](#_ftnref4) Just to be clear - I'm not advocating for not taking the stairs!

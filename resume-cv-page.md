@@ -10,7 +10,7 @@ hide_hero: true
 
 
 
-## Professional Experience    
+## <u>Professional Experience</u>    
 
 ​	
 
@@ -112,7 +112,7 @@ Coordinated and trained diverse group of volunteers for all festival tasks.
 
 ​	
 
-## Academic Work Experience
+## <u>Academic Work Experience</u>
 
 ​	
 
@@ -140,7 +140,7 @@ Awarded **Best Student Teacher in Psychology Award** for excellence in teaching 
 
 ​	
 
-## Education    
+## <u>Education</u>    
 
 ​	
 

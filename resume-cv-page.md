@@ -146,7 +146,7 @@ Awarded **Best Student Teacher in Psychology Award** for excellence in teaching 
 
 #### Certificate in ArcGIS  • *Coursera Online Courses and Credentials via instruction from UC Davis •* Remote
 
-##### March, 2020 
+**March, 2020** 
 
 Created maps of California watersheds and CA Prop 37 electorate distributions
 
@@ -154,7 +154,7 @@ Created maps of California watersheds and CA Prop 37 electorate distributions
 
 #### B.S. in Cognitive Science  • *University of California Santa Cruz •* *Santa Cruz, CA*  
 
-##### August, 2019
+**August, 2019**
 
 **Honors** 2019 Dean’s List • Academic *Honors Program •*  3.74 GPA
 
@@ -172,25 +172,25 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 ------
 
-**Editing**  •  *Journal of Media Literacy Education*  • *Remote*
+#### **Editing**  •  *Journal of Media Literacy Education*  • *Remote*
 
-##### September 2021 - Present 
+**September 2021 - Present** 
 
 I work remotely  with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
 
 ​	
 
-**Beach Clean-ups**  •  *Save Our Shores* • *Santa Cruz, CA*
+#### **Beach Clean-ups**  •  *Save Our Shores* • *Santa Cruz, CA*
 
-##### 2014 – 2021
+2014 – 2021
 
 I combed beaches once a month and picked up trash with *Save Our Shores,* a nonprofit in Santa Cruz, CA. I also organized my own beach clean-ups with friends and volunteers.
 
 ​	
 
-**Gardening**  •  *UCSC Arboretum* • *Santa Cruz, CA*
+#### **Gardening**  •  *UCSC Arboretum* • *Santa Cruz, CA*
 
-##### SUMMER 2018
+SUMMER 2018
 
 During the summer, I volunteered twice a week with the UCSC Arboretum in Santa Cruz, CA to help with weeding, planting, watering, and transporting of soil and compost.
 

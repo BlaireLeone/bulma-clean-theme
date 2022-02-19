@@ -5,18 +5,19 @@ items:
     subtitle: Discussing healthy habits and sustainable solutions
     icon: fa-space-shuttle
     description: >
-    call_to_action_name: Go to Blog
+    call_to_action_name: View Blog
     call_to_action_link: /blog/
 
   - title: Porfolio
     subtitle: View Blaire's past work
     icon: fa-copy
     description: >
-      Blaire has written for a variety of venues
     call_to_action_name: View Portfolio
     call_to_action_link: /blaires_work_page/
 
   - title: About Blaire
-    subtitle: View Blaire's background and personal interests
+    subtitle: Scroll down to learn more about Blaire
     icon: fa-github
     icon_brand: true
+    call_to_action_name: Resume/CV
+    call_to_action_link: /resume_cv_page/

@@ -197,7 +197,7 @@ AUGUST 2019
 
   After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
 
-- **Meryll Grant**: 
+- **Meryll Grant**
 
   I was awarded the Meryll Grant for all four years for excellent academic standing.
 
@@ -209,7 +209,7 @@ AUGUST 2019
 
 #### **Editing**  •  *Journal of Media Literacy Education*  • *Remote*
 
-**September 2021 - Present** 
+SEPTEMBER 2021 - PRESENT
 
 - I work remotely  with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
 

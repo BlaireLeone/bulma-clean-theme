@@ -58,9 +58,13 @@ The story architecture lacked plot depth and character development, and the plot
 
 #### ***Plot***
 
-First Half: The plot has a very faint heartbeat. It generally gets rolling with the arrival of Miami, a reporter from the city, who comes under the guise of covering the local community, but he instead is looking for something of his sister’s, which he believes to be lost in the trash heaps. He hires Coral to guide him and direct his search. However, that’s it. They briefly search, find nothing, and that is the end of that storyline. Miami stays however and follows Coral and her friends when they make a trip down the road to another community, but it’s clear that Miami’s character exists only to drive the plot around Coral. 
+First Half:
 
-Last half: After discovering the existence of her son nearby, Coral decides to dance at the strip club. This was previously a repulsive thought, but the price for her son is a running car, and Rattlesnake Master is the only one with diesel. The terms of his trade? Coral dances for him and she gets her oil.
+ The plot has a very faint heartbeat. It generally gets rolling with the arrival of Miami, a reporter from the city, who comes under the guise of covering the local community, but he instead is looking for something of his sister’s, which he believes to be lost in the trash heaps. He hires Coral to guide him and direct his search. However, that’s it. They briefly search, find nothing, and that is the end of that storyline. Miami stays however and follows Coral and her friends when they make a trip down the road to another community, but it’s clear that Miami’s character exists only to drive the plot around Coral. 
+
+Last half: 
+
+After discovering the existence of her son nearby, Coral decides to dance at the strip club. This was previously a repulsive thought, but the price for her son is a running car, and Rattlesnake Master is the only one with diesel. The terms of his trade? Coral dances for him and she gets her oil.
 
 Coral dances, and presumably to protect her honor and help her save face, Miami buys all the seats in the club so no one has to watch her dance. He then leaves Trashlands to head back to the city. Coral and her partner Trillium drive off in the bus they’ve been calling home to trade it in for her son. At the end of the novel, she runs into her son on the road, after he and a friend break free from the factory.
 

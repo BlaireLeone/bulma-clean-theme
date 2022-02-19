@@ -3,7 +3,7 @@
     - name: Plant Articles
       items:
         - name: Herb Processing
-          link: /page-1/
+          link: /processing-herbs/
         - name: Albizia
           link: /albizia/
     - name: Blog

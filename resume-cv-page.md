@@ -255,6 +255,8 @@ I earned a certificate in ArcGIS through Coursera where I developed maps to comp
 
 ## Activities      
 
+------
+
 **Food**  Plant-Based Cooking and Baking • Fermenting • Maintaining a Small Garden      
 
 **Outdoor Activities**  Hiking and Camping • Volleyball • Cycling  

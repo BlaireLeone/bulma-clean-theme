@@ -16,7 +16,7 @@ hide_hero: true
 
 #### Freelance Writer and Editor *•* *Remote*   
 
-**2017 – present** 
+2017 – PRESENT 
 
 - Authors articles: currently under review for publication with *High Country News*, *Tech Policy Press*, and *The Sun Magazine*, including pieces on how climate change affects human-wildlife relationships, bicycle and autonomous vehicle interactions, and using behavioral economics to build sustainable habits.
 
@@ -32,7 +32,7 @@ hide_hero: true
 
 #### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
 
-**June 2021 - present**  
+JUNE 2021 - PRESENT
 
 - Conducts interviews for  video series on propaganda: pitches stories, receives assignments, sources professionals and academics, researches extensively, drafts questions, interviews experts in 1–2-hour interviews.  
 
@@ -60,7 +60,7 @@ FALL 2020
 
 #### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
 
-2017 – March 2020
+2017 – MARCH 2020
 
 - Responsible for keeping up-to-date on local seafood and seasonal foods, restaurant food preparation techniques, and rotating menu to advise customers on meal options.
 
@@ -121,7 +121,7 @@ FALL 2020
 
 #### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
 
-Spring - Summer 2019 
+SPRING - SUMMER 2019 
 
 - Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
 
@@ -134,7 +134,7 @@ Spring - Summer 2019
 
 #### Psychology and Writing Instructor *• University of California Santa Cruz* *•* *Santa Cruz, CA* 
 
-Spring 2019
+SPRING 2019
 
 - Taught  25 students the foundations of psychology: translated complex information from textbooks and academic writing, developed curriculum, designed lesson plans, created PowerPoints and worksheets for bi-weekly lectures. 
 
@@ -159,7 +159,7 @@ MARCH 2020
 
 #### B.S. in Cognitive Science  • *University of California Santa Cruz •* *Santa Cruz, CA*  
 
-**August 2019**
+AUGUST 2019
 
 - Linguistics Concentration
 
@@ -178,21 +178,28 @@ MARCH 2020
 #### **Honors**	
 
 - **Academic Honors Program** 
-  -   I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university
+
+  I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university
 
 - **3.74 GPA**   
-  - I maintained above a 3.5 GPA and graduated with a 3.74 GPA
+
+  I maintained above a 3.5 GPA and graduated with a 3.74 GPA
 
 - **2019 Dean's list**   
-  - I was listed on the 2019 Dean's list for excellence in maintaining high grades
+
+  I was listed on the 2019 Dean's list for excellence in maintaining high grades
 
 ​	
 
 #### **Awards**
 
-- **Best Student Teacher in Psychology Award**: After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
+- **Best Student Teacher in Psychology Award**
 
-- **Meryll Grant**: I was awarded the Meryll Grant for all four years for excellent academic standing.
+  After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
+
+- **Meryll Grant**: 
+
+  I was awarded the Meryll Grant for all four years for excellent academic standing.
 
 ​		
 

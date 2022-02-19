@@ -4,7 +4,7 @@ subtitle: And about this blog
 layout: page
 toc: true
 toc_title: Contents
-show_sidebar: true
+show_sidebar: false
 hide_hero: true
 ---
 
@@ -12,7 +12,7 @@ hide_hero: true
 
 ## Professional Experience    
 
-
+​	
 
 #### Freelance Writer and Editor *•* *Remote*   
 
@@ -28,7 +28,7 @@ Edited first-person commentary on benefits of local water system infrastructural
 
 
 
-
+​	
 
 #### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
 
@@ -42,7 +42,7 @@ Edits audio from interviews for upcoming podcast on disinformation and propagand
 
 Participates in weekly team meetings to discuss ongoing and future projects.  
 
-
+​	
 
 
 
@@ -56,7 +56,7 @@ Copyedited formatting, selected images, and created headlines.
 
 
 
-
+​	
 
 #### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
 
@@ -68,7 +68,7 @@ Collaborated and communicated with diverse personalities across customers and re
 
 Waited on 7+ tables a night: prioritized tasks; maintained attention to detail. 
 
-
+​	
 
 #### Herbal Apprentice and Newsletter Writer *• HAALo Botanicals •* *Nevada City, CA*  
 
@@ -82,7 +82,7 @@ Shadowed herbalists: studied plant physiology and nutrition, plant cultivation, 
 
 Worked at local farms and personal gardens: planted, watered, tended, and harvested fruits, vegetables, and seasonal plants.  
 
-
+​	
 
 #### Book Sales Associate *• The Bookseller •* *Grass Valley, CA*
 
@@ -90,7 +90,7 @@ Worked at local farms and personal gardens: planted, watered, tended, and harves
 
 Read extensively and studied existing books and best sellers, new authors, and literary trends to assist customers with book choices.
 
-
+​	
 
 #### Event Coordinator *• Miners Foundry Cultural Center •* *Nevada City, CA*
 
@@ -98,7 +98,7 @@ Read extensively and studied existing books and best sellers, new authors, and l
 
 Coordinated event details with artists, bands, and festival coordinators such as dates, arrival, equipment, and ticketing.
 
-
+​	
 
 #### Assistant Festival Director *• Nevada City Film Festival* *•* *Nevada  City, CA*  
 
@@ -110,11 +110,11 @@ Reviewed films with team to determine best fit for festival.
 
 Coordinated and trained diverse group of volunteers for all festival tasks.   
 
-
+​	
 
 ## Academic Work Experience
 
-
+​	
 
 #### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
 
@@ -126,7 +126,7 @@ Gained acknowledgement in [now published research](https://journals.sagepub.com/
 
 Transcribed and annotated 50+ interviews from participants during trials. 
 
-
+​	
 
 #### Psychology and Writing Instructor *• University of California Santa Cruz* *•* *Santa Cruz, CA* 
 
@@ -138,11 +138,11 @@ Provided 1:1 instruction to discuss research papers and hosted writing workshops
 
 Awarded **Best Student Teacher in Psychology Award** for excellence in teaching psychology and extra time I dedicated to hosting workshops.
 
-
+​	
 
 ## Education    
 
-
+​	
 
 #### Certificate in ArcGIS 
 
@@ -152,7 +152,7 @@ Awarded **Best Student Teacher in Psychology Award** for excellence in teaching 
 
 Created maps of California watersheds and CA Prop 37 electorate distributions
 
-
+​	
 
 #### B.S. in Cognitive Science – Linguistics Concentration - Minor in Literature
 
@@ -166,33 +166,33 @@ Editor for Chinquapin magazine, a student run literary magazine: collected poetr
 
 Wrote film reviews, flyers, and ads for psychology film events with the UCSC chapter of Psi Chi, an international psychological association.
 
-
+​		
 
 ## Volunteer Work
 
-
+​	
 
 ##### September 2021 - Present
 
 **Editing**: I work remotely  with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
 
-
+​	
 
 ##### 2014 – 2021
 
 **Beach Clean-ups**: I combed beaches once a month and picked up trash with *Save Our Shores,* a nonprofit in Santa Cruz, CA. I also organized my own beach clean-ups with friends and volunteers.
 
-
+​	
 
 ##### SUMMER 2018
 
 **Gardening**: During the summer, I volunteered twice a week with the UCSC Arboretum in Santa Cruz, CA to help with weeding, planting, watering, and transporting of soil and compost.
 
-​        
+​        	
 
 ## Skills
 
-
+​	
 
 **Adobe Audition and Audacity**	I produce podcast episodes for *The Propwatch Project* by recording, editing, cutting, and mixing audio from video interviews.
 
@@ -208,7 +208,7 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 **Basic photoshop skills**
 
-
+​		
 
 ## Honors and Awards
 
@@ -222,7 +222,7 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 **2019 Dean's list**   I was listed on the 2019 Dean's list for excellence in maintaining high grades
 
-
+​	
 
 **Awards**
 
@@ -230,11 +230,11 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 **Meryll Grant**   I was awarded the Meryll Grant for all four years for excellent academic standing.
 
- 
+ 		
 
 ## Activities      
 
-
+​	
 
 #### **Food**  
 

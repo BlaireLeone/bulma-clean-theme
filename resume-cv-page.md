@@ -112,9 +112,9 @@ Coordinated and trained diverse group of volunteers for all festival tasks.
 
 ​	
 
-## <u>Academic Work Experience</u>
+## Academic Work Experience
 
-​	
+------
 
 #### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
 
@@ -140,9 +140,9 @@ Awarded **Best Student Teacher in Psychology Award** for excellence in teaching 
 
 ​	
 
-## <u>Education</u>    
+## Education    
 
-​	
+------
 
 #### Certificate in ArcGIS 
 
@@ -170,7 +170,7 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 ## Volunteer Work
 
-​	
+------
 
 ##### September 2021 - Present
 
@@ -192,7 +192,7 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 ## Skills
 
-​	
+------
 
 **Adobe Audition and Audacity**	I produce podcast episodes for *The Propwatch Project* by recording, editing, cutting, and mixing audio from video interviews.
 
@@ -212,7 +212,7 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 ## Honors and Awards
 
-
+------
 
 **Honors**	
 
@@ -234,7 +234,7 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 ## Activities      
 
-​	
+------
 
 #### **Food**  
 

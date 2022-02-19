@@ -228,13 +228,13 @@ SUMMER 2018
 
 **Adobe Audition and Audacity**	I produce podcast episodes for *The Propwatch Project* by recording, editing, cutting, and mixing audio from video interviews.
 
-**ArcGIS and QGIS**	I earned a certificate  in ArcGIS through Coursera where I developed maps to compare spatial data and  understand information patterns.   
+**ArcGIS and QGIS**	I earned a certificate in ArcGIS through Coursera where I developed maps to compare spatial data and understand information patterns.   
 
-**Photography**	During a 3-month camping  trip around the western US, I photographed landscapes and people to document my  travels.   
+**Photography**	During a 3-month camping  trip around the western US, I photographed landscapes and people to document my travels.   
 
-**Jekyll  and GitHub Pages**	I developed and maintain a blog about literature,  health, and sustainability.  
+**Jekyll  and GitHub Pages**	I developed and maintain a blog about literature, health, and sustainability.  
 
-**Language style guides** 	*The  AP Stylebook, The Chicago Manual of Style, Modern Language Association,* and  *The American Psychological Association style.* 
+**Language style guides** 	*The  AP Stylebook,    The Chicago Manual of Style,    Modern Language Association,*    and    *The American Psychological Association style.* 
 
 **Speaks limited-working Spanish**  
 

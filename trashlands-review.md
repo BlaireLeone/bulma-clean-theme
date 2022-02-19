@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trashlands Review
+title: Trashlands
 subtitle: by Alison Stine
 toc: true
 toc_title: Content

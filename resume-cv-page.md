@@ -156,7 +156,7 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 **Adobe Audition and Audacity**	I produce podcast episodes for *The Propwatch Project* by recording, editing, cutting, and mixing audio from video interviews.
 
- **ArcGIS and QGIS**	I earned a certificate  in ArcGIS through Coursera where I developed maps to compare spatial data and  understand information patterns.   
+**ArcGIS and QGIS**	I earned a certificate  in ArcGIS through Coursera where I developed maps to compare spatial data and  understand information patterns.   
 
 **Photography**	During a 3-month camping  trip around the western US, I photographed landscapes and people to document my  travels.   
 
@@ -172,6 +172,17 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 # Activities      
 
-**Food**  **Plant-Based Cooking and Baking** • **Fermenting** • **Maintaining  a Small Garden**      **Outdoor Activities**  **Hiking and Camping** • **Volleyball** • **Cycling**  **Writing**  
+#### **Food**  
 
-**Creative Writing** • **Blogging** • **Reading**
+##### **Plant-Based Cooking and Baking** • **Fermenting** • **Maintaining a Small Garden**      
+
+#### **Outdoor Activities**  
+
+**Hiking and Camping** • **Volleyball** • **Cycling**  
+
+#### **Writing**  
+
+**Creative Writing** • **Blogging** • **Reading** • **Listening to Podcasts**
+
+
+

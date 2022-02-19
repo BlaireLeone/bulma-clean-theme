@@ -10,6 +10,8 @@ hide_hero: true
 
 # Professional Experience    
 
+
+
 #### Freelance Writer and Editor *•* *Remote*   
 
 ##### 2017 – present 
@@ -88,6 +90,8 @@ Coordinated and trained diverse group of volunteers for all festival tasks.
 
 # Academic Work Experience
 
+
+
 #### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
 
 ##### Spring - Summer 2019 
@@ -114,6 +118,8 @@ Awarded **Best Student Teacher in Psychology Award** for excellence in teaching 
 
 # Education    
 
+
+
 #### Certificate in ArcGIS *• Coursera Online Courses and Credentials via instruction from UC Davis •* *Remote*
 
 ##### March, 2020 
@@ -133,6 +139,8 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 
 # Volunteer Work
+
+
 
 ##### September 2021 - Present
 
@@ -154,6 +162,8 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 # Skills
 
+
+
 **Adobe Audition and Audacity**	I produce podcast episodes for *The Propwatch Project* by recording, editing, cutting, and mixing audio from video interviews.
 
 **ArcGIS and QGIS**	I earned a certificate  in ArcGIS through Coursera where I developed maps to compare spatial data and  understand information patterns.   
@@ -171,6 +181,8 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
  
 
 # Activities      
+
+
 
 #### **Food**  
 

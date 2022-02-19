@@ -8,8 +8,6 @@ menubar: plant_newsletter_menu
 
 ## **Weekly Spotlight: Processing Herbs**
 
-![img](https://lh4.googleusercontent.com/GsykRrvTrjwCWfYERkez_zxGROiJqFbfghIIDheXeEpri6pYjDfrhfUc-2FpaE5PtycWKTeKPigAzaEZ6howntu_LaOKI2MMTaKpasJJJY5rG0pFULxsI5d7Fx-LtqWs2YZkwkcA)
-
 Many people ask us how we process our herbs in such large quantities. Most of our herbs are dropped off from local farms or foragers - for these we may only need to go dry, garble, and store the herbs (see below), but here’s a brief overview of how HAALo processes large patches of herbs. But it works for smaller ones too if you want to follow these steps! 
 
 ### *Harvesting* 
@@ -17,6 +15,12 @@ Many people ask us how we process our herbs in such large quantities. Most of ou
 This refers to taking cuttings from live plants, which can take some time when gathering large quantities. There are many details to note when harvesting that may affect how much you collect, from size, to color, to seasonality. Furthermore, when collecting, we always keep in mind how much of each herb we need. Peppermint for instance, is a light, bulky, inexpensive herb, useful for many treatments, thus we gather a lot each time. Chrysanthemum, however, is more expensive, and less widely used, thus, we gather much less. 
 
 It’s useful when collecting, to use specialized pruning shears, and to bring a large basket with a wide mouth for laying the herbs down relatively flat and uncrumpled. They should also be facing the same way and grouped, to make them easier to grab together. Lastly, when cutting each plant, be sure to make a generous enough cutting that it will be easy to bundle them, but don’t leave enough stem (a few inches should do) so it continues to grow for future harvests.
+
+
+
+![img](https://lh4.googleusercontent.com/GsykRrvTrjwCWfYERkez_zxGROiJqFbfghIIDheXeEpri6pYjDfrhfUc-2FpaE5PtycWKTeKPigAzaEZ6howntu_LaOKI2MMTaKpasJJJY5rG0pFULxsI5d7Fx-LtqWs2YZkwkcA)
+
+
 
 ### *Bundling*
 

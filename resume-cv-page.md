@@ -10,7 +10,7 @@ hide_hero: true
 
 # Professional Experience    
 
-### Freelance Writer and Editor *•* *Remote*   
+#### Freelance Writer and Editor *•* *Remote*   
 
 ##### 2017 – present 
 
@@ -24,7 +24,7 @@ Edited first-person commentary on benefits of local water system infrastructural
 
 
 
-### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
+#### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
 
 #####  June 2021 - present  
 
@@ -38,7 +38,7 @@ Participates in weekly team meetings to discuss ongoing and future projects.
 
 
 
-### Newsletter Intern • *League of Women Voters of Milwaukee County •* *Remote* 
+#### Newsletter Intern • *League of Women Voters of Milwaukee County •* *Remote* 
 
 ##### Fall 2020  
 
@@ -48,7 +48,7 @@ Copyedited formatting, selected images, and created headlines.
 
 
 
-### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
+#### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
 
 ##### 2017 – March 2020
 
@@ -60,7 +60,7 @@ Waited on 7+ tables a night: prioritized tasks; maintained attention to detail.
 
 
 
-### Herbal Apprentice and Newsletter Writer *• HAALo Botanicals •* *Nevada City, CA*  
+#### Herbal Apprentice and Newsletter Writer *• HAALo Botanicals •* *Nevada City, CA*  
 
 ##### Summer 2015 – Summer 2017  
 
@@ -74,7 +74,7 @@ Worked at local farms and personal gardens: planted, watered, tended, and harves
 
 
 
-### Assistant Festival Director *• Nevada City Film Festival* *•* *Nevada  City, CA*  
+#### Assistant Festival Director *• Nevada City Film Festival* *•* *Nevada  City, CA*  
 
 ##### Spring – Summer 2015 
 
@@ -88,11 +88,11 @@ Coordinated and trained diverse group of volunteers for all festival tasks.
 
 # Academic Work Experience
 
-### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
+#### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
 
-#####  Spring - Summer 2019 
+##### Spring - Summer 2019 
 
- Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
+Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
 
 Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power  dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.
 
@@ -100,7 +100,7 @@ Transcribed and annotated 50+ interviews from participants during trials.
 
 
 
-### Psychology and Writing Instructor *• University of California Santa Cruz* *•* *Santa Cruz, CA* 
+#### Psychology and Writing Instructor *• University of California Santa Cruz* *•* *Santa Cruz, CA* 
 
 ##### Spring 2019
 
@@ -114,13 +114,13 @@ Awarded **Best Student Teacher in Psychology Award** for excellence in teaching 
 
 # Education    
 
-### Certificate in ArcGIS *• Coursera Online Courses and Credentials via instruction from UC Davis •* *Remote*
+#### Certificate in ArcGIS *• Coursera Online Courses and Credentials via instruction from UC Davis •* *Remote*
 
 ##### March, 2020 
 
 Created maps of California watersheds and CA Prop 37 electorate distributions
 
-### B.S. in Cognitive Science – Linguistics Concentration - Minor in Literature *•* *University of California Santa Cruz •* *Santa  Cruz, CA*  
+#### B.S. in Cognitive Science – Linguistics Concentration - Minor in Literature *•* *University of California Santa Cruz •* *Santa  Cruz, CA*  
 
 ##### August, 2019
 
@@ -136,11 +136,15 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 ##### September 2021 - Present
 
-**Editing**: I work remotely  with the *Journal of Media Literacy Education* to ensure consistency  with journal style guides, insert citations, update the website, and collaborate  with authors to adjust discrepancies.  
+**Editing**: I work remotely  with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
+
+
 
 ##### 2014 – 2021
 
 **Beach Clean-ups**: I combed beaches once a month and picked up trash with *Save Our Shores,* a nonprofit in Santa Cruz, CA. I also organized my own beach clean-ups with friends and volunteers.
+
+
 
 ##### SUMMER 2018
 

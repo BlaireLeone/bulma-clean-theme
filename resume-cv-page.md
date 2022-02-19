@@ -2,7 +2,7 @@
 title: 
 subtitle: And about this blog
 layout: page
-toc: true
+menubar_toc: true
 toc_title: Contents
 show_sidebar: false
 hide_hero: true

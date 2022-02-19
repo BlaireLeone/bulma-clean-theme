@@ -181,9 +181,13 @@ AUGUST 2019
 
   I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university
 
+  
+
 - **3.74 GPA**   
 
   I maintained above a 3.5 GPA and graduated with a 3.74 GPA
+
+  
 
 - **2019 Dean's list**   
 
@@ -196,6 +200,8 @@ AUGUST 2019
 - **Best Student Teacher in Psychology Award**
 
   After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
+
+  
 
 - **Meryll Grant**
 

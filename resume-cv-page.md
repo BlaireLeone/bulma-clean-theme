@@ -247,7 +247,7 @@ I developed and maintain a blog about literature, health, and sustainability.
 
 **Language style guides** 	
 
-*The  AP Stylebook,    The Chicago Manual of Style, Modern Language Association,* |and *The American Psychological Association style.* 
+*The  AP Stylebook, | The Chicago Manual of Style, | Modern Language Association,* |and *The American Psychological Association style.* 
 
 **Speaks limited-working Spanish**  
 

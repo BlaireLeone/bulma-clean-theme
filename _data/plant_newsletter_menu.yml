@@ -1,6 +1,7 @@
 - label: Blaire's work
   items:
     - name: Plant Articles
+      link: /plant-newsletter-page/
       items:
         - name: Herb Processing
           link: /processing-herbs/

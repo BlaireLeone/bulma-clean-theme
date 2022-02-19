@@ -177,19 +177,22 @@ MARCH 2020
 
 #### **Honors**	
 
-- **Academic Honors Program**   I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university
+- **Academic Honors Program** 
+  -   I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university
 
-- **3.74 GPA**   I maintained above a 3.5 GPA and graduated with a 3.74 GPA
+- **3.74 GPA**   
+  - I maintained above a 3.5 GPA and graduated with a 3.74 GPA
 
-- **2019 Dean's list**   I was listed on the 2019 Dean's list for excellence in maintaining high grades
+- **2019 Dean's list**   
+  - I was listed on the 2019 Dean's list for excellence in maintaining high grades
 
 ​	
 
 #### **Awards**
 
-- **Best Student Teacher in Psychology Award**	After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
+- **Best Student Teacher in Psychology Award**: After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
 
-- **Meryll Grant**   I was awarded the Meryll Grant for all four years for excellent academic standing.
+- **Meryll Grant**: I was awarded the Meryll Grant for all four years for excellent academic standing.
 
 ​		
 
@@ -226,9 +229,17 @@ SUMMER 2018
 
 ------
 
-**Adobe Audition and Audacity**	I produce podcast episodes for *The Propwatch Project* by recording, editing, cutting, and mixing audio from video interviews.
+**Adobe Audition and Audacity**	
 
-**ArcGIS and QGIS**	I earned a certificate in ArcGIS through Coursera where I developed maps to compare spatial data and understand information patterns.   
+I produce podcast episodes for *The Propwatch Project* by recording, editing, cutting, and mixing audio from video interviews.
+
+**ArcGIS and QGIS**	
+
+I earned a certificate in ArcGIS through Coursera where I developed maps to compare spatial data and understand information patterns.   
+
+
+
+​		
 
 **Photography**	During a 3-month camping  trip around the western US, I photographed landscapes and people to document my travels.   
 

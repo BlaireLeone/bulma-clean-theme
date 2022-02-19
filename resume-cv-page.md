@@ -1,10 +1,11 @@
 ---
-title: About Blaire Hobbs
+title: 
 subtitle: And about this blog
 layout: page
 toc: true
 toc_title: Contents
 show_sidebar: true
+hide_hero: true
 ---
 
 ​    Professional Experience    

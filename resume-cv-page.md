@@ -12,7 +12,7 @@ hide_hero: true
 
 ### Freelance Writer and Editor *•* *Remote*   
 
-#### 2017 – present 
+##### 2017 – present 
 
 Authors articles: currently under review for publication with *High Country News*, *Tech Policy Press*, and *The Sun Magazine*, including pieces on how climate change affects human-wildlife relationships, bicycle and autonomous vehicle interactions, and using behavioral economics to build sustainable habits.
 
@@ -24,7 +24,7 @@ Edited first-person commentary on benefits of local water system infrastructural
 
 
 
-### Reporter and  Segment Producer *• The Propwatch  Project •* *Remote*   
+### Reporter and Segment Producer *• The Propwatch  Project •* *Remote*   
 
 ####  June 2021 - present  
 
@@ -38,23 +38,45 @@ Participates in weekly  team meetings to discuss ongoing and future projects.
 
 
 
-Fall 2020  Newsletter Intern  *• League of Women Voters of Milwaukee  County •* *Remote*  Ø Fact-  checked, proofread, and pitched stories for a monthly newsletter on election updates  including poll numbers, policy news, high school election literacy,  historical pieces, and volunteering efforts.  
+### Newsletter Intern • *League of Women Voters of Milwaukee County •* *Remote* 
 
-Copyedited  formatting, selected images, and created headlines.      
+#### Fall 2020  
 
-###  
+Fact-checked, proofread, and pitched stories for a monthly newsletter on election updates  including poll numbers, policy news, high school election literacy,  historical pieces, and volunteering efforts.  
 
-### 2017 – march 2020
+Copyedited formatting, selected images, and created headlines.      
 
-##### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
 
-Ø Responsible for keeping up-to-date on local seafood and seasonal foods, restaurant food preparation techniques, and rotating menu to advise customers on meal options.
 
-Ø Collaborated and communicated with diverse personalities across customers and restaurant team.
+### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
 
-Ø Waited on 7+ tables a night: prioritized tasks; maintained attention to detail. 
+#### 2017 – March 2020
 
-  Summer 2015 – Summer 2017  Herbal Apprentice  and Newsletter Writer *• HAALo Botanicals  •* *Nevada City, CA*  Ø Wrote articles on  food, plants, locally-sourced products, and profiles of local herbal and natural  food experts for weekly newsletter: sourced and interviewed experts, pitched content, drafted  articles.  Ø Copyedited documents:  photographed items and instructors, selected images, formatted content.  Ø Shadowed herbalists:  studied plant physiology and nutrition, plant cultivation, and home remedies.  Ø Worked at local farms  and personal gardens: planted, watered, tended, and harvested fruits,  vegetables, and seasonal plants.  Spring – Summer 2015  Assistant  Festival Director *• Nevada City  Film Festival* *•* *Nevada  City, CA*  Ø Authored reviews  and summaries of films for playbill and flyers of short films from around the  world, including films on Icelandic horse breeding and a day in the life of a  Tibetan monk.  Ø Reviewed films  with team to determine best fit for festival.  Ø Coordinated and  trained diverse group of volunteers for all festival tasks.   
+Responsible for keeping up-to-date on local seafood and seasonal foods, restaurant food preparation techniques, and rotating menu to advise customers on meal options.
+
+Collaborated and communicated with diverse personalities across customers and restaurant team.
+
+Waited on 7+ tables a night: prioritized tasks; maintained attention to detail. 
+
+
+
+### Herbal Apprentice  and Newsletter Writer *• HAALo Botanicals  •* *Nevada City, CA*  
+
+#### Summer 2015 – Summer 2017  
+
+Wrote articles on  food, plants, locally-sourced products, and profiles of local herbal and natural  food experts for weekly newsletter: sourced and interviewed experts, pitched content, drafted  articles. 
+
+Copyedited documents:  photographed items and instructors, selected images, formatted content.
+
+Shadowed herbalists:  studied plant physiology and nutrition, plant cultivation, and home remedies.
+
+Worked at local farms and personal gardens: planted, watered, tended, and harvested fruits, vegetables, and seasonal plants.  
+
+
+
+Spring – Summer 2015  Assistant  Festival Director *• Nevada City  Film Festival* *•* *Nevada  City, CA*  
+
+Ø Authored reviews  and summaries of films for playbill and flyers of short films from around the  world, including films on Icelandic horse breeding and a day in the life of a  Tibetan monk.  Ø Reviewed films  with team to determine best fit for festival.  Ø Coordinated and  trained diverse group of volunteers for all festival tasks.   
 
 # Academic Work Experience
 

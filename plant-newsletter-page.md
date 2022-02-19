@@ -1,5 +1,5 @@
 ---
-title: Short plant-based articles 
+title: Plant-based Posts
 subtitle: Weekly articles I wrote for a local botanical store newsletter
 layout: page
 show_sidebar: false

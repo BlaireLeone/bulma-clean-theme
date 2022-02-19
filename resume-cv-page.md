@@ -86,7 +86,7 @@ FALL 2020
 
 #### Book Sales Associate *• The Bookseller •* *Grass Valley, CA*
 
-2016
+SEPTEMBER - DECEMBER 2016
 
 - Read extensively and studied existing books and best sellers, new authors, and literary trends to assist customers with book choices.
 
@@ -95,16 +95,16 @@ FALL 2020
 
 #### Event Coordinator *• Miners Foundry Cultural Center •* *Nevada City, CA*
 
-2016
+JANUARY - MARCH 2016
 
 - Coordinated event details with artists, bands, and festival coordinators such as dates, arrival, equipment, and ticketing.
 
 
 ​	
 
-#### Assistant Festival Director *• Nevada City Film Festival* *•* *Nevada  City, CA*  
+#### Assistant Festival Director *• Nevada City Film Festival* *•* *Nevada City, CA*  
 
-2015 
+MAY - SEPTEMBER 2015 
 
 - Authored reviews and summaries of films for playbill and flyers of short films from around the world, including films on Icelandic horse breeding and a day in the life of a Tibetan monk.
 
@@ -217,7 +217,7 @@ AUGUST 2019
 
 SEPTEMBER 2021 - PRESENT
 
-- I work remotely  with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
+I work remotely  with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
 
 ​	
 
@@ -225,7 +225,7 @@ SEPTEMBER 2021 - PRESENT
 
 2014 – 2021
 
-- I combed beaches once a month and picked up trash with *Save Our Shores,* a nonprofit in Santa Cruz, CA. I also organized my own beach clean-ups with friends and volunteers.
+I combed beaches once a month and picked up trash with *Save Our Shores,* a nonprofit in Santa Cruz, CA. I also organized my own beach clean-ups with friends and volunteers.
 
 ​	
 
@@ -233,8 +233,7 @@ SEPTEMBER 2021 - PRESENT
 
 SUMMER 2018
 
-- During the summer, I volunteered twice a week with the UCSC Arboretum in Santa Cruz, CA to help with weeding, planting, watering, and transporting of soil and compost.
-
+During the summer, I volunteered twice a week with the UCSC Arboretum in Santa Cruz, CA to help with weeding, planting, watering, and transporting of soil and compost.
 
 ​        	
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I created this blog"
+title: Why I created this blog
 description: "Description and Benefits of Albizia"
 date: 2021-12-05
 hero_height: is-medium

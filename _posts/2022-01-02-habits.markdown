@@ -6,8 +6,10 @@ description: "Habits come in two different forms"
 hero_height: is-medium
 hero_darken: true
 published: true
-tags: habits fast slow Daniel-Kahneman
+tags: habits friction fast slow Daniel-Kahneman
 series: habits_series
+toc: true
+toc_title: Contents
 summary: Friction, a concept most people are familiar with from one science class or another, is also a term from behavioral economics, which can largely be thought of as a subfield of both psychology and economics.
 ---
 

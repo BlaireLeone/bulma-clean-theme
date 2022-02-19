@@ -1,6 +1,7 @@
 - label: Blaire's work
   items:
-    - name: Past Articles
+    - name: Writings
+      link: /past-articles-page/
       items:
         - name: When the Bears Come Marching In
           link: /when-the-bears-come-marching-in/

@@ -8,21 +8,25 @@ show_sidebar: true
 hide_hero: true
 ---
 
-​    Professional Experience    
+# Professional Experience    
 
-### 2017 – present
+### Freelance Writer and Editor *•* *Remote*   
 
-##### Freelance Writer and Editor *•* *Remote*
+### 2017 – present 
 
-Ø Authors articles: currently under review for publication with *High Country News*, *Tech Policy Press*, and *The Sun Magazine*, including pieces on how climate change affects human-wildlife relationships, bicycle and autonomous vehicle interactions, and using behavioral economics to build sustainable habits.
+Authors articles: currently under review for publication with *High Country News*, *Tech Policy Press*, and *The Sun Magazine*, including pieces on how climate change affects human-wildlife relationships, bicycle and autonomous vehicle interactions, and using behavioral economics to build sustainable habits.
 
-Ø Revises environmental documents for the Placer County Air Pollution Control District Office to ensure public understanding of data gathering practices, local and federal air quality policy, prescribed burning, and wildfire smoke updates.
+Revises environmental documents for the Placer County Air Pollution Control District Office to ensure public understanding of data gathering practices, local and federal air quality policy, prescribed burning, and wildfire smoke updates.
 
-Ø Worked 1:1 with (later elected) candidate to local CA water district’s Board of Directors: translated complex fiscal analyses and wonky policy language for broader voting population.
+Worked 1:1 with (later elected) candidate to local CA water district’s Board of Directors: translated complex fiscal analyses and wonky policy language for broader voting population.
 
-Ø Edited first-person commentary on benefits of local water system infrastructural repairs for civil engineer in Shasta County, California: adapted technical language and fleshed out narrative.
+Edited first-person commentary on benefits of local water system infrastructural repairs for civil engineer in Shasta County, California: adapted technical language and fleshed out narrative.
 
-  June 2021 - present  Reporter and  Segment Producer *• The Propwatch  Project •* *Remote*    Ø Conducts interviews for  video series on propaganda: pitches stories, receives assignments, sources  professionals and academics, researches extensively, drafts questions,  interviews experts in 1–2-hour interviews.  
+
+
+  June 2021 - present  Reporter and  Segment Producer *• The Propwatch  Project •* *Remote*   
+
+ Ø Conducts interviews for  video series on propaganda: pitches stories, receives assignments, sources  professionals and academics, researches extensively, drafts questions,  interviews experts in 1–2-hour interviews.  
 
 Ø Authors investigative articles for digital publication: pitches and receives story assignments, conducts research, identifies diverse sources and additional media, drafts catchy headlines and summaries.
 
@@ -44,13 +48,19 @@ hide_hero: true
 
 # Academic Work Experience
 
-  SPRING - summer 2019  Research  Assistant *• University of  California Santa Cruz •* *Santa Cruz, CA*  Ø Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific  research, examined research databases, compiled information, drafted 5+ page  documents, developed bibliographies.   Ø Gained acknowledgement  in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power  dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.  Ø Transcribed and  annotated 50+ interviews from participants during trials.           Spring 2019  Psychology and  Writing Instructor *• University of  California Santa Cruz* *•* *Santa  Cruz, CA*  Ø Taught  25 students the foundations of psychology: translated complex information  from textbooks and academic writing, developed curriculum, designed lesson  plans, created PowerPoints and worksheets for bi-weekly lectures.   Ø Provided  1:1 instruction to discuss research papers and hosted writing workshops to  improve writing and research citation skills.  Ø Awarded Best Student Teacher in  Psychology Award *for excellence in teaching psychology and extra time  I dedicated to hosting workshops*    Education    march, 2020  Certificate in  ArcGIS *• Coursera Online  Credentials via instruction from UC Davis •* *Remote*  Ø Created  maps of California watersheds and CA Prop 37 electorate distributions   August, 2019  B.S. in Cognitive Science – Linguistics Concentration  *•* *University of California Santa Cruz •* *Santa  Cruz, CA*  **2019 Dean’s List | Academic** *Honors  Program | 3.74 GPA*  Ø Editor  for Chinquapin magazine, a student run literary magazine: collected poetry,  short stories, photographs, and artistic imagery, discussed content with team,  formatted pages.  
+  SPRING - summer 2019  Research  Assistant *• University of  California Santa Cruz •* *Santa Cruz, CA*  Ø Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific  research, examined research databases, compiled information, drafted 5+ page  documents, developed bibliographies.   Ø Gained acknowledgement  in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power  dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.  Ø Transcribed and  annotated 50+ interviews from participants during trials.           Spring 2019  Psychology and  Writing Instructor *• University of  California Santa Cruz* *•* *Santa  Cruz, CA*  Ø Taught  25 students the foundations of psychology: translated complex information  from textbooks and academic writing, developed curriculum, designed lesson  plans, created PowerPoints and worksheets for bi-weekly lectures.   Ø Provided  1:1 instruction to discuss research papers and hosted writing workshops to  improve writing and research citation skills.  Ø Awarded Best Student Teacher in  Psychology Award *for excellence in teaching psychology and extra time  I dedicated to hosting workshops*    
+
+
+
+# Education    
+
+march, 2020  Certificate in  ArcGIS *• Coursera Online  Credentials via instruction from UC Davis •* *Remote*  Ø Created  maps of California watersheds and CA Prop 37 electorate distributions   August, 2019  B.S. in Cognitive Science – Linguistics Concentration  *•* *University of California Santa Cruz •* *Santa  Cruz, CA*  **2019 Dean’s List | Academic** *Honors  Program | 3.74 GPA*  Ø Editor  for Chinquapin magazine, a student run literary magazine: collected poetry,  short stories, photographs, and artistic imagery, discussed content with team,  formatted pages.  
 
 Wrote film reviews, flyers, and ads for psychology film events with the UCSC chapter of Psi Chi, an international psychological association
 
 
 
-# Volunteering
+# Volunteer Work
 
 ### September 2021 - Present
 
@@ -82,6 +92,8 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
  
 
-​    Publications      “[How Social Media Posts from Foreign Actors Fuel   Polarization and Undermine Democratic Institutions](https://www.propwatch.org/article.php?id=295)”. The Propwatch  Project: November 12, 2021.     “[Propaganda Precedes State Violence](https://www.propwatch.org/article.php?id=305)“. The  Propwatch Project: January 27, 2021.                                Activities      **Food**  **Plant-Based Cooking and Baking** • **Fermenting** • **Maintaining  a Small Garden**      **Outdoor Activities**  **Hiking and Camping** • **Volleyball** • **Cycling**  **Writing**  
+# Activities      
+
+**Food**  **Plant-Based Cooking and Baking** • **Fermenting** • **Maintaining  a Small Garden**      **Outdoor Activities**  **Hiking and Camping** • **Volleyball** • **Cycling**  **Writing**  
 
 **Creative Writing** • **Blogging** • **Reading**

@@ -1,6 +1,6 @@
 ---
 title: 
-subtitle: And about this blog
+subtitle: 
 layout: page
 menubar_toc: true
 toc_title: Contents

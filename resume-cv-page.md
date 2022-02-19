@@ -50,9 +50,9 @@ hide_hero: true
 
 FALL 2020  
 
-Fact-checked, proofread, and pitched stories for a monthly newsletter on election updates including poll numbers, policy news, high school election literacy, historical pieces, and volunteering efforts.  
+- Fact-checked, proofread, and pitched stories for a monthly newsletter on election updates including poll numbers, policy news, high school election literacy, historical pieces, and volunteering efforts.  
 
-Copyedited formatting, selected images, and created headlines.      
+- Copyedited formatting, selected images, and created headlines.      
 
 
 
@@ -62,11 +62,11 @@ Copyedited formatting, selected images, and created headlines.
 
 ##### 2017 – March 2020
 
-Responsible for keeping up-to-date on local seafood and seasonal foods, restaurant food preparation techniques, and rotating menu to advise customers on meal options.
+- Responsible for keeping up-to-date on local seafood and seasonal foods, restaurant food preparation techniques, and rotating menu to advise customers on meal options.
 
-Collaborated and communicated with diverse personalities across customers and restaurant team.
+- Collaborated and communicated with diverse personalities across customers and restaurant team.
 
-Waited on 7+ tables a night: prioritized tasks; maintained attention to detail. 
+- Waited on 7+ tables a night: prioritized tasks; maintained attention to detail. 
 
 ​	
 
@@ -74,21 +74,22 @@ Waited on 7+ tables a night: prioritized tasks; maintained attention to detail.
 
 ##### 2015 – 2017  
 
-Wrote articles on food, plants, locally-sourced products, and profiles of local herbal and natural food experts for weekly newsletter: sourced and interviewed experts, pitched content, drafted articles. 
+- Wrote articles on food, plants, locally-sourced products, and profiles of local herbal and natural food experts for weekly newsletter: sourced and interviewed experts, pitched content, drafted articles. 
 
-Copyedited documents: photographed items and instructors, selected images, formatted content.
+- Copyedited documents: photographed items and instructors, selected images, formatted content.
 
-Shadowed herbalists: studied plant physiology and nutrition, plant cultivation, and home remedies.
+- Shadowed herbalists: studied plant physiology and nutrition, plant cultivation, and home remedies.
 
-Worked at local farms and personal gardens: planted, watered, tended, and harvested fruits, vegetables, and seasonal plants.  
+- Worked at local farms and personal gardens: planted, watered, tended, and harvested fruits, vegetables, and seasonal plants.  
 
-​	
+  ​	
 
 #### Book Sales Associate *• The Bookseller •* *Grass Valley, CA*
 
 #####  2016
 
-Read extensively and studied existing books and best sellers, new authors, and literary trends to assist customers with book choices.
+- Read extensively and studied existing books and best sellers, new authors, and literary trends to assist customers with book choices.
+
 
 ​	
 
@@ -96,7 +97,8 @@ Read extensively and studied existing books and best sellers, new authors, and l
 
 ##### 2016
 
-Coordinated event details with artists, bands, and festival coordinators such as dates, arrival, equipment, and ticketing.
+- Coordinated event details with artists, bands, and festival coordinators such as dates, arrival, equipment, and ticketing.
+
 
 ​	
 
@@ -104,11 +106,12 @@ Coordinated event details with artists, bands, and festival coordinators such as
 
 #####  2015 
 
-Authored reviews and summaries of films for playbill and flyers of short films from around the world, including films on Icelandic horse breeding and a day in the life of a Tibetan monk.
+- Authored reviews and summaries of films for playbill and flyers of short films from around the world, including films on Icelandic horse breeding and a day in the life of a Tibetan monk.
 
-Reviewed films with team to determine best fit for festival.
+- Reviewed films with team to determine best fit for festival.
 
-Coordinated and trained diverse group of volunteers for all festival tasks.   
+- Coordinated and trained diverse group of volunteers for all festival tasks.   
+
 
 ​	
 
@@ -120,11 +123,12 @@ Coordinated and trained diverse group of volunteers for all festival tasks.
 
 ##### Spring - Summer 2019 
 
-Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
+- Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
 
-Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.
+- Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.
 
-Transcribed and annotated 50+ interviews from participants during trials. 
+- Transcribed and annotated 50+ interviews from participants during trials. 
+
 
 ​	
 
@@ -132,11 +136,12 @@ Transcribed and annotated 50+ interviews from participants during trials.
 
 ##### Spring 2019
 
-Taught  25 students the foundations of psychology: translated complex information from textbooks and academic writing, developed curriculum, designed lesson plans, created PowerPoints and worksheets for bi-weekly lectures. 
+- Taught  25 students the foundations of psychology: translated complex information from textbooks and academic writing, developed curriculum, designed lesson plans, created PowerPoints and worksheets for bi-weekly lectures. 
 
-Provided 1:1 instruction to discuss research papers and hosted writing workshops to improve writing and research citation skills. 
+- Provided 1:1 instruction to discuss research papers and hosted writing workshops to improve writing and research citation skills. 
 
-Awarded **Best Student Teacher in Psychology Award** for excellence in teaching psychology and extra time I dedicated to hosting workshops.
+- Awarded **Best Student Teacher in Psychology Award** for excellence in teaching psychology and extra time I dedicated to hosting workshops.
+
 
 ​	
 

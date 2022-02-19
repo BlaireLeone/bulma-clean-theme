@@ -4,17 +4,15 @@ subtitle: And about this blog
 layout: page
 toc: true
 toc_title: Contents
-show_sidebar: false
+show_sidebar: true
 hide_hero: true
 ---
 
 
 
-# Professional Experience    
+## Professional Experience    
 
 ------
-
-​	
 
 #### Freelance Writer and Editor *•* *Remote*   
 

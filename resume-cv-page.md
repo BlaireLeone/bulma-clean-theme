@@ -144,9 +144,7 @@ Awarded **Best Student Teacher in Psychology Award** for excellence in teaching 
 
 ------
 
-#### Certificate in ArcGIS 
-
-#### Coursera Online Courses and Credentials via instruction from UC Davis •* *Remote*
+#### Certificate in ArcGIS  • *Coursera Online Courses and Credentials via instruction from UC Davis •* Remote
 
 ##### March, 2020 
 
@@ -154,13 +152,15 @@ Created maps of California watersheds and CA Prop 37 electorate distributions
 
 ​	
 
-#### B.S. in Cognitive Science – Linguistics Concentration - Minor in Literature
-
-#### *University of California Santa Cruz •* *Santa  Cruz, CA*  
+#### B.S. in Cognitive Science  • *University of California Santa Cruz •* *Santa Cruz, CA*  
 
 ##### August, 2019
 
 **Honors** 2019 Dean’s List • Academic *Honors Program •*  3.74 GPA
+
+Linguistics Concentration
+
+Minor in Literature
 
 Editor for Chinquapin magazine, a student run literary magazine: collected poetry,  short stories, photographs, and artistic imagery, discussed content with team, formatted pages.  
 

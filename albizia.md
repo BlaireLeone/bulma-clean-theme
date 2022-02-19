@@ -4,7 +4,6 @@ subtitle: How to identify Albizia and some of the common benefits
 layout: page
 show_sidebar: true
 menubar: plant_newsletter_menu
-tags: HAALo newsletter article herbs
 
 ---
 

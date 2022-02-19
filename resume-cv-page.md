@@ -235,17 +235,19 @@ I produce podcast episodes for *The Propwatch Project* by recording, editing, cu
 
 **ArcGIS and QGIS**	
 
-I earned a certificate in ArcGIS through Coursera where I developed maps to compare spatial data and understand information patterns.   
+I earned a certificate in ArcGIS through Coursera where I developed maps to compare spatial data and understand information patterns.   	
 
+**Photography**	
 
+During a 3-month camping  trip around the western US, I photographed landscapes and people to document my travels.   
 
-​		
+**Jekyll  and GitHub Pages**	
 
-**Photography**	During a 3-month camping  trip around the western US, I photographed landscapes and people to document my travels.   
+I developed and maintain a blog about literature, health, and sustainability.  
 
-**Jekyll  and GitHub Pages**	I developed and maintain a blog about literature, health, and sustainability.  
+**Language style guides** 	
 
-**Language style guides** 	*The  AP Stylebook,    The Chicago Manual of Style,    Modern Language Association,*    and    *The American Psychological Association style.* 
+*The  AP Stylebook,    The Chicago Manual of Style, Modern Language Association,* |and *The American Psychological Association style.* 
 
 **Speaks limited-working Spanish**  
 

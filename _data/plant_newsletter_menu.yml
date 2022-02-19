@@ -5,7 +5,7 @@
         - name: Herb Processing
           link: /page-1/
         - name: Albizia
-          link: /page-2/
+          link: /albizia/
     - name: Blog
       link: /blog/
 

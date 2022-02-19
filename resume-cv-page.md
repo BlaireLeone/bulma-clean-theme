@@ -2,9 +2,9 @@
 title: 
 subtitle: 
 layout: page
-menubar_toc: true
+toc: true
 toc_title: Contents
-show_sidebar: false
+show_sidebar: true
 hide_hero: true
 ---
 

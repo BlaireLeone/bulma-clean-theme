@@ -10,7 +10,7 @@ hide_hero: true
 
 
 
-## <u>Professional Experience</u>    
+# Professional Experience    
 
 ​	
 

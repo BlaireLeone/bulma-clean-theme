@@ -1,38 +1,29 @@
 ---
 layout: post
-title: "When the Bears Come Marching In"
-description: "How climate change affects human-wildlife relationships"
-date: 2022-02-07 09:00:07
+title: "My intentions for this blog"
+description: "what this blog is about"
+date: 2021-12-05 09:00:07
 hero_height: is-medium
 hero_darken: true
-tags: article bears climate change environment
 published: yes
-series: Freelance_articles
+series: about_this_blog_series
 
 ---
 
 
 
-“When the Bears Come Marching In”
+# About this blog
 
-By: Blaire Hobbs
+In the past few years, I have become very health and sustainability conscious. I have always been the frugal type, having been raised by financially scrupulous parents. In college, I became aware of the fact that most of my frugal habits were incidentally also sustainable and, in some respects, healthy. For instance, bringing my own bags to the store, avoiding take-out, reusing jars and containers, etc.
 
-Since the new year, I’ve been reflecting on the tumultuousness of our recent lives. Among an overbearingly present pandemic and an overdue sociopolitical reckoning (unquestionably monumental events), I’ve also been dwelling on the process and implications of our planet’s volatile climate. While human populations around the world are at risk, it wasn’t until I stayed with my parents in the Sierra Nevada Foothills last fall and observed the local bear population, that I considered how climate change might also affect wildlife. 
+I was raised with a lifestyle very similar to the one I currently have, so in many ways I am just promoting my parent’s values. But previously, I never had reasons for my habits – I mostly did them, because it didn’t occur to me not to.
 
-Bears, a common staple of foothill life, frequently visit my parent’s backyard. And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year – thus, a bountiful honeypot attracting animals from miles around. In years past, the bear sightings varied. Some years there was one bear, others two; sometimes a ‘teenaged’ bear that had been a tumbling cub the year prior (though it was never clear which bear was around as my parents referred to each of them as “*the* bear” and not “*a* bear”). But most distinguishing about these sightings: they were brief, intermittent, and routine. They scavenged for apples until inevitably startling and running away.
+My journey to this blog was a gradual awakening, as day after day I became aware of habits I didn’t realize I had, or didn’t realize had such an impact on mine and the environment’s health. After meta-analyzing my choices time and again, I tried to determine the most ethical version of my decisions. I now search for healthier solutions and habits that least impact (and hopefully support) my personal health and the environment at large.
 
-But it’s different now. Less keen on bolting when no obvious threat looms, they stand their ground and stay until presumably full. To make matters worse, three bears (the little cinnamon bear, the husky brown bear and her cubs, and the big male black bear) now vie for the same space in a standoffish dance my parents refer to animatedly as their 'bear drama'. Though it should be known that without fail the smaller bear will sprint away first - like any of us, they are afraid of a bigger bear.
+I’m constantly learning, about myself and the surrounding the world. And new research to the field provides even more insight and opportunities for growth. Through this blog, I’ll share what I’ve learned and along the way, provide in-depth reporting on complex nuanced topics to explain my decisions. I hope this information can help others become conscious consumer - to make decisions and build habits that allow for a healthier, more sustainable, and hopefully, cheaper lifestyle.
 
-One afternoon last fall, I watched the husky brown bear and her two cubs forage for apples around the apple tree. After eating for 20 minutes, they collectively sensed something and rushed to a nearby pine tree. An hour later, I was amazed at their perseverance, since they hardly moved from their perch while the big black bear scarfed downed the same pile of apples they had so neatly created.
+### What do I mean by health?
 
-This was the most prolonged encounter I had ever seen between the bears. In the past it may have been an intriguing slice of life in the food-chain, but with the perpetual tinge of dark umber smoke darkening the sky from several nearby wildfires, this incident felt more meaningful.
+Health is a spectrum. When I refer to health, I mostly mean personal health, but it also applies to environmental health.
 
-It's likely that the cascading climate effects from wildfires to droughts to heat waves have corralled these bears and other animals to food rich areas like my parent’s backyard. With this in mind, I can’t help but feel that the encounter I witnessed was more than just nature’s survival of the fittest – it was a slow motion shifting of behavioral patterns as the bears experience growing pains in this new reality – one I am convinced is a rippled effect of climate change. But more animals mean more competition and less available food.
-
-One morning in October, my mom called and, brisk as always when relaying disturbing personal news, said, “You know, the bear broke into the house last night”. It had ripped through an open screened window and attempted to climb through. My mom woke to strange huffing noises coming from the living room, even more strange because the normally spitfire dogs didn’t notice. Turning on the lights, she made eye contact with a giant furry head, one arm and shoulder sticking out around it, before it startled and leapt into the night. Later, my mom thought it was the little cinnamon bear.
-
-As long as I had known, the bears in this area were shy, avoidant. While much of the wildlife was familiar with humans in some respect, the bears at least had always maintained distance. But if it’s true that they’re now hungry and can’t fill up on traditional food sources, this may not always be the case. 
-
-As it happens, this event turned out to be one of several scary, though low-damage, encounters my parents would have with the bears, though they could have been much worse. I’m not advocating for providing food to wildlife or curtailing their populations. But I think it’s worth considering the animal’s plight within our crazy new world phenomenon and how our beloved relationships with surrounding ecosystems could change. 
-
-Ever-present and ever-more-looming, as climate change settles in for the long haul, the world, its people and its ecosystems, have had to find ways to cope. Though the present is fraught with hurricanes, tornados, floods, and wildfires, the climate crisis isn’t just epic and catastrophic - it is also begrudgingly slow, comprehensive, and indiscriminate. In other words, climate change does not just refer to a changing climate, but a changing world.
+Personal health too means several things: diet, exercise, hygiene, emotional stability, and other forms of wellness. Environmental health, refers not only to the environment at large, but also to one’s immediate surrounding environment.

@@ -1,8 +1,7 @@
 ---
 title: Albizia
-subtitle: How to identify Albizia and some of the common benefits
+subtitle: How to identify Albizia and some of its common benefits
 layout: page
-show_sidebar: true
 menubar: plant_newsletter_menu
 
 ---

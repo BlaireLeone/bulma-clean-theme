@@ -12,6 +12,8 @@ hide_hero: true
 
 # Professional Experience    
 
+------
+
 ​	
 
 #### Freelance Writer and Editor *•* *Remote*   

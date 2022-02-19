@@ -12,7 +12,7 @@ hide_hero: true
 
 ### Freelance Writer and Editor *•* *Remote*   
 
-### 2017 – present 
+#### 2017 – present 
 
 Authors articles: currently under review for publication with *High Country News*, *Tech Policy Press*, and *The Sun Magazine*, including pieces on how climate change affects human-wildlife relationships, bicycle and autonomous vehicle interactions, and using behavioral economics to build sustainable habits.
 
@@ -24,13 +24,23 @@ Edited first-person commentary on benefits of local water system infrastructural
 
 
 
-  June 2021 - present  Reporter and  Segment Producer *• The Propwatch  Project •* *Remote*   
+### Reporter and  Segment Producer *• The Propwatch  Project •* *Remote*   
 
- Ø Conducts interviews for  video series on propaganda: pitches stories, receives assignments, sources  professionals and academics, researches extensively, drafts questions,  interviews experts in 1–2-hour interviews.  
+####  June 2021 - present  
 
-Ø Authors investigative articles for digital publication: pitches and receives story assignments, conducts research, identifies diverse sources and additional media, drafts catchy headlines and summaries.
+Conducts interviews for  video series on propaganda: pitches stories, receives assignments, sources  professionals and academics, researches extensively, drafts questions,  interviews experts in 1–2-hour interviews.  
 
-  Ø Edits audio from  interviews for upcoming podcast on disinformation and propaganda.  Ø Participates in weekly  team meetings to discuss ongoing and future projects.  Fall 2020  Newsletter Intern  *• League of Women Voters of Milwaukee  County •* *Remote*  Ø Fact-  checked, proofread, and pitched stories for a monthly newsletter on election updates  including poll numbers, policy news, high school election literacy,  historical pieces, and volunteering efforts.  Ø Copyedited  formatting, selected images, and created headlines.      
+Authors investigative articles for digital publication: pitches and receives story assignments, conducts research, identifies diverse sources and additional media, drafts catchy headlines and summaries.
+
+Edits audio from  interviews for upcoming podcast on disinformation and propaganda.
+
+Participates in weekly  team meetings to discuss ongoing and future projects.  
+
+
+
+Fall 2020  Newsletter Intern  *• League of Women Voters of Milwaukee  County •* *Remote*  Ø Fact-  checked, proofread, and pitched stories for a monthly newsletter on election updates  including poll numbers, policy news, high school election literacy,  historical pieces, and volunteering efforts.  
+
+Copyedited  formatting, selected images, and created headlines.      
 
 ###  
 

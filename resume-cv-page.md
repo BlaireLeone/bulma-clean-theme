@@ -220,7 +220,7 @@ During the summer, I volunteered twice a week with the UCSC Arboretum in Santa C
 
 ------
 
-**Honors**	
+#### **Honors**	
 
 **Academic Honors Program**   I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university
 
@@ -230,7 +230,7 @@ During the summer, I volunteered twice a week with the UCSC Arboretum in Santa C
 
 ​	
 
-**Awards**
+#### **Awards**
 
 **Best Student Teacher in Psychology Award**	After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
 

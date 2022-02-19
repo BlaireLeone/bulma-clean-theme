@@ -122,7 +122,7 @@ Coordinated and trained diverse group of volunteers for all festival tasks.
 
 Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
 
-Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power  dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.
+Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.
 
 Transcribed and annotated 50+ interviews from participants during trials. 
 

@@ -26,8 +26,6 @@ hide_hero: true
 
 - Edited first-person commentary on benefits of local water system infrastructural repairs for civil engineer in Shasta County, California: adapted technical language and fleshed out narrative.
 
-
-
 ​	
 
 #### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
@@ -44,8 +42,6 @@ JUNE 2021 - PRESENT
 
 ​	
 
-
-
 #### Newsletter Intern • *League of Women Voters of Milwaukee County •* *Remote* 
 
 FALL 2020  
@@ -54,9 +50,29 @@ FALL 2020
 
 - Copyedited formatting, selected images, and created headlines.      
 
+  
 
+#### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
+
+SPRING - SUMMER 2019 
+
+- Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
+- Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.
+- Transcribed and annotated 50+ interviews from participants during trials. 
 
 ​	
+
+#### Psychology and Writing Instructor *• University of California Santa Cruz* *•* *Santa Cruz, CA* 
+
+SPRING 2019
+
+- Taught  25 students the foundations of psychology: translated complex information from textbooks and academic writing, developed curriculum, designed lesson plans, created PowerPoints and worksheets for bi-weekly lectures. 
+
+- Provided 1:1 instruction to discuss research papers and hosted writing workshops to improve writing and research citation skills. 
+
+- Awarded **Best Student Teacher in Psychology Award** for excellence in teaching psychology and extra time I dedicated to hosting workshops.
+
+  
 
 #### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
 
@@ -111,36 +127,6 @@ MAY - SEPTEMBER 2015
 - Reviewed films with team to determine best fit for festival.
 
 - Coordinated and trained diverse group of volunteers for all festival tasks.   
-
-
-​	
-
-## Academic Work Experience
-
-------
-
-#### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
-
-SPRING - SUMMER 2019 
-
-- Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
-
-- Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.
-
-- Transcribed and annotated 50+ interviews from participants during trials. 
-
-
-​	
-
-#### Psychology and Writing Instructor *• University of California Santa Cruz* *•* *Santa Cruz, CA* 
-
-SPRING 2019
-
-- Taught  25 students the foundations of psychology: translated complex information from textbooks and academic writing, developed curriculum, designed lesson plans, created PowerPoints and worksheets for bi-weekly lectures. 
-
-- Provided 1:1 instruction to discuss research papers and hosted writing workshops to improve writing and research citation skills. 
-
-- Awarded **Best Student Teacher in Psychology Award** for excellence in teaching psychology and extra time I dedicated to hosting workshops.
 
 
 ​	

@@ -8,9 +8,12 @@ hero_darken: true
 published: true
 tags: habits fast slow Daniel-Kahneman
 series: habits_series
+summary: Friction, a concept most people are familiar with from one science class or another, is also term from behavioral economics, which can largely be thought of as a subfield of both psychology and economics.
 ---
 
 Friction, a concept most people are familiar with from one science class or another, is also term from behavioral economics, which can largely be thought of as a subfield of both psychology and economics.
+
+## Behavioral Economics
 
 In general, **behavioral economics** examines human behavior and decision-making. While more of a psychological science in practice, it is also considered an economic discipline for how individual decision-making affects broader socio-economic trends. For instance, behavioral economists might study the proportion of people that bought this particular product compared to another, and why? Or what made this insurance plan, or that gym membership more popular. While behaviorists are curious about particular decisions, they are more accurately curious about what made this decision so appealing out of the array of decisions available. Why did they choose an Apple product or Samsung or Motorola? 
 
@@ -18,29 +21,35 @@ Most behaviors seem obvious and therefore deliberate: affirming strongly held be
 
 Nobel Prize winning psychologist Daniel Kahneman, however, has a new perspective (spoiler alert: it changed how we view psychology and behavioral economics forever). In his book, Thinking Fast and Slow, he posits that our thinking, and more than that, our behavior, operates on two settings: slow and fast. 
 
-**Slow thinking** refers to decisions requiring consideration, deconstruction, or analysis. It can range from simple thought to deep deliberation. You might be navigating somewhere you’ve never been before, or answering a complex question. You might be learning a new instrument and carefully considering where to place your fingers. These actions generally take more time and brain power, but are necessary for navigating the surrounding world.
+#### Slow Thinking 
 
-**Fast thinking**, on the other hand, applies to decisions that are automatic and require little to no thought to motivate us. They are subconscious or intuitive - we have done them for so long we do them unthinkingly or we do them because of *gut instinct* – a principle not known for its scientific rigor, yet still behaviorally meaningful. This is not to say that we are being lazy; it would be impossible to think critically about every decision and movement every day – especially for activities like walking, breathing, speaking, or even putting your shoes and socks on (are you a left foot first kind of person or a right one?). Some things need to be automatic to free up space for other things that require more thought. In a way, you could call this task prioritization. 
+Slow thinking refers to decisions requiring consideration, deconstruction, or analysis. It can range from simple thought to deep deliberation. You might be navigating somewhere you’ve never been before, or answering a complex question. You might be learning a new instrument and carefully considering where to place your fingers. These actions generally take more time and brain power, but are necessary for navigating the surrounding world.
+
+#### Fast Thinking
+
+Fast thinking, on the other hand, applies to decisions that are automatic and require little to no thought to motivate us. They are subconscious or intuitive - we have done them for so long we do them unthinkingly or we do them because of *gut instinct* – a principle not known for its scientific rigor, yet still behaviorally meaningful. This is not to say that we are being lazy; it would be impossible to think critically about every decision and movement every day – especially for activities like walking, breathing, speaking, or even putting your shoes and socks on (are you a left foot first kind of person or a right one?). Some things need to be automatic to free up space for other things that require more thought. In a way, you could call this task prioritization. 
 
 But thinking fast is where our habits catch up with us. According to James Clear, author of Atomic Habits, habits are small decisions you make and actions you perform every day. In fact, some researchers think they make up about 40% of our daily behaviors.[[1\]](#_ftn1) Habits are fast thinking and thus mostly intuitive. Much like Pavlov’s drooling dogs[[2\]](#_ftn2), habits occur on impulse. 
 
-Friction
+## Friction
 
-So where does friction come in? ***Friction\*** refers to the factors that make it harder to accomplish our desired goals[[3\]](#_ftn3) or demotivate us from habits we otherwise would pursue. It might be obvious, but the easier a task, or the less steps involved, the more likely we are to do it.
+So where does friction come in? **Friction** refers to the factors that make it harder to accomplish our desired goals[[3\]](#_ftn3) or demotivate us from habits we otherwise would pursue. It might be obvious, but the easier a task, or the less steps involved, the more likely we are to do it.
 
 When we make a decision to do something, but are unable to follow through, it is often friction that swoops in at the 11th hour and hinders our efforts. More than that, friction is invisible, or else, we do not consciously register when friction impedes us - it just happens. And because we are not thinking critically about our actions when friction affects them, it is our fast, and thus automatic, thinking friction impacts. Like the physical friction that slows objects down, behavioral friction makes it just a little more difficult to achieve habits we desire.
 
-What does friction look like? And how does it affect our lives?
+#### What does friction look like?
 
 Friction can be many things. It can be the chocolate that lives on the top shelf of your cupboard, it can be the extra step of needing to look up an address to get to an appointment. It can also be sleeping in your workout clothes.
 
-Friction plays two roles in our efforts to build new habits: increasing or reducing.
+Friction plays two roles in our efforts to build new habits.
 
-1.)  Increasing 
+##### 1.)  Increasing: 
+
+We can demotivate a behavior by consciously increasing friction, making it harder to pursue that habit.
 
 a.   In the case of the high-up chocolate, we might not take it because it would take too much effort to grab. By keeping bars in an out-of-the-way place, one that might require additional effort to get to, you have created an extra step that requires extra effort. It’s not as easy as before. While you might still be motivated to grab a stool or a chair and eat the chocolate anyway - now you have to strategize, which could demotivate at least some of the times you’re just feeling snacky or bored. 
 
-2.)  Reducing:
+##### 2.)  Reducing:
 
 a.    In the case off the appointment, you might be less motivated to go if you don’t know where you’re going at the time. Friction in this case, is needing to look up the address. But if you had the address given to you, or automatically programmed into your phone, it removes one step from the process and makes it slightly easier to achieve this goal.
 

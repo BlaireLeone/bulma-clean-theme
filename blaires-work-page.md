@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blaire's Work
-subtitle: Check out some my past and present work
+title: Written Work
+subtitle: Check out some my past writings and see what I'm working on now
 show_sidebar: false
 menubar: blaires_work_menu
 ---

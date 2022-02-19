@@ -8,10 +8,10 @@ hero_darken: true
 published: true
 tags: habits fast slow Daniel-Kahneman
 series: habits_series
-summary: Friction, a concept most people are familiar with from one science class or another, is also term from behavioral economics, which can largely be thought of as a subfield of both psychology and economics.
+summary: Friction, a concept most people are familiar with from one science class or another, is also a term from behavioral economics, which can largely be thought of as a subfield of both psychology and economics.
 ---
 
-Friction, a concept most people are familiar with from one science class or another, is also term from behavioral economics, which can largely be thought of as a subfield of both psychology and economics.
+Friction, a concept most people are familiar with from one science class or another, is also a term from behavioral economics, which can largely be thought of as a subfield of both psychology and economics.
 
 ## Behavioral Economics
 
@@ -19,7 +19,7 @@ In general, **behavioral economics** examines human behavior and decision-making
 
 Most behaviors seem obvious and therefore deliberate: affirming strongly held beliefs - like the decision to attend a place of worship (if you have a particular faith) or the decision to join an extraterrestrial book club (if you believe in aliens); performing a practical or efficient task – like doing your laundry because you ran out of clean underwear or taking the train to work because it’s faster than driving. 
 
-Nobel Prize winning psychologist Daniel Kahneman, however, has a new perspective (spoiler alert: it changed how we view psychology and behavioral economics forever). In his book, Thinking Fast and Slow, he posits that our thinking, and more than that, our behavior, operates on two settings: slow and fast. 
+Nobel Prize winning psychologist Daniel Kahneman, however, has a new perspective (spoiler alert: it changed how we view psychology and behavioral economics forever). In his 2011 book, Thinking Fast and Slow, he posits that our thinking, and more than that, our behavior, operates on two settings: slow and fast. 
 
 #### Slow Thinking 
 

@@ -148,7 +148,7 @@ Awarded **Best Student Teacher in Psychology Award** for excellence in teaching 
 
 ##### **March, 2020** 
 
-Created maps of California watersheds and CA Prop 37 electorate distributions
+- Created maps of California watersheds and CA Prop 37 electorate distributions
 
 ​	
 
@@ -156,13 +156,13 @@ Created maps of California watersheds and CA Prop 37 electorate distributions
 
 ##### **August, 2019**
 
-Linguistics Concentration
+- Linguistics Concentration
 
-Minor in Literature
+- Minor in Literature
 
-Editor for Chinquapin magazine, a student run literary magazine: collected poetry,  short stories, photographs, and artistic imagery, discussed content with team, formatted pages.  
+- Editor for Chinquapin magazine, a student run literary magazine: collected poetry,  short stories, photographs, and artistic imagery, discussed content with team, formatted pages.  
 
-Wrote film reviews, flyers, and ads for psychology film events with the UCSC chapter of Psi Chi, an international psychological association.
+- Wrote film reviews, flyers, and ads for psychology film events with the UCSC chapter of Psi Chi, an international psychological association.
 
 
 
@@ -172,19 +172,19 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 #### **Honors**	
 
-**Academic Honors Program**   I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university
+- **Academic Honors Program**   I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university
 
-**3.74 GPA**   I maintained above a 3.5 GPA and graduated with a 3.74 GPA
+- **3.74 GPA**   I maintained above a 3.5 GPA and graduated with a 3.74 GPA
 
-**2019 Dean's list**   I was listed on the 2019 Dean's list for excellence in maintaining high grades
+- **2019 Dean's list**   I was listed on the 2019 Dean's list for excellence in maintaining high grades
 
 ​	
 
 #### **Awards**
 
-**Best Student Teacher in Psychology Award**	After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
+- **Best Student Teacher in Psychology Award**	After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
 
-**Meryll Grant**   I was awarded the Meryll Grant for all four years for excellent academic standing.
+- **Meryll Grant**   I was awarded the Meryll Grant for all four years for excellent academic standing.
 
 ​		
 
@@ -196,7 +196,7 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 **September 2021 - Present** 
 
-I work remotely  with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
+- I work remotely  with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
 
 ​	
 
@@ -204,7 +204,7 @@ I work remotely  with the *Journal of Media Literacy Education* to ensure consis
 
 2014 – 2021
 
-I combed beaches once a month and picked up trash with *Save Our Shores,* a nonprofit in Santa Cruz, CA. I also organized my own beach clean-ups with friends and volunteers.
+- I combed beaches once a month and picked up trash with *Save Our Shores,* a nonprofit in Santa Cruz, CA. I also organized my own beach clean-ups with friends and volunteers.
 
 ​	
 

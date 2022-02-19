@@ -5,8 +5,8 @@ date:   2022-01-02 10:50:07
 description: "Habits come in two different forms"
 hero_height: is-medium
 hero_darken: false
-image: /bulma-clan-theme/img/friction.jfif
-hero_image: /bulma-clan-theme/img/friction.jfif
+image: /bulma-clean-theme/img/friction.jfif
+hero_image: /bulma-clean-theme/img/friction.jfif
 published: true
 tags: habits friction fast slow Daniel-Kahneman
 series: habits_series

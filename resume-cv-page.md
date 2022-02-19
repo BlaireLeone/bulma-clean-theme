@@ -244,15 +244,15 @@ During the summer, I volunteered twice a week with the UCSC Arboretum in Santa C
 
 #### **Food**  
 
-##### **Plant-Based Cooking and Baking** • **Fermenting** • **Maintaining a Small Garden**      
+Plant-Based Cooking and Baking • Fermenting • Maintaining a Small Garden      
 
 #### **Outdoor Activities**  
 
-**Hiking and Camping** • **Volleyball** • **Cycling**  
+Hiking and Camping • Volleyball • Cycling  
 
 #### **Writing**  
 
-**Creative Writing** • **Blogging** • **Reading** • **Listening to Podcasts**
+Creative Writing • Blogging • Reading • Listening to Podcasts
 
 
 

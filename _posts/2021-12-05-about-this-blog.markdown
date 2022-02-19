@@ -7,6 +7,7 @@ hero_height: is-medium
 hero_darken: true
 published: yes
 series: about_this_blog_series
+summary: In the past few years, I have become very health and sustainability conscious...
 
 ---
 

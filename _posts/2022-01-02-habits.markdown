@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "What is friction and how can it help us change our habits?"
+title:  "What is friction?"
+subtitle: And how can it help us change our habits?
 date:   2022-01-02 10:50:07
 description: "Habits come in two different forms"
 hero_height: is-medium

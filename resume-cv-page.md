@@ -151,7 +151,7 @@ Spring 2019
 
 #### Certificate in ArcGIS  • *Coursera Online Courses and Credentials via instruction from UC Davis •* Remote
 
-**March, 2020** 
+MARCH 2020 
 
 - Created maps of California watersheds and CA Prop 37 electorate distributions
 
@@ -159,7 +159,7 @@ Spring 2019
 
 #### B.S. in Cognitive Science  • *University of California Santa Cruz •* *Santa Cruz, CA*  
 
-**August, 2019**
+**August 2019**
 
 - Linguistics Concentration
 

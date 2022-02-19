@@ -26,6 +26,8 @@ Edited first-person commentary on benefits of local water system infrastructural
 
 
 
+
+
 #### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
 
 #####  June 2021 - present  
@@ -40,6 +42,8 @@ Participates in weekly team meetings to discuss ongoing and future projects.
 
 
 
+
+
 #### Newsletter Intern • *League of Women Voters of Milwaukee County •* *Remote* 
 
 ##### Fall 2020  
@@ -47,6 +51,8 @@ Participates in weekly team meetings to discuss ongoing and future projects.
 Fact-checked, proofread, and pitched stories for a monthly newsletter on election updates including poll numbers, policy news, high school election literacy, historical pieces, and volunteering efforts.  
 
 Copyedited formatting, selected images, and created headlines.      
+
+
 
 
 

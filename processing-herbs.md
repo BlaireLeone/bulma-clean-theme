@@ -34,7 +34,7 @@ This is the easiest part! Find a dry shaded spot around your house to hang the h
 
 ### *Garbling* 
 
-This refers to the practice of rolling dried bundles of herbs over a wire mesh screen to separate the leaves from the stems. This practice is especially popular with herbalists who harvest and dry herbs in large quantities, because it’s more efficient than picking leaves by hand. Since the leaves are the most medicinally concentrated, most herbalists don’t want to dilute their treatments with stems, which won’t offer as many medicinal nutrients.
+This refers to the practice of rolling dried bundles of herbs over a wire mesh screen to separate the leaves from the stems. This practice is especially popular with herbalists who harvest and dry large quantities of herbs, because it’s more efficient than picking leaves by hand. Since the leaves are the most medicinally concentrated, most herbalists don’t want to dilute their treatments with stems, which won’t offer as many medicinal nutrients.
 
 ![img](https://lh5.googleusercontent.com/Na7qjqeg7VLYpJeor71Qu8-rru8xkNkZrLVAdWAV6wNPHVNMEKvnO8ADZb4L66hIlIkpmuXTCkD_qjctbEXSR5lTAkSDOKipBpagO6JsBqZdmybkDnP3Gwk3gkuuiKbvM0OZG3S7)
 

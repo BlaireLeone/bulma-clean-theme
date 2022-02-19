@@ -14,7 +14,7 @@ show_sidebar: false
 
 Albizia is a traditionally Chinese herb from the Mimosa, or Persian Silk, tree (though it has roots in many medicinal traditions from around the world). The flowers, which are actually a large cluster of long colorful stamens, are often compared to fireworks or starbursts, and have a soft silky feel - hence the origin of the name Persian Silk tree. In Nevada County, you can find the delicate leafy fronds and fluffy pink or yellow flowers growing in more temperate zones where it has access to water. To identify it, look for medium height trees with giant clusters of tiny-leafed stems, often hanging in shaggy looking fronds, and large puffy flowers that give the tree a broad and branchy body. With its color and bulkiness, once you can identify it, Albizia is easy to spot from a distance!
 
-<img src="https://lh5.googleusercontent.com/bz9f_OXhkPp9vUGclAUXeYCio89ogSqP4-Z2zVutKjzCygfBEsC0wKPvYoiqj8xn17V5-AFvlSLmOVa-7nFAmhG69oO5UG_Hpk2mvbECAAJQhEGBBwxFZpRzdswTkovI7Z1_g-pI" alt="Image result for albizia drawing" style="zoom: 67%;" />
+<img src="https://lh5.googleusercontent.com/bz9f_OXhkPp9vUGclAUXeYCio89ogSqP4-Z2zVutKjzCygfBEsC0wKPvYoiqj8xn17V5-AFvlSLmOVa-7nFAmhG69oO5UG_Hpk2mvbECAAJQhEGBBwxFZpRzdswTkovI7Z1_g-pI" alt="Image result for albizia drawing" style="zoom: 50%;" />
 
 ### What is Albizia used for?
 

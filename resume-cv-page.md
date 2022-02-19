@@ -60,7 +60,7 @@ FALL 2020
 
 #### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
 
-##### 2017 – March 2020
+2017 – March 2020
 
 - Responsible for keeping up-to-date on local seafood and seasonal foods, restaurant food preparation techniques, and rotating menu to advise customers on meal options.
 
@@ -72,7 +72,7 @@ FALL 2020
 
 #### Herbal Apprentice and Newsletter Writer *• HAALo Botanicals •* *Nevada City, CA*  
 
-##### 2015 – 2017  
+2015 – 2017  
 
 - Wrote articles on food, plants, locally-sourced products, and profiles of local herbal and natural food experts for weekly newsletter: sourced and interviewed experts, pitched content, drafted articles. 
 
@@ -86,7 +86,7 @@ FALL 2020
 
 #### Book Sales Associate *• The Bookseller •* *Grass Valley, CA*
 
-#####  2016
+2016
 
 - Read extensively and studied existing books and best sellers, new authors, and literary trends to assist customers with book choices.
 
@@ -95,7 +95,7 @@ FALL 2020
 
 #### Event Coordinator *• Miners Foundry Cultural Center •* *Nevada City, CA*
 
-##### 2016
+2016
 
 - Coordinated event details with artists, bands, and festival coordinators such as dates, arrival, equipment, and ticketing.
 
@@ -104,7 +104,7 @@ FALL 2020
 
 #### Assistant Festival Director *• Nevada City Film Festival* *•* *Nevada  City, CA*  
 
-#####  2015 
+2015 
 
 - Authored reviews and summaries of films for playbill and flyers of short films from around the world, including films on Icelandic horse breeding and a day in the life of a Tibetan monk.
 
@@ -121,7 +121,7 @@ FALL 2020
 
 #### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
 
-##### Spring - Summer 2019 
+Spring - Summer 2019 
 
 - Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
 
@@ -134,7 +134,7 @@ FALL 2020
 
 #### Psychology and Writing Instructor *• University of California Santa Cruz* *•* *Santa Cruz, CA* 
 
-##### Spring 2019
+Spring 2019
 
 - Taught  25 students the foundations of psychology: translated complex information from textbooks and academic writing, developed curriculum, designed lesson plans, created PowerPoints and worksheets for bi-weekly lectures. 
 
@@ -151,7 +151,7 @@ FALL 2020
 
 #### Certificate in ArcGIS  • *Coursera Online Courses and Credentials via instruction from UC Davis •* Remote
 
-##### **March, 2020** 
+**March, 2020** 
 
 - Created maps of California watersheds and CA Prop 37 electorate distributions
 
@@ -159,7 +159,7 @@ FALL 2020
 
 #### B.S. in Cognitive Science  • *University of California Santa Cruz •* *Santa Cruz, CA*  
 
-##### **August, 2019**
+**August, 2019**
 
 - Linguistics Concentration
 
@@ -217,7 +217,8 @@ FALL 2020
 
 SUMMER 2018
 
-During the summer, I volunteered twice a week with the UCSC Arboretum in Santa Cruz, CA to help with weeding, planting, watering, and transporting of soil and compost.
+- During the summer, I volunteered twice a week with the UCSC Arboretum in Santa Cruz, CA to help with weeding, planting, watering, and transporting of soil and compost.
+
 
 ​        	
 

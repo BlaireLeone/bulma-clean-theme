@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My intentions for this blog"
-description: "what this blog is about"
+title: "About this blog"
+description: "and my intentions for this blog"
 date: 2021-12-05 09:00:07
 hero_height: is-medium
 hero_darken: true

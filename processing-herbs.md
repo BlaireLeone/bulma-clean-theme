@@ -3,8 +3,7 @@ title: Processing Herbs
 subtitle: Here's how we process our herbs at HAALo from harvesting to storing
 layout: page
 show_sidebar: false
-tabs: example_tabs
-menubar: example_menu
+menubar: plant_newsletter_menu
 ---
 
 **Weekly Spotlight: Processing Herbs**

@@ -24,19 +24,13 @@ This is the process of gathering the herbs into small bouquets. Make sure to hav
 
 To bundle, grab a handful of your plant by the stems. Depending on the plant, the handful could be the size of a quarter to the size of a small coaster. Make sure the cuts are all about the same length. While avoiding as many leaves as possible, tie the string (or loop the rubber band) tight enough around the stems so they hold together in a small bouquet. And attach the name tag if using.
 
-​	
-
 ### *Drying*
 
 This is the easiest part! Find a dry shaded spot around your house to hang the herbs up-side-down. Check on them every few days to see if they are dry. Don’t leave them too long or they won’t retain their nutrients or color. And try not to leave them in the sun, as this will fade the color. 
 
-​	
-
 ### *Garbling* 
 
 This refers to the practice of rolling dried bundles of herbs over a wire mesh screen to separate the leaves from the stems. This practice is especially popular with herbalists who dry and harvest and process herbs in large quantities because it’s more efficient than picking leaves by hand. Since the leaves are the most medicinally concentrated, most herbalists don’t want to dilute their treatments with stems, which won’t offer as many medicinal nutrients.
-
-​	
 
 ![img](https://lh5.googleusercontent.com/Na7qjqeg7VLYpJeor71Qu8-rru8xkNkZrLVAdWAV6wNPHVNMEKvnO8ADZb4L66hIlIkpmuXTCkD_qjctbEXSR5lTAkSDOKipBpagO6JsBqZdmybkDnP3Gwk3gkuuiKbvM0OZG3S7)
 
@@ -47,5 +41,7 @@ An herbalist can use different sized screens depending on how big they want thei
 ### *Storing*
 
 Like any self-respecting herbalists, we store our garbled herbs in mason jars! But any air tight containers will do for the freshest taste and most medicinal value. If you don't have air tight containers, the next best thing is ensuring your containers don't allow moisture/humidity, which will turn your herbs to mold.
+
 ![img](https://lh4.googleusercontent.com/P53bDzx14Iy1KZdXz7ggvZzbUYj5YNgVVChpIoiwkYieEo-48KSujcxDQKw5vS5s5zpwv5oLKFFT5toZ3O-k2aIhLkxgtJJGO2jH-H-I3Z-6aatDM9wf7I4EQrDu0G2693nAbuJT)
-If you want to know more, check out [this video](https://www.youtube.com/watch?v=0TdvtQeF3_I) and [this video](https://www.youtube.com/watch?v=LHuVNPWE044) featuring our very own Shea Smith for a more detailed look at herb processing via mint and rosemary. Or come by the shop and speak to one of our specialists.
+
+If you want to know more, check out [this video](https://www.youtube.com/watch?v=0TdvtQeF3_I) and [this video](https://www.youtube.com/watch?v=LHuVNPWE044) featuring our very own Shea Smith for a more detailed look at herb processing using mint and rosemary. Or come by the shop and speak to one of our specialists!

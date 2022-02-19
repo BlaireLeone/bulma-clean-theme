@@ -1,5 +1,5 @@
 ---
-title: Past Articles
+title: Writings
 subtitle: by Blaire Hobbs
 layout: page
 show_sidebar: false

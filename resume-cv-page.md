@@ -50,7 +50,7 @@ FALL 2020
 
 - Copyedited formatting, selected images, and created headlines.      
 
-  
+  ​	
 
 #### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
 
@@ -72,7 +72,7 @@ SPRING 2019
 
 - Awarded **Best Student Teacher in Psychology Award** for excellence in teaching psychology and extra time I dedicated to hosting workshops.
 
-  
+  ​	
 
 #### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
 
@@ -157,6 +157,8 @@ AUGUST 2019
 
 
 
+​	
+
 ## Honors and Awards
 
 ------
@@ -165,21 +167,19 @@ AUGUST 2019
 
 - **Academic Honors Program** 
 
-  I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university
+  I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university.
 
   
 
 - **3.74 GPA**   
 
-  I maintained above a 3.5 GPA and graduated with a 3.74 GPA
+  I maintained above a 3.5 GPA and graduated with a 3.74 GPA.
 
   
 
 - **2019 Dean's list**   
 
-  I was listed on the 2019 Dean's list for excellence in maintaining high grades
-
-​	
+  I was listed on the 2019 Dean's list for excellence in maintaining high grades.
 
 #### **Awards**
 
@@ -252,6 +252,8 @@ I developed and maintain a blog about literature, health, and sustainability.
 **Basic photoshop skills**
 
  		
+
+​	
 
 ## Activities      
 

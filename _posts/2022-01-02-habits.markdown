@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Processing Herbs"
-date:   2016-06-28 10:50:07
-description: "How HAALo processes herbs from harvesting to storing"
+title:  "Habits"
+date:   2021-01-02 10:50:07
+description: "Habits come in two different forms"
 hero_height: is-medium
 hero_darken: true
 published: true
-tags: HAALo newsletter article herbs
-series: HAALo_newsletter_articles
+tags: habits fast slow Daniel-Kahneman
+series: habits_series
 ---
 
 **Weekly Spotlight: Processing Herbs**

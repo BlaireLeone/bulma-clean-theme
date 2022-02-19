@@ -16,7 +16,7 @@ hide_hero: true
 
 #### Freelance Writer and Editor *•* *Remote*   
 
-##### 2017 – present 
+**2017 – present** 
 
 - Authors articles: currently under review for publication with *High Country News*, *Tech Policy Press*, and *The Sun Magazine*, including pieces on how climate change affects human-wildlife relationships, bicycle and autonomous vehicle interactions, and using behavioral economics to build sustainable habits.
 
@@ -32,7 +32,7 @@ hide_hero: true
 
 #### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
 
-#####  June 2021 - present  
+**June 2021 - present**  
 
 - Conducts interviews for  video series on propaganda: pitches stories, receives assignments, sources professionals and academics, researches extensively, drafts questions, interviews experts in 1–2-hour interviews.  
 
@@ -48,7 +48,7 @@ hide_hero: true
 
 #### Newsletter Intern • *League of Women Voters of Milwaukee County •* *Remote* 
 
-##### Fall 2020  
+FALL 2020  
 
 Fact-checked, proofread, and pitched stories for a monthly newsletter on election updates including poll numbers, policy news, high school election literacy, historical pieces, and volunteering efforts.  
 

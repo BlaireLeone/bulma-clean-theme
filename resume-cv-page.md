@@ -244,19 +244,11 @@ SUMMER 2018
 
 ## Activities      
 
-------
+**Food**  Plant-Based Cooking and Baking • Fermenting • Maintaining a Small Garden      
 
-#### **Food**  
+**Outdoor Activities**  Hiking and Camping • Volleyball • Cycling  
 
-Plant-Based Cooking and Baking • Fermenting • Maintaining a Small Garden      
-
-#### **Outdoor Activities**  
-
-Hiking and Camping • Volleyball • Cycling  
-
-#### **Writing**  
-
-Creative Writing • Blogging • Reading • Listening to Podcasts
+**Writing**  Creative Writing • Blogging • Reading • Listening to Podcasts
 
 
 

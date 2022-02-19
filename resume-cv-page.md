@@ -72,7 +72,7 @@ Waited on 7+ tables a night: prioritized tasks; maintained attention to detail.
 
 #### Herbal Apprentice and Newsletter Writer *• HAALo Botanicals •* *Nevada City, CA*  
 
-##### Summer 2015 – Summer 2017  
+##### 2015 – 2017  
 
 Wrote articles on food, plants, locally-sourced products, and profiles of local herbal and natural food experts for weekly newsletter: sourced and interviewed experts, pitched content, drafted articles. 
 
@@ -84,9 +84,25 @@ Worked at local farms and personal gardens: planted, watered, tended, and harves
 
 
 
+#### Book Sales Associate *• The Bookseller •* *Grass Valley, CA*
+
+#####  2016
+
+Read extensively and studied existing books and best sellers, new authors, and literary trends to assist customers with book choices.
+
+
+
+#### Event Coordinator *• Miners Foundry Cultural Center •* *Nevada City, CA*
+
+##### 2016
+
+Coordinated event details with artists, bands, and festival coordinators such as dates, arrival, equipment, and ticketing.
+
+
+
 #### Assistant Festival Director *• Nevada City Film Festival* *•* *Nevada  City, CA*  
 
-##### Spring – Summer 2015 
+#####  2015 
 
 Authored reviews and summaries of films for playbill and flyers of short films from around the world, including films on Icelandic horse breeding and a day in the life of a Tibetan monk.
 
@@ -96,7 +112,7 @@ Coordinated and trained diverse group of volunteers for all festival tasks.
 
 
 
-# Academic Work Experience
+## Academic Work Experience
 
 
 
@@ -124,21 +140,27 @@ Awarded **Best Student Teacher in Psychology Award** for excellence in teaching 
 
 
 
-# Education    
+## Education    
 
 
 
-#### Certificate in ArcGIS *• Coursera Online Courses and Credentials via instruction from UC Davis •* *Remote*
+#### Certificate in ArcGIS 
+
+#### Coursera Online Courses and Credentials via instruction from UC Davis •* *Remote*
 
 ##### March, 2020 
 
 Created maps of California watersheds and CA Prop 37 electorate distributions
 
-#### B.S. in Cognitive Science – Linguistics Concentration - Minor in Literature *•* *University of California Santa Cruz •* *Santa  Cruz, CA*  
+
+
+#### B.S. in Cognitive Science – Linguistics Concentration - Minor in Literature
+
+#### *University of California Santa Cruz •* *Santa  Cruz, CA*  
 
 ##### August, 2019
 
-2019 Dean’s List | Academic *Honors Program | 3.74 GPA* 
+**Honors** 2019 Dean’s List • Academic *Honors Program •*  3.74 GPA
 
 Editor for Chinquapin magazine, a student run literary magazine: collected poetry,  short stories, photographs, and artistic imagery, discussed content with team, formatted pages.  
 
@@ -146,7 +168,7 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 
 
-# Volunteer Work
+## Volunteer Work
 
 
 
@@ -168,7 +190,7 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 ​        
 
-# Skills
+## Skills
 
 
 
@@ -186,9 +208,31 @@ Wrote film reviews, flyers, and ads for psychology film events with the UCSC cha
 
 **Basic photoshop skills**
 
+
+
+## Honors and Awards
+
+
+
+**Honors**	
+
+**Academic Honors Program**   I was admitted to UCSC into the Academic Honors Program and maintained my position throughout university
+
+**3.74 GPA**   I maintained above a 3.5 GPA and graduated with a 3.74 GPA
+
+**2019 Dean's list**   I was listed on the 2019 Dean's list for excellence in maintaining high grades
+
+
+
+**Awards**
+
+**Best Student Teacher in Psychology Award**	After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
+
+**Meryll Grant**   I was awarded the Meryll Grant for all four years for excellent academic standing.
+
  
 
-# Activities      
+## Activities      
 
 
 

@@ -1,16 +1,15 @@
 - label: Written work
   items:
-    - name: Writings
+    - name: Food and Climate Writings
       link: /past-articles-page/
       items:
         - name: How climate change impacted a local bear population
           link: /when-the-bears-come-marching-in/
-          items:
-            - name: Bike and autonomous vehicle series
-              items:         
-                - name: Part 1 - Autonomous vehicle technology
-                  link: /autonomous-vehicles-and-bikes-part-1/  
-                - name: Part 2 - Bike accidents          
-                  link: /autonomous-vehicles-and-bikes-part-1/
+    - name: Bike and autonomous vehicle series
+      items:         
+        - name: Part 1 - Autonomous vehicle technology
+          link: /autonomous-vehicles-and-bikes-part-1/  
+        - name: Part 2 - Bike accidents          
+          link: /autonomous-vehicles-and-bikes-part-1/
     - name: Blog
       link: /blog/

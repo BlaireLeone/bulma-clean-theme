@@ -3,7 +3,7 @@ title: Autonomous Vehicles and bicycles
 subtitle: Why autonomous vehicles have a hard time identifying bicylists and what is being down to counter that
 layout: page
 show_sidebar: false
-menubar: past-articles-page
+menubar: past_articles_page
 ---
 
 

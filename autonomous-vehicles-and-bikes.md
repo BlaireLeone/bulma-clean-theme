@@ -86,15 +86,13 @@ All this sensory data, however, is useless to a system that can’t make confide
 
 Not only do these models need to identify what they are looking at, they are also need to reconcile speed and direction of surrounding objects. And in doing so, an algorithm should be able to predict the movements of these objects to inform its own navigational decisions. For instance, if the vehicle wants to switch lanes, it must determine if any entity is currently occupying the space it seeks to fill, or if there is an approaching vehicle about to pass. If so, it must calculate that vehicle’s speed and adjust accordingly. Alternatively, if a deer runs across the road, while perhaps unpredictable, it would be useful to know if that deer would already be out of the lane by the time the vehicle gets there. Thus, in calculating the deer’s speed and direction, or in other words, its velocity, the AI may determine if it only needs to slow down instead of stop, perhaps saving its passengers unnecessary stress.
 
-![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image017.jpg)[ algorithms]
-
-
+![[004447]](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\[004447].jpg)
 
 ##### *Connectivity*
 
 Lastly, while the AVs are fully operational with just sensors and algorithms, they also need input from surrounding vehicles or wireless hubs (i.e. connectivity) if they are to be more efficient and operate in proximity. If a vehicle decides to stop because it thinks the plastic bag is a child, it needs to provide a forewarning to the next vehicle that it’s stopping, so the next car may simultaneously and safely stop or else provide a wide berth. Additionally, fleets of AVs on the roadway, if not interconnected, may be dangerous. Take for example two AVs on the outside lanes of a three-lane highway keeping pace with each other. What happens when they both want to switch into the middle lane at the same time? Perhaps an improbable situation, but one that could cause an accident, nonetheless. That may only occur, however, if they aren’t able to communicate their intentions and synchronize their movements. Thus, AVs cannot operate on independent systems.
 
-![A picture containing diagram  Description automatically generated](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)[ connectivity]
+![AV image 3](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV image 3.jpg)
 
 More than that, connectivity could boost efficiency in driving. Traffic could synchronize[[5\]](#_ftn5), eliminating the-mile-long start/stop jerking; stop lights could become non-existent. In a large intersection, vehicles would automatically make space for each other. And, an overarching algorithmic system, essentially acting as an air traffic controller, could calculate each vehicle’s route, determine where each AV will be at any given moment, and ultimately, minimize everyone’s time in traffic. Vehicles could also receive moment by moment reports from traffic and accident centers, like The Department of Transportation, local newscasters, or Google Maps. This could be a boon for a vehicle’s passengers; AVs could automatically switch routes due to road closures, traffic, or iciness, saving passengers time and reducing contact with safety hazards.
 
@@ -102,9 +100,9 @@ More than that, connectivity could boost efficiency in driving. Traffic could sy
 
 While I’m not going to focus too much on AV connectivity technology, it’s interesting to note where the connectivity occurs. The picture below summarizes the big 5 in AV wireless tech; it just doesn’t identify the individual objects such as trees, buildings, rocks and the like, which may have sensors attached to them to inform AVs of their location. This could be helpful in circumnavigating unique roadway situations where a tree, for instance, is situated very closely to the road. 
 
-![Diagram  Description automatically generated](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
+![image-20220220143814317](C:\Users\bleoh\AppData\Roaming\Typora\typora-user-images\image-20220220143814317.png)
 
-[Connectivity]
+
 
 **So, what does all this have to do with Bikes?**
 
@@ -112,7 +110,11 @@ While I’m not going to focus too much on AV connectivity technology, it’s in
 
 In March 2018, [Elaine Herzberg](https://usa.streetsblog.org/2019/03/08/uber-got-off-the-hook-for-killing-a-pedestrian-with-its-self-driving-car/) was struck and killed by an Uber owned self-driving vehicle out for a test drive, as she walked her bike across an Arizona street. She was the first AV-related pedestrian fatality. It should be noted, however, that a backup driver was behind the wheel, and the AEBs had been disabled, so the exact degree of the car’s (and by extension Uber’s) fault is indeterminate.[[6\]](#_ftn6) It was presumed that the car recognized neither Herzberg nor the shape of her bag-laden bicycle, suggesting a lack of thorough vetting for AV’s bicycle identification models. The difference between Tom’s and Elaine’s incidents, however, is that Tom was the unfortunate recipient of an operational braking system, attempting to circumvent collision with a pedestrian. Elaine on the other hand, was the pedestrian in this case, however, the system was not operational, nor did it detect her existence until it was too late. 
 
- ![A picture containing bicycle, outdoor  Description automatically generated](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image021.jpg)![A picture containing transport, car  Description automatically generated](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)![A picture containing text, road, way, highway  Description automatically generated](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg) 
+![Elaine Herzberg bike](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\Elaine Herzberg Uber car.jpg)
+
+![Elaine Herzberg bike](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\Elaine Herzberg bike.jpg)
+
+<img src="C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\Elaine Herzberg.jpg" alt="Elaine Herzberg" style="zoom: 33%;" />
 
 According to [a report](https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR1903.pdf) released by the National Transportation Safety Board (NTSB) after the accident, the vehicle had flashed a warning of a potential object in the roadway, but only 5.6 seconds before impact. Within this period, the vehicle classified Elaine as another vehicle, an unidentifiable object, a pedestrian, and a bicyclist. While ample theoretical inquiry could debate the culpability of Uber and its alleged technological corner-cutting, what is important for this article is why the system wasn’t able to identify her, and furthermore, predict her movements (i.e. how fast she was going, what orientation she exhibited, what direction she was moving). And with that, how much did her bike affect the way she was perceived?
 
@@ -130,9 +132,11 @@ While this study, [and others like it](https://www.sciencedirect.com/science/art
 
 Bicyclists have had a contentious history with vehicles. Given their lack of protection, meeting in unexpected road combat with a vehicle will more than likely result in the [cyclist being injured](file:///D:/hogwash/cyclist injured) if not killed. In [2017](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812765), 783 bicyclists died on US roadways[[9\]](#_ftn9); 96% (or 753) of those deaths involved a vehicle. Most of the time, this is due to simply not seeing the cyclist; bikes are small and often situated below the driver’s line of sight, and because of their maneuverability, they zip through traffic, perhaps coming up on a driver unawares; a driver may also neglect to check, as happens when opening a door into a bike lane. Either way, drivers are liable to fatally injure a cyclist whether they realize it or not. Take for example, [Katie Mckenna](https://www.rd.com/article/run-over-by-an-eighteen-wheeler/), a New York cyclist turned author and motivational speaker. She was run over by an 18-wheeled truck when it failed to notice her while maneuvering a right turn at an intersection. In [her book](https://www.amazon.com/How-Get-Run-Over-Truck-ebook/dp/B01LY9PYBR), she pulls no punches when identifying bicyclist’s vulnerability on the roadway; the first line queries, “So, how do you get run over by a truck? My first recommendation is to ride a bicycle”. According to her book, she signaled in every way possible that she was there, even wearing bright clothing. This is a sensationalist example, but one that exemplifies a common problem bicyclists have with surrounding vehicles.
 
- ![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg)[ How to Get Run Over by a Truck]
+[ How to Get Run Over by a Truck]
 
- 
+
+
+ ![AVs how to get run over by a truck](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AVs how to get run over by a truck.jpg)
 
  
 
@@ -142,23 +146,29 @@ As it turns out, AVs have been having trouble with bikes since their inception. 
 
 And AVs do have trouble interpreting information in their visual field. Tesla vehicles have been noted to confuse the side of close semi-truck with a far-off billboard, and gas station flags adorned with brightly colored loopy writing for stop lights. Google vehicles, while acting in a preferably cautious manner, noticed movements of a bicyclist maintaining balance at an intersection as a sign of forward movement.
 
- 
-
-![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image028.png)![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image030.jpg)
-
-![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image032.jpg)![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image034.jpg)![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image036.jpg)![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image038.jpg)
-
-[Unusual bike shapes that could further confuse an AV’s AI]
-
- 
-
-![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image040.jpg)![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image042.jpg)![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image043.jpg)![img](file:///C:/Users/bleoh/AppData/Local/Temp/msohtmlclip1/01/clip_image044.jpg)
+ ![image-20220220144102487](C:\Users\bleoh\AppData\Roaming\Typora\typora-user-images\image-20220220144102487.png)
 
 
 
  
 
+![image-20220220144127955](C:\Users\bleoh\AppData\Roaming\Typora\typora-user-images\image-20220220144127955.png)
 
+![AV bike shapes 8](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV bike shapes 8.jpg)
+
+![AV bike shapes 7](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV bike shapes 7.jpg)
+
+![AV bike shapes 5](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV bike shapes 5.jpg)
+
+![AV bikes shapes 1](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV bikes shapes 1.jpg)
+
+![AV bike shapes 4](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV bike shapes 4.jpg)
+
+![AV bike shape 6](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV bike shape 6.jpg)
+
+![AV bike shapes 2](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV bike shapes 2.jpg)
+
+![AV bike shapes 3](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV bike shapes 3.jpg)
 
 ------
 

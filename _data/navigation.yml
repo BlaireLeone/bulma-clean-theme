@@ -1,16 +1,13 @@
 - name: Porfolio
   link: /blaires-work-page/
-  dropdown:
-    - name: Writings
-      link: /past-articles-page/
-    - name: Book Reviews
-      link: /book-reviews-page/
-    - name: Plant Newsletter
-      link: /plant-newsletter-page/
 - name: Resume/CV
   link: /resume-cv-page/
 - name: Blog
-  link: /blog/
+  dropdown:
+    - name: Healthy Habits for the Conscious Consumer
+      link: /blog/
+    - name: About this blog
+      link: /blog/
 - name: Book Reviews
   link: /book-reviews-page/
 

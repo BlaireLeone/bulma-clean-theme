@@ -1,12 +1,12 @@
-- label: Written work
+- label: Content
   items:
-    - name: Series
+    - name: Written Work
       items:
-        - name: Past Articles
+        - name: Climate and Technology Writings
           link: /past-articles-page/
         - name: Book Reviews
           link: /book-reviews-page/
-        - name: Plant Newsletter
+        - name: Botanical Writings
           link: /plant-newsletter-page/
     - name: Blog
       link: /blog/

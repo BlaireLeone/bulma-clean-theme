@@ -4,8 +4,10 @@ title: "About this blog"
 description: "and my intentions for this blog"
 date: 2021-12-05 09:00:07
 hero_height: is-medium
+image: /img/friction.jfif
+hero_image: /img/friction.jfif
 hero_darken: true
-published: yes
+published: true
 series: about_this_blog_series
 summary: In the past few years, I have become very health and sustainability conscious...
 
@@ -21,7 +23,7 @@ I was raised with a lifestyle very similar to the one I currently have, so in ma
 
 My journey to this blog was a gradual awakening, as day after day I became aware of habits I didn’t realize I had, or didn’t realize had such an impact on mine and the environment’s health. After meta-analyzing my choices time and again, I tried to determine the most ethical version of my decisions. I now search for healthier solutions and habits that least impact (and hopefully support) my personal health and the environment at large.
 
-I’m constantly learning, about myself and the surrounding the world. And new research to the field provides even more insight and opportunities for growth. Through this blog, I’ll share what I’ve learned and along the way, provide in-depth reporting on complex nuanced topics to explain my decisions. I hope this information can help others become conscious consumer - to make decisions and build habits that allow for a healthier, more sustainable, and hopefully, cheaper lifestyle.
+I’m constantly learning, about myself and the surrounding world. And new research to the field provides even more insight and opportunities for growth. Through this blog, I’ll share what I’ve learned and along the way, provide in-depth reporting on complex nuanced topics to explain my decisions. I hope this information can help others become conscious consumer - to make decisions and build habits that allow for a healthier, more sustainable, and hopefully, cheaper lifestyle.
 
 ### What do I mean by health?
 

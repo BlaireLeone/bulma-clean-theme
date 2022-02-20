@@ -3,10 +3,13 @@ layout: post
 title: Why I created this blog
 description: "Description and Benefits of Albizia"
 date: 2021-12-05
+image: /img/friction.jfif
+hero_image: /img/friction.jfif
 hero_height: is-medium
 hero_darken: true
 published: true
 series: about_this_blog_series
+summary: test test?
 ---
 
 ## Why I created this blog

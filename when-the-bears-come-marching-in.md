@@ -3,6 +3,7 @@ title: When the Bears Come Marching In
 subtitle: How climate change altered the relationship between a family and their local population of bears
 layout: page
 show_sidebar: true
+menubar: past-articles-page
 ---
 
 “When the Bears Come Marching In”

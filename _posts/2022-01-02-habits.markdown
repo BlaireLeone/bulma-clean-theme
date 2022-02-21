@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "What is friction?"
+title:  "How can friction help us change our habits?"
 subtitle: And how can it help us change our habits?
 date:   2022-01-02 10:50:07
 description: "Habits come in two different forms"
 hero_height: is-medium
 hero_darken: true
-image: /img/friction.jfif
-hero_image: /img/friction.jfif
+image: /img/friction.png
+hero_image: /img/friction.png
 published: true
 tags: habits friction fast slow Daniel-Kahneman
 series: habits_series

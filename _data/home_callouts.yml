@@ -15,8 +15,8 @@ items:
     call_to_action_name: View Portfolio
     call_to_action_link: /blaires-work-page/
 
-  - title: About Blaire
-    subtitle: Scroll down to learn more about Blaire
+  - title: Resume/CV
+    subtitle: Or scroll down for more about Blaire
     #icon: fa-github
     icon_brand: true
     call_to_action_name: Resume/CV

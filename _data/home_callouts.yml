@@ -8,8 +8,8 @@ items:
     call_to_action_name: View Blog
     call_to_action_link: /blog/
 
-  - title: Porfolio
-    subtitle: View Blaire's past work
+  - title: Portfolio
+    subtitle: Blaire's Writings
     icon: fa-copy
     description: >
     call_to_action_name: View Portfolio

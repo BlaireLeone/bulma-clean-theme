@@ -2,7 +2,7 @@
 layout: page
 title: Blaire Hobbs
 subtitle:
-hero_height: is-small
+hero_height: is-medium
 callouts: home_callouts
 show_sidebar: false
 hero_image: /img/blue-lakes.jpg

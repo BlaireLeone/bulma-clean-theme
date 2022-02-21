@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blaire Hobbs
-subtitle: Check out my blog, portfolio of my past work, and see what I'm working on now 
+subtitle:
 hero_height: is-small 
 callouts: home_callouts
 show_sidebar: true
@@ -20,3 +20,4 @@ I'm also an avid reader - I especially love fiction, science fiction, and fantas
 In my day-to-day life, I love experimenting in the kitchen, especially through late night baking. I'm currently on a mission to develop brownie and cookie recipe ratios that detail all the vegetable, legume, and grain combinations that can substitute for flour, eggs, and oil - not because I don't eat these ingrededients, but because I love making changes to my daily eating habits that allow me to eat more whole plants, especially in desserts! I hope that these recipe ratios can help others be creative with the ecclectic hodgepodge of ingredients they have on hand when trying to satisfy late night cravings. (When it comes to kitchen life, I'm also especially skilled at balancing multiple dinner plates and platters and eyeballing the best fit Tupperware for left-overs.)
 
 While originally from the foothills of the Sierra Nevada Mountains in California, I lived for 5 years in Santa Cruz, California, where I spent my spare time riding my bike, playing beach volleyball, and cooking enormous meals with my partner and friends. I hope to recreate that lifestyle in the next phase of my life.
+

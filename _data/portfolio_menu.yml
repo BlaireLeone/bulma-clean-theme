@@ -2,7 +2,7 @@
   items:
     - label: Food and Climate Writings
       items:
-        - name: Observations on the Behaviors of Local Bears
+        - name: Observations on the behaviors of local bears
           link: /when-the-bears-come-marching-in/
         - name: Labeling GMOs
           link: /when-the-bears-come-marching-in/
@@ -16,7 +16,7 @@
       items:         
         - name: Albizia
           link: /albizia/  
-        - name: Processing Herbs          
+        - name: Processing herbs          
           link: /processing-herbs/
     - label: Blog
       items:         

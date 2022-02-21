@@ -14,6 +14,4 @@ Some of my work with propwatch includes [writing on common techniques](https://w
 
 I started my reporting career working as an herbal apprentice and newsletter writer for HAALo Botanicals, a shop dedicated to educating and promoting all things botanical. While shadowing practitioners from a number of disciplines in my work as an apprentice, I also gathered content for our newsletter. I wrote weekly ariticles covering plants, harvesting, and community such as this article on [the albizia plant](/albizia) or this article on [harvesting and processing plants into dried herbs](/processing-herbs).
 
-
-
 Sadly the shop closed in 2018, 

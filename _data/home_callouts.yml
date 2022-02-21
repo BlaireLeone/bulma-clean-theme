@@ -3,7 +3,7 @@ height: is-small
 items:
   - title: Healthy Habits for the Conscious Consumer
     subtitle: Check out the blog!
-    icon: fa-space-apple
+    icon: fa-apple
     description: >
     call_to_action_name: View Blog
     call_to_action_link: /blog/
@@ -17,7 +17,7 @@ items:
 
   - title: About Blaire
     subtitle: Scroll down to learn more about Blaire
-    icon: fa-girl
+    icon: fa-person
     icon_brand: true
     call_to_action_name: Resume/CV
     call_to_action_link: /resume-cv-page/

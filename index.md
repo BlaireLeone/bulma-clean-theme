@@ -2,10 +2,10 @@
 layout: page
 title: Blaire Hobbs
 subtitle:
-hero_height: is-large
+hero_height: is-small
 callouts: home_callouts
 show_sidebar: true
-hero_image: /img/Hobbs_Blaire_Headshot.jpg
+hero_image: /img/blue-lakes.jpg
 ---
 
 ![](/img/Hobbs_Blaire_Headshot.jpg)

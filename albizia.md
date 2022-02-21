@@ -4,13 +4,14 @@ subtitle: How to identify Albizia and some of its common benefits
 layout: page
 menubar: plant_newsletter_menu
 show_sidebar: false
+hero_image: /img/albizia.png
 ---
 
 
 
 
 
-### **Weekly Spotlight: Albizia**
+### The v*Herb*iage: Albizia
 
 Albizia is a traditionally Chinese herb from the Mimosa, or Persian Silk, tree (though it has roots in many medicinal traditions from around the world). The flowers, which are actually a large cluster of long colorful stamens, are often compared to fireworks or starbursts, and have a soft silky feel - hence the origin of the name Persian Silk tree. In Nevada County, you can find the delicate leafy fronds and fluffy pink or yellow flowers growing in more temperate zones where it has access to water. To identify it, look for medium height trees with giant clusters of tiny-leafed stems, often hanging in shaggy looking fronds, and large puffy flowers that give the tree a broad and branchy body. With its color and bulkiness, once you can identify it, Albizia is easy to spot from a distance!
 
@@ -18,15 +19,11 @@ Albizia is a traditionally Chinese herb from the Mimosa, or Persian Silk, tree (
 
 ### What is Albizia used for?
 
-“Albizia is one of our holistic herbs,” says Shea, owner of HAALo. And it’s no wonder. Albizia contains antioxidant, sedative, and analgesic properties; it has many uses from anxiety relief, to sleep-aid, to pain relief, to skin care.
+“Albizia is one of our all-star herbs,” says Shea, owner of HAALo. And it’s no wonder. Albizia contains antioxidant, sedative, and analgesic properties; it has many uses from anxiety relief, to sleep-aid, to pain relief, to skin care.
 
 Albizia is used both internally, via tea or tinctures, or externally, via balms or poultices. And both albizia flowers and bark are considered medicinal.
 
-<img src="https://lh3.googleusercontent.com/pAw6NTA_U8-Jauio4pxIAixbLRjFFsHVZl6urq6tRmw5IbMTmpr9HiN0EOY5icyaGo822Ouq3BMumbQNaZI_EDPk-R5X4DPDoPd4rE3YSown1MTK_sn1c7Xl2NJcLVm_enC3r7ws" alt="img" style="zoom:25%;" />
-
-
-
-Referred to also as the *happiness herb*, “albizia has been used for centuries to help with stress, anxiety, and depression”, says Shea. It’s sedative properties dampen the nervous system and even out hormonal imbalances when stressed or anxious. In doing so, it can also alleviate feelings of depression or irrational anger that arise from stress or sudden hormone spikes.
+Referred to also as the *happiness herb*, “albizia has been used for centuries to help with stress, anxiety, and depression”, says Shea. It’s sedative properties dampen the nervous system and balance hormonal flucutuations when stressed or anxious. In doing so, it can also alleviate feelings of depression or irrational anger that arise from stress, sudden hormone spikes or depletions.
 
 
 

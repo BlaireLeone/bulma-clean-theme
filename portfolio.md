@@ -4,10 +4,10 @@ subtitle: by Blaire Hobbs
 layout: page
 show_sidebar: false
 menubar: portfolio_menu
-hero_image: 
+hero_image: /img/maroon-peaks.jpg
 ---
 
-I am an emerging journalist covering environmental sustainability and policy, technology, food, media literacy, people, culture, and behavioral science. I am especially drawn to in-depth investigative pieces on policy and society, as well as writing about community and individual experience. 
+I'm an emerging journalist covering environmental sustainability and policy, technology, food, media literacy, people, culture, and behavioral science. I am especially drawn to in-depth investigative pieces on policy and society, as well as writing about community and individual experience. 
 
 I currently report on propaganda techniques and interview misinformation researchers for The Propwatch Project, a nonpartisan nonprofit seeking to educate the public on propaganda and misinformation techniques.
 

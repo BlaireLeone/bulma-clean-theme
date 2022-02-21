@@ -3,21 +3,21 @@ height: is-small
 items:
   - title: Healthy Habits for the Conscious Consumer
     subtitle: Check out the blog!
-    icon: fa-apple
+    #icon: fa-shuttle
     description: >
     call_to_action_name: View Blog
     call_to_action_link: /blog/
 
   - title: Portfolio
     subtitle: Blaire's Writings
-    icon: fa-copy
+    #icon: fa-copy
     description: >
     call_to_action_name: View Portfolio
     call_to_action_link: /blaires-work-page/
 
   - title: About Blaire
     subtitle: Scroll down to learn more about Blaire
-    icon: fa-person
+    #icon: fa-github
     icon_brand: true
     call_to_action_name: Resume/CV
     call_to_action_link: /resume-cv-page/

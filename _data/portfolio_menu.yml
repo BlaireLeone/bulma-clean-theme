@@ -1,25 +1,24 @@
 - label: Written work
   items:
-    - name: Food and Climate Writings
-      link: /past-articles-page/
+    - label: Food and Climate Writings
       items:
         - name: Observations on the Behaviors of Local Bears
           link: /when-the-bears-come-marching-in/
         - name: Labeling GMOs
           link: /when-the-bears-come-marching-in/
-    - name: Bikes and Autonomous Vehicle Series
+    - label: Bikes and Autonomous Vehicle Series
       items:         
         - name: Part 1 - Autonomous vehicle technology
           link: /autonomous-vehicles-and-bikes-part-1/  
         - name: Part 2 - Bike accidents          
           link: /autonomous-vehicles-and-bikes-part-2/
-    - name: HAALo Newsletter Writings
+    - label: HAALo Newsletter Writings
       items:         
         - name: Albizia
           link: /albizia/  
         - name: Processing Herbs          
           link: /processing-herbs/
-    - name: Blog
+    - label: Blog
       items:         
         - name: Healthy Habits for the Conscious Consumer
           link: /blog/ 

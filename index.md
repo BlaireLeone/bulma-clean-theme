@@ -9,8 +9,6 @@ show_sidebar: true
 
 ![](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Hobbs_Blaire_Headshot.jpg)
 
-
-
 # About Blaire
 
 I am freelance writer and editor covering environmental conservation, sustainable food systems, personal health, travel, people, media literacy, and behavioral science. I have a degree in Cognitive Science from the University of California Santa Cruz and a professional background in media literacy, misinformation research, behavioral science, and teaching. In my professional life, I've gained experience from many diverse organizations, from film-festivals, to nonprofits, to restaurants, giving me a unique and diverse perspective. 

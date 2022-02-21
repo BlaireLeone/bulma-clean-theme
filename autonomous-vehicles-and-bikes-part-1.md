@@ -8,17 +8,17 @@ menubar: past_articles_menu
 
 ## Can autonomous vehicles (AVs) sense bicycles? How sustainable are AVs? And how could current AV popularity shape the future of bicycling in the US?
 
+March 21, 2021
 
+​	
 
-March, 2021
+A friend of mine, Tom, called me one day asking for a ride - my destination? A two-lane roadway with ample bike lanes on the sides and a concrete curb center divider - also known as one of the main arteries going into town. When I arrived, he was sitting on the curb with a bandaged hand, bruised face, and a general look of shock and bewilderment. Paramedics and patrol cars were parked up ahead, while another man spoke to a couple officers nearby - similarly looking a little dazed. Finally, there was another vehicle - a Honda midsized SUV - parked on the curb, with a quarter of the back window missing. It looked like the whole lower right corner had been punched out.
 
-A friend of mine, who I’ll call Tom, called me to come get him one day and take him to the hospital. with a bandaged hand, bruised face, and a general look of shock and bewilderment. He had just come from the hospital after hitting a car on his bike. A negligent happenstance for some, but a truly unlucky feat for Tom. And to be clear, *Tom* hit the car while riding his bike, the car did not hit him.
-
-Here’s what he told me: 
+Here’s Tom's story:
 
 While riding into town early one morning, the streets were mostly empty.
 
-After shooting down a short, but steep hill, Tom started gaining on a midsized SUV, let’s call it a Honda CRV. He was still coasting from the downhill and hoped to use this momentum for an easier ride on the subsequent flat part coming into town. 
+After shooting down a short, but steep hill, Tom started gaining on a midsized SUV. He was still coasting from the downhill and hoped to use this momentum for an easier ride on the subsequent flat part coming into town. 
 
 Tom was accelerating so fast from the momentum, he started making moves to pass the Honda ahead of him. As he was coming up on the car’s back right bumper, but still a reasonable distance behind, a pedestrian ran through the crosswalk ahead of the car. As Tom put it, the guy appeared out of nowhere, whooped and sprinted across the road, then disappeared into a nearby park. And though the car was still a good distance from the crosswalk, it stopped completely, causing the back wheels to swing into the bike lane.  
 

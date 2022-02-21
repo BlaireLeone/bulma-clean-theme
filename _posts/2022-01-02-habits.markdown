@@ -12,10 +12,8 @@ tags: habits friction fast slow Daniel-Kahneman
 series: habits_series
 toc: true
 toc_title: Contents
-summary: Friction, a concept most people are familiar with from one science class or another, is also a term from behavioral economics, which can largely be thought of as a subfield of both psychology and economics.
+summary: Friction, a concept most people are familiar with from one science class or another, is also a term from behavioral economics, and can come in handy when changing our daily behaviors.
 ---
-
-Friction, a concept most people are familiar with from one science class or another, is also a term from behavioral economics, which can largely be thought of as a subfield of both psychology and economics.
 
 ## Behavioral Economics
 

@@ -5,6 +5,7 @@ subtitle:
 hero_height: is-small 
 callouts: home_callouts
 show_sidebar: true
+hero_image: /img/Hobbs_Blaire_Headshot.jpg
 ---
 
 ![](/img/Hobbs_Blaire_Headshot.jpg)

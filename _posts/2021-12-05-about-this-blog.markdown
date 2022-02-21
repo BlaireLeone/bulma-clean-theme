@@ -15,7 +15,7 @@ summary: In the past few years, I have become very health and sustainability con
 
 
 
-# About this blog
+# What is Conscious Consumerism
 
 In the past few years, I have become very health and sustainability conscious. I have always been the frugal type, having been raised by financially scrupulous parents. In college, I became aware of the fact that most of my frugal habits were incidentally also sustainable and, in some respects, healthy. For instance, bringing my own bags to the store, avoiding take-out, reusing jars and containers, etc.
 

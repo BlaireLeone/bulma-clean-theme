@@ -13,7 +13,7 @@ items:
     #icon: fa-copy
     description: >
     call_to_action_name: View Portfolio
-    call_to_action_link: /blaires-work-page/
+    call_to_action_link: /portfolio/
 
   - title: Resume/CV
     subtitle: Or scroll down for more about Blaire

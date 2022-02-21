@@ -24,7 +24,7 @@ The cellphone I decided to buy two years ago because it was cheap, durable, stra
 
 Not only did this small, seemingly insignificant, decision touch so many people, in mining and transporting the materials, whole ecosystems were affected.
 
-I realize that this could be perceived as me soliloquizing to never buy anything, ever, in case it leaves a mark. But that's not what I mean. Instead, I hope for a consumption reckoning. For individuals to be more mindful and intentional when buying, or more broadly, when following habits. This relies on making conscious choices that ask what timeline do I create with this decision?
+I realize that this could be perceived as me soliloquizing to never buy anything, ever, in case it leaves a mark. But that's not what I mean. Instead, I hope for a consumption reckoning. For individuals to be more mindful and intentional when buying, or more broadly, when following habits. This relies on making conscious choices that asks "what timeline have I created with this decision?" - a metaverse question, but one that has many follow-ups like "what could it look like if I tried something else?"
 
 
 

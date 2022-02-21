@@ -3,7 +3,7 @@ title: Writings
 subtitle: by Blaire Hobbs
 layout: page
 show_sidebar: false
-menubar: porfolio_menu
+menubar: portfolio_menu
 ---
 
 I am an emerging journalist covering environmental sustainability and policy, technology, food, media literacy, people, culture, and behavioral science. I am especially drawn to in-depth investigative pieces on policy and society, as well as writing about community and individual experience. 

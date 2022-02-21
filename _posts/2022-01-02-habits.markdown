@@ -17,7 +17,9 @@ summary: Friction, a concept most people are familiar with from one science clas
 
 ## Behavioral Economics
 
-In general, **behavioral economics** examines human behavior and decision-making. While more of a psychological science in practice, it is also considered an economic discipline for how individual decision-making affects broader socio-economic trends. For instance, behavioral economists might study the proportion of people that bought this particular product compared to another, and why? Or what made this insurance plan, or that gym membership more popular. While behaviorists are curious about particular decisions, they, more accurately, are curious about what made this decision so appealing out of the array of decisions available. Why did they choose an Apple product vs Samsung or Motorola? 
+------
+
+Behavioral economics examines human behavior and decision-making. While more of a psychological science in practice, it is also considered an economic discipline for how individual decision-making affects broader socio-economic trends. For instance, behavioral economists might study the proportion of people that bought this particular product compared to another, and why? Or what made this insurance plan, or that gym membership more popular. While behaviorists are curious about particular decisions, they, more accurately, are curious about what made this decision so appealing out of the array of decisions available. Why did they choose an Apple product vs Samsung or Motorola? 
 
 Most behaviors seem obvious and therefore deliberate: affirming strongly held beliefs - like the decision to attend a place of worship (if you have a particular faith) or the decision to join an extraterrestrial book club (if you believe in aliens); performing a practical or efficient task – like doing your laundry because you ran out of clean underwear or taking the train to work because it’s faster than driving. 
 
@@ -31,9 +33,11 @@ Nobel Prize winning psychologist Daniel Kahneman, however, has a new perspective
 
 **Fast thinking**, on the other hand, applies to decisions that are automatic and require little to no thought to motivate us. They are subconscious or intuitive - we have done them for so long we do them unthinkingly or we do them because of *gut instinct* – a principle not known for its scientific rigor, yet still behaviorally meaningful. This is not to say that we are being lazy; it would be impossible to think critically about every decision and movement every day – especially for activities like walking, breathing, speaking, or even putting your shoes and socks on (are you a left foot first kind of person or a right one?). Some things need to be automatic to free up space for other things that require more thought. In a way, you could call this task prioritization. 
 
-But thinking fast is where our habits tend to catch up with us. According to James Clear, author of Atomic Habits, habits are small decisions you make and actions you perform every day. In fact, some researchers think they make up about 40% of our daily behaviors.[[1\]](#_ftn1) Habits are fast thinking and thus mostly intuitive. Much like Pavlov’s drooling dogs[[2\]](#_ftn2), habits occur on impulse. 
+But thinking fast is where our habits tend to catch up with us. According to James Clear, author of Atomic Habits, **habits** are small decisions you make and actions you perform every day. In fact, some researchers think they make up about 40% of our daily behaviors.[[1\]](#_ftn1) Habits are fast thinking and thus mostly intuitive. Much like Pavlov’s drooling dogs[[2\]](#_ftn2), habits occur on impulse. 
 
 ## Friction
+
+------
 
 So where does friction come in? **Friction** refers to the factors that make it harder to accomplish our desired goals[[3\]](#_ftn3) or demotivate us from habits we otherwise would pursue. It might be obvious, but the easier a task, or the less steps involved, the more likely we are to do it. For instance, which involves more steps - elevator or staircase? Friction is our staircase [[4\]](#_ftn4) Like the physical friction that slows objects down, behavioral friction makes it just a little more difficult to achieve behaviors we desire. 
 
@@ -55,15 +59,18 @@ If you have a chocolate or candy affinity, placing it on the top shelf of your c
 
 Trying to eat more fruits and veggies instead of chocolate and candy? Try prepping your fruits and veggies ahead of time. Cut them into smaller peices and keep them in a tupperware. This makes the veggies more snackable and appealing and thus makes you more inclined to eat them when you're feeling snacky or maybe prepping other meals.
 
-​	
+------
 
 Companies, too, take friction into consideration when marketing their products and ensuring you buy. It’s in their best interest that you continue purchasing, and it’s a common practice now for company websites to ask if you would like to save your card information – they, like you, would rather you not have to get up for your wallet. Thus, by identifying and eliminating friction, they can profit.
 
 And individuals can do the same.
 
-If you’re looking to make changes - read yourself and your habits - consider if you need to reduce or increase friction - set goals and work at them by adjusting your friction through trial and error. 
+If you’re looking to make changes:
 
-In this blog, I'll be referring back to friction often, when suggesting how to build healthy habits and sustainable solutions in your daily life.
+- give yourself a behavioral audit 
+
+- consider if you need to reduce or increase friction 
+- set goals and work at them by adjusting your friction through trial and error
 
 ------
 

@@ -2,8 +2,6 @@
 layout: page
 title: Trashlands
 subtitle: by Alison Stine
-toc: true
-toc_title: Content
 menubar: book_reviews_menu
 show_sidebar: false
 ---

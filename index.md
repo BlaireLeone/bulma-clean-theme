@@ -7,7 +7,7 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-![](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Hobbs_Blaire_Headshot.jpg)
+![](/img/Hobbs_Blaire_Headshot.jpg)
 
 # About Blaire
 

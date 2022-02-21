@@ -3,6 +3,8 @@ layout: page
 title: Binti: The Complete Trilogy
 subtitle: by Nnedi Okorafor
 description: This is a review about the Binti series
+hero_height: is-medium
+hero_darken: true
 hero_image: /img/Binti.jfif
 show_sidebar: false
 menubar: book_reviews_menu

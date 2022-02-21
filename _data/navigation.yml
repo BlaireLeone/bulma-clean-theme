@@ -3,6 +3,7 @@
 - name: Resume/CV
   link: /resume-cv-page/
 - name: Blog
+  link: /blog/
   dropdown:
     - name: Healthy Habits for the Conscious Consumer
       link: /blog/

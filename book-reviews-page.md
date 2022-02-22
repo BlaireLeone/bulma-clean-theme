@@ -9,7 +9,7 @@ hero_image: /img/books-8.jfif
 
 I mostly read science fiction, fantasy, and general fiction, but I like to dip my toe into a good mystery or engaging nonfiction too! 
 
-While I start a lot of books, I don't finish most of them. Often this is because I just didn't like the book or wasn't as engaged as I wanted to be, but I find that this depends just as much on my reading interests as on my current stress or workload levels. Either way, I only discuss the books that I finished, to give the book a fair shake.
+While I start a lot of books, I only finish about 75% of them. Some books I put down after a few chapters because I'm not as engaged as I'd like to be; other times I'm distracted by work or stress and have trouble finding the story thread. Either way, to give the book a fair shake, I only discuss the books that I feel other people would really enjoy.
 
-Also, for each review, I give an elevator pitch outlining the reader who I think would get the most enjoyment from the book. Because everyone has book elements that pique their interests most, and because genres are so ambiguous and fluid - a person who likes mysteries may also enjoy a sci-fi with mystery tones.
+Also, for each review, I will give an elevator pitch outlining who the book may be best intended for. We all read for individual enjoyment and we all enjoy different book elements. More than that genres are so ambiguous and fluid - a person who likes mysteries may also enjoy a sci-fi with mystery tones. Genre labels and back-cover summaries don't always give an accurate impression of the books mood and structure.
 

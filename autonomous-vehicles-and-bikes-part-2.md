@@ -1,6 +1,6 @@
 ---
 title: Autonomous vehicles and bicycles part 2
-subtitle: Why autonomous vehicles have a hard time identifying bicylists and what is being down to counter that
+subtitle: Why autonomous vehicles have a hard time identifying bicyclists and what is being down to counter that
 layout: page
 show_sidebar: false
 menubar: past_articles_menu
@@ -13,6 +13,12 @@ menubar: past_articles_menu
 ### *Elaine Herzberg*
 
 In March 2018, [Elaine Herzberg](https://usa.streetsblog.org/2019/03/08/uber-got-off-the-hook-for-killing-a-pedestrian-with-its-self-driving-car/) was struck and killed by an Uber owned self-driving vehicle out for a test drive, as she walked her bike across an Arizona street. She was the first AV-related pedestrian fatality. It should be noted, however, that a backup driver was behind the wheel, and the AEBs had been disabled, so the exact degree of the car’s (and by extension Uber’s) fault is indeterminate.[[1\]](#_ftn1) It was presumed that the car recognized neither Herzberg nor the shape of her bag-laden bicycle, suggesting a lack of thorough vetting for AV’s bicycle identification models. The difference between Tom’s and Elaine’s incidents, however, is that Tom was the unfortunate recipient of an operational braking system, attempting to circumvent collision with a pedestrian. Elaine on the other hand, was the pedestrian in this case, however, the system was not operational, nor did it detect her existence until it was too late. 
+
+![](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\Elaine Herzberg Uber car.jpg)
+
+/img/Elaine Herzberg Uber car.jpg
+
+
 
 ![Elaine Herzberg bike](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\Elaine Herzberg Uber car.jpg)
 

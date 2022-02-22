@@ -1,16 +1,18 @@
 ---
-title: 
-subtitle: 
+title: Resume/CV
+subtitle: Journalist | Freelance Writer and Editor
 layout: page
 toc: true
 toc_title: Contents
 show_sidebar: false
-hide_hero: true
+hide_hero: false
+hero_darken: true
+hero_image: /img/bryce.jpg
 ---
 
 
 
-## Professional Experience    
+## Professional Writing Experience    
 
 ------
 
@@ -48,43 +50,9 @@ FALL 2020
 
 - Fact-checked, proofread, and pitched stories for a monthly newsletter on election updates including poll numbers, policy news, high school election literacy, historical pieces, and volunteering efforts.  
 
-- Copyedited formatting, selected images, and created headlines.      
+- Copyedited formatting, selected images, and created headlines.     
 
   ​	
-
-#### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
-
-SPRING - SUMMER 2019 
-
-- Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
-- Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.
-- Transcribed and annotated 50+ interviews from participants during trials. 
-
-​	
-
-#### Psychology and Writing Instructor *• University of California Santa Cruz* *•* *Santa Cruz, CA* 
-
-SPRING 2019
-
-- Taught  25 students the foundations of psychology: translated complex information from textbooks and academic writing, developed curriculum, designed lesson plans, created PowerPoints and worksheets for bi-weekly lectures. 
-
-- Provided 1:1 instruction to discuss research papers and hosted writing workshops to improve writing and research citation skills. 
-
-- Awarded **Best Student Teacher in Psychology Award** for excellence in teaching psychology and extra time I dedicated to hosting workshops.
-
-  ​	
-
-#### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
-
-2017 – MARCH 2020
-
-- Responsible for keeping up-to-date on local seafood and seasonal foods, restaurant food preparation techniques, and rotating menu to advise customers on meal options.
-
-- Collaborated and communicated with diverse personalities across customers and restaurant team.
-
-- Waited on 7+ tables a night: prioritized tasks; maintained attention to detail. 
-
-​	
 
 #### Herbal Apprentice and Newsletter Writer *• HAALo Botanicals •* *Nevada City, CA*  
 
@@ -98,7 +66,43 @@ SPRING 2019
 
 - Worked at local farms and personal gardens: planted, watered, tended, and harvested fruits, vegetables, and seasonal plants.  
 
+  
+
+## Academic Work Experience
+
+#### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
+
+SPRING - SUMMER 2019 
+
+- Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
+- Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.
+- Transcribed and annotated 50+ interviews from participants during trials. 
+
+#### Psychology and Writing Instructor *• University of California Santa Cruz* *•* *Santa Cruz, CA* 
+
+SPRING 2019
+
+- Taught  25 students the foundations of psychology: translated complex information from textbooks and academic writing, developed curriculum, designed lesson plans, created PowerPoints and worksheets for bi-weekly lectures. 
+
+- Provided 1:1 instruction to discuss research papers and hosted writing workshops to improve writing and research citation skills. 
+
+- Awarded **Best Student Teacher in Psychology Award** for excellence in teaching psychology and extra time I dedicated to hosting workshops.
+
   ​	
+
+## Professional Leadership and Multimedia Experience
+
+------
+
+#### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
+
+2017 – MARCH 2020
+
+- Responsible for keeping up-to-date on local seafood and seasonal foods, restaurant food preparation techniques, and rotating menu to advise customers on meal options.
+
+- Collaborated and communicated with diverse personalities across customers and restaurant team.
+
+- Waited on 7+ tables a night: prioritized tasks; maintained attention to detail. 
 
 #### Book Sales Associate *• The Bookseller •* *Grass Valley, CA*
 
@@ -106,17 +110,11 @@ SEPTEMBER - DECEMBER 2016
 
 - Read extensively and studied existing books and best sellers, new authors, and literary trends to assist customers with book choices.
 
-
-​	
-
 #### Event Coordinator *• Miners Foundry Cultural Center •* *Nevada City, CA*
 
 JANUARY - MARCH 2016
 
 - Coordinated event details with artists, bands, and festival coordinators such as dates, arrival, equipment, and ticketing.
-
-
-​	
 
 #### Assistant Festival Director *• Nevada City Film Festival* *•* *Nevada City, CA*  
 
@@ -139,9 +137,7 @@ MAY - SEPTEMBER 2015
 
 MARCH 2020 
 
-- Created maps of California watersheds and CA Prop 37 electorate distributions
-
-​	
+- Created maps of California watersheds and CA Prop 37 electorate distributions.
 
 #### B.S. in Cognitive Science  • *University of California Santa Cruz •* *Santa Cruz, CA*  
 
@@ -205,15 +201,11 @@ SEPTEMBER 2021 - PRESENT
 
 I work remotely  with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
 
-​	
-
 #### **Beach Clean-ups**  •  *Save Our Shores* • *Santa Cruz, CA*
 
 2014 – 2021
 
 I combed beaches once a month and picked up trash with *Save Our Shores,* a nonprofit in Santa Cruz, CA. I also organized my own beach clean-ups with friends and volunteers.
-
-​	
 
 #### **Gardening**  •  *UCSC Arboretum* • *Santa Cruz, CA*
 

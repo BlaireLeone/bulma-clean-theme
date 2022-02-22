@@ -8,9 +8,9 @@ menubar: plant_newsletter_menu
 
 ## **The v*Herb*iage: Processing Herbs**
 
-Since HAALo was founded, we've talked with so many people about where our herbs come from and how we process them. Sometimes there are concerns about the quality of the herbs or the efficacy of our harvesting and dying process, but mostly it seems our customers are just surprised by the quantity of herbs we process! 
+Since HAALo was founded, we've talked with dozens of people about where our herbs come from and how we process them. Sometimes, we hear concerns about the quality of the herbs or the efficacy of our harvesting and dying process, but mostly it seems our customers are just surprised by the quantity of herbs we process! 
 
-Our herbs are cultivated in-house by our staff or dropped off by local farms or foragers (check out our website for a full list of our botanical sources) - for these we may only need to dry, garble, and store the herbs (see below). But keep reading for a how-to on processing herbs, especially in large quantities.
+Our herbs are either cultivated in-house by our staff, dropped off by local farms or foragers (check out our website for a full list of our botanical sources), or ordered from vetted companies (you can see this list on the site as well!) as many herbs we provide aren't native to California. But for everyone curious about how we process our herbs, here's a step-by-step guide from harvesting to storing herbs especially in large quantities.
 
 ### *Harvesting* 
 

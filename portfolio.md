@@ -16,3 +16,8 @@ I started my reporting career working as an herbal apprentice and newsletter wri
 Later, I graduated with a BS in Cognitive Science and a minor in Literature from the University of California Santa Cruz. In college, I worked as a psychology and writing instructor, teaching the foundations of psychology and working with students on their writing, while also mentoring them on how to write a research paper. Similarly, I worked as a research assistant in the *Spontaneous Communications Lab* of the *UCSC Psychology Department*, where I drafted literature reviews on the spread of fake news and the effect of power imbalances on conversation, and mentored interns on research validity.
 
 During college, I was involved with several student ventures: I worked as an editor with *Chinquapin Magazine*, a student-run literary magazine, and ran monthly movie nights with the *Psi-Chi* club, an international psychology association. 
+
+My appreciation for films and storytelling developed from my experience as assistant festival director for the *Nevada City Film Festival*, where I watched and discussed dozens of films with my team to determine their fit for the festival. 
+
+I hope to combine my experience with storytelling, behavioral science, and media literacy to continue reporting on complex and diverse issues.
+

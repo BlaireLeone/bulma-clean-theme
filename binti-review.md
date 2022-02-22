@@ -12,7 +12,7 @@ menubar: book_reviews_menu
 
 February 12, 2022
 
-I'm in the midst of reading the second book, but I'll put in a review when I'm finished!
+I'm in the midst of reading the third book, but I'll put in a review when I'm finished!
 
 ![Image result for binti book](https://th.bing.com/th/id/OIP.3BzM0c-kRbdXXiAcwDrocAHaEK?w=316&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7)
 

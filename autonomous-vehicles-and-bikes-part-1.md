@@ -1,6 +1,6 @@
 ---
 title: Autonomous Vehicles and bicycles part 1
-subtitle: Why autonomous vehicles have a hard time identifying bicylists and what is being down to counter that
+subtitle: Why autonomous vehicles have a hard time identifying bicyclists and what is being down to counter that
 layout: page
 show_sidebar: false
 menubar: past_articles_menu
@@ -12,15 +12,15 @@ March 21, 2021
 
 ​	
 
-A friend of mine, Tom, called me one day asking for a ride - my destination? A two-lane roadway with ample bike lanes on the sides and a concrete curb center divider - also known as one of the main arteries going into town. When I arrived, he was sitting on the curb with a bandaged hand, bruised face, and a general look of shock and bewilderment. Paramedics and patrol cars were parked up ahead, while another man spoke to a couple officers nearby - similarly looking a little dazed. Finally, there was another vehicle - a Honda midsized SUV - parked on the curb, with a quarter of the back window missing. It looked like the whole lower right corner had been punched out.
+My friend, Tom, called me one day asking for a ride home - my destination? A near empty two-lane city street, with wide bike lanes and a park nearby - also known as one of the main arteries going into town. When I arrived, he was sitting on the curb with a bandaged hand, bruised face, and a general look of shock and bewilderment. Another man, looking similarly dazed, spoke to a couple officers nearby. Several vehicles were parked along the curb - paramedics and patrol cars investigating the accident, and another vehicle - a Honda midsized SUV - parked on the curb, with a quarter of the back window missing. It looked like the whole lower right corner had been punched out.
 
-Here’s Tom's story:
+Tom explained:
 
-While riding into town early one morning, the streets were mostly empty.
+He had been riding his bike into town early in the morning - it was a Tuesday [**cite**] - and the streets were mostly empty.
 
 After shooting down a short, but steep hill, Tom started gaining on a midsized SUV. He was still coasting from the downhill and hoped to use this momentum for an easier ride on the subsequent flat part coming into town. 
 
-Tom was accelerating so fast from the momentum, he started making moves to pass the Honda ahead of him. As he was coming up on the car’s back right bumper, but still a reasonable distance behind, a pedestrian ran through the crosswalk ahead of the car. As Tom put it, the guy appeared out of nowhere, whooped and sprinted across the road, then disappeared into a nearby park. And though the car was still a good distance from the crosswalk, it stopped completely, causing the back wheels to swing into the bike lane.  
+Tom was accelerating so fast from the momentum, he started making moves to pass the car. As he was coming up on it's back right bumper, but still a reasonable distance behind, a pedestrian ran through the crosswalk ahead of the car. As Tom put it, the guy appeared out of nowhere, whooped and sprinted across the road, then disappeared into a nearby park. And though the car was still a good distance from the crosswalk, it stopped completely, causing the back wheels to swing into the bike lane.  
 
 Tom, still trying to maximize his speed from the downhill, ran arm-first into the back window, while his face swung around and hit the side of the car. His hand, probably in trying to brace himself, punched through the bottom right corner of the window and his arm went through to the shoulder.
 

@@ -12,11 +12,11 @@ By: Blaire Hobbs
 
 Since the new year, I’ve been reflecting on the process and implications of our planet’s volatile climate. While human populations around the world are at risk, it wasn’t until I stayed with my parents in the Sierra Nevada Foothills last fall and observed the local bear population that two things occurred to me:
 
-1.) Climate change impacts more than just people - wildlife have been forced to adapt too, and in ways that potentially impact other species, people, and ecosystems. 
+1.) Climate change impacts more than just people: wildlife has also been forced to adapt, and in some ways that could be harmful to other species, people, and ecosystems. 
 
 2.) Though the present is fraught with natural disasters like hurricanes, floods, and wildfires, the climate crisis isn’t just epic and catastrophic - it is also begrudgingly slow, comprehensive, and indiscriminate.
 
-These two facts are un-startlingly obvious. It's well-documented that global temperatures have been rising for over a century [**cite**] - and wildlife, as proverbial children of Earth, should naturally be impacted just as humans are. But previously, I had never observed these two facts in combination, through up-close and isolated events.
+These two facts are un-startlingly obvious. [Global temperatures](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php) have been rising for well over a century. And wildlife, as proverbial children of Earth, should naturally be impacted just as humans are. But prior to the bears, I had never  these two facts had never felt so impactful to me observed these two facts in combination, nor with my own eye.
 
 ------
 

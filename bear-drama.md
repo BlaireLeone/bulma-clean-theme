@@ -1,6 +1,6 @@
 ---
-title: How climate change has shifted black bear behavior across the U
-subtitle: How a local population of bears revealed startling truths about climate change
+title: Bear Drama
+subtitle: How climate change has shifted black bear behavior across the US 
 layout: page
 show_sidebar: false
 menubar: portfolio_menu
@@ -19,7 +19,7 @@ Since the new year, I’ve been reflecting on the implications of our planet’s
 
 These biproducts of such all-encompassing circumstances are indisputable, and, at this point, too conspicuous to disbelieve. [Global temperatures](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php) have been rising for well over a century. And wildlife, as proverbial children of the Earth, should naturally be impacted just as humans are. 
 
-**California Bears: they're undeniable**
+**California Bears: They're Undeniable**
 
 ------
 
@@ -33,7 +33,7 @@ In the last decade, however, the bear population who frequented this tree has sh
 
 Normally, these interactions would have been an intriguing slice of "life in the food chain", but with the perpetual tinge of umber smoke darkening the sky from several nearby wildfires, these incidents feel more meaningful. 
 
-**Bears**
+**Bears Across the US**
 
 ------
 

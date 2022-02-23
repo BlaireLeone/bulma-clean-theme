@@ -21,17 +21,27 @@ These two truths are obvious. [Global temperatures](https://earthobservatory.nas
 
 ------
 
-Bears are a common staple of foothill life; they are omnivores, [eating practically anything edible](https://wildlife.ca.gov/Conservation/Mammals/Black-Bear/Biology#311311067-food-preferences) from ants to nuts, to berries, to human garbage. Despite the variety of colors seen in California bears, only the Black Bear runs wild in California, with fur color ranging from black to tan and occasional white chest patches. Estimates put the population at around 30,000 in California.
+Bears are a common staple of foothill life; they are omnivores, [eating practically anything edible](https://wildlife.ca.gov/Conservation/Mammals/Black-Bear/Biology#311311067-food-preferences) from ants to nuts, to berries, to grasses. Despite the variety of colors seen in California bears, only the Black Bear runs wild in California; their fur ranges from black to tan, with occasional white chest patches. Black bears have an average life span of 18 years, and estimates put the population at around 30,000 in California.
 
-At least three of them frequently visit my parent’s backyard. And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year – thus, a bountiful honeypot attracting animals from miles around. Usually just one bear until her cubs showed up. Occasionally another bear would arrive, but seemed only to be passing through as we never saw it again; and sometimes these sightings featured a ‘teenaged’ bear that had been a tumbling cub the year prior. But most distinguishing about these sightings: they unpredictable, but routines. Having arrived, they would spend at least an hour sitting in the tree, before climbing down and scavenged for apples they might have missed on the ground.
+At least three of these California bears now frequent my parent’s backyard. And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year – thus, a bountiful honeypot attracting animals from miles around. 
 
-But in the last 5 or 6 years, the bears started behaving a little differently. Less keen on bolting when no obvious threat loomed, they stood their ground and stayed until presumably full. To make matters worse, three bears (the little cinnamon bear, the husky brown bear and her cubs, and the big male black bear) vied for the same space in a standoffish dance my parents fondly refer to as their 'bear drama'. However, it never lasts long as the smaller bear unfailingly sprints away - like any of us, they are afraid of a bigger bear.
+We usually saw one bear throughout the year - usually a she as her cubs arrived not too long after. Occasionally we'd see another bear, but they always seemed to be passing through as we'd never see them again. Sometimes these sightings featured a ‘teenaged’ bear that had been a tumbling cub the year prior. But most distinguishing about these sightings: they were unpredictable, intermittant, but structured. Though we saw them infrequently, they followed the same pattern - having arrived, they would spend at least an hour sitting in the tree before climbing down and scavenging for apples they missed on the ground. If they made it this far, they would amble off uunperturbed, howevever more often than not, they startled from something and bolted away.
+
+Five or six years ago, my parent's noticed a new pattern develop. The bears showed up often, almost daily, and for longer and longer periods. Less keen on bolting when no obvious threat loomed, they stood their ground and stayed until presumably full. To make matters worse, three bears (the little cinnamon bear, the husky brown bear and her cubs, and the big male black bear) vied for the same space in a standoffish dance my parents refer to as their 'bear drama'. However, it never lasts long as the smaller bear unfailingly sprints away - like any of us, they are afraid of a bigger bear.
 
 In the past, these interactions would have been an intriguing slice of life in the food-chain, but with the perpetual tinge of dark umber smoke darkening the sky from several nearby wildfires, these incidents felt more meaningful.
 
 **Bears**
 
 ------
+
+My parent's backyard is just a small microcosm of the greater California and United States, given that black bears [exist across the country](https://wildlifeinformer.com/black-bear-population-by-state/#:~:text=A%20quick%20look%20at%20Black%20Bears%201%20Habitat.,sleep%20they%20go%20into%20varies.%20More%20items...%20). Only nine states, including Hawaii, lack black bear populations, though even most of these have recuring sightings.
+
+Black bears prefer forested areas
+
+Across the country from California, Connecticut has noticed 
+
+
 
 
 

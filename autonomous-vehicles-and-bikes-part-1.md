@@ -1,6 +1,6 @@
 ---
 title: Autonomous vehicles are mainstream now
-subtitle: But what kind of technology do they use and how well can they detect bikes?
+subtitle: What kind of technology do they use and how safe are they?
 layout: page
 show_sidebar: false
 menubar: portfolio_menu

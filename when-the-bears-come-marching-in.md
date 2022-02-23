@@ -1,5 +1,5 @@
 ---
-title: When the Bears Come Marching In
+title: California Bears: they're unforgettable
 subtitle: How a local population of bears revealed startling truths about climate change
 layout: page
 show_sidebar: false
@@ -11,23 +11,27 @@ February 7, 2022
 
 By: Blaire Hobbs
 
-Since the new year, I’ve been reflecting on the implications of our planet’s volatile climate. While human populations around the world are at risk, it wasn’t until I stayed with my parents in the Sierra Nevada Foothills last fall and observed the local bear population that two things occurred to me:
+Since the new year, I’ve been reflecting on the implications of our planet’s volatile climate. While human populations around the world are at risk, it wasn’t until I stayed with my parents in the Sierra Nevada Foothills of California last fall and observed the local bear population that two things occurred to me:
 
 1.) Climate change impacts more than just people: wildlife has also been forced to adapt - in ways that could be harmful to other species, people, and ecosystems. 
 
 2.) Though the present is fraught with natural disasters like hurricanes, floods, and wildfires, the climate crisis isn’t just epic and catastrophic - it is also begrudgingly slow, comprehensive, and indiscriminate.
 
-These biproducts of such all-encompassing circumstances are indistibutable, and, at this point, too conspicuous to disbelieve. [Global temperatures](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php) have been rising for well over a century. And wildlife, as proverbial children of the Earth, should naturally be impacted just as humans are. But prior to monitoring the behavior of these bears, I had never noticed these truths in combination, nor so close to home.
+These biproducts of such all-encompassing circumstances are indisputable, and, at this point, too conspicuous to disbelieve. [Global temperatures](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php) have been rising for well over a century. And wildlife, as proverbial children of the Earth, should naturally be impacted just as humans are. 
+
+**California Bears**
 
 ------
 
-Bears are a common staple of foothill life; they are omnivores, eating practically anything edible from ants to nuts, to berries, to grasses. Despite the variety of colors seen in California bears, only the Black Bear runs wild in California - their fur rangeing from black to tan, with occasional white chest patches. Black bears have an average life span of 18 years, and estimates put the [current population](https://wildlife.ca.gov/Conservation/Mammals/Black-Bear) at around 30,000 in California.
+Despite the variety of colors known to California bears, California only has one wild bear species - the Black Bear. Their fur ranges from black to tan, with occasional white chest patches. Black bears have an average life span of 18 years, and estimates put the [current population](https://wildlife.ca.gov/Conservation/Mammals/Black-Bear) at around 30,000 in California.
 
-At least three of these California bears now frequent my parent’s backyard. And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year – thus, a bountiful honeypot attracting animals from miles around. 
+Black bears prefer forested areas, and thrive best in ecosystems with [structural diversity](https://www.bing.com/search?q=structural+diversity+bio&qs=n&form=QBRE&sp=-1&pq=structural+diversity+bio&sc=1-24&sk=&cvid=57176C65051C4C82877CF88B5A1693C6) - a term used to describe an area with diverse vegetation, though not just diversity of species, but also diversity of height and layout. This complements the bear's diverse diet; the omnivorous black bear eats everything from ants to nuts, to berries, to grasses. 
 
-In the past, only one meticulous bear visited, sometimes with cubs. But now 3 bears vie for the same apples in a standoffish dance my parents refer to as their 'bear drama'. However, it never lasts long as the smaller bear unfailingly sprints away - like any of us, they are afraid of a bigger bear.
+Black bears are a common staple of Sierra Nevada Foothill life. With larger varieties of food and water sources, as compared to other areas in the state, they can thrive more easily . My . And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year – thus, a bountiful honeypot attracting animals from miles around. 
 
-Normally, these interactions would have been an intriguing slice of *life-in-the-food-chain*, but with the perpetual tinge of dark umber smoke darkening the sky from several nearby wildfires, these incidents felt more meaningful. 
+In the past, only one reserved bear visited, sometimes with cubs. But now 3 bears vie for the same apples in a standoffish dance my parents refer to as their 'bear drama'. However, it never lasts long as the smaller bear unfailingly sprints away - like any of us, they are afraid of a bigger bear.
+
+Normally, these interactions would have been an intriguing slice of "life in the food chain", but with the perpetual tinge of umber smoke darkening the sky from several nearby wildfires, these incidents feel more meaningful. 
 
 **Bears**
 

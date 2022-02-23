@@ -1,5 +1,5 @@
 ---
-title: California Bears: they're unforgettable
+title: How climate change has shifted black bear behavior across the U
 subtitle: How a local population of bears revealed startling truths about climate change
 layout: page
 show_sidebar: false
@@ -19,17 +19,17 @@ Since the new year, I’ve been reflecting on the implications of our planet’s
 
 These biproducts of such all-encompassing circumstances are indisputable, and, at this point, too conspicuous to disbelieve. [Global temperatures](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php) have been rising for well over a century. And wildlife, as proverbial children of the Earth, should naturally be impacted just as humans are. 
 
-**California Bears**
+**California Bears: they're undeniable**
 
 ------
 
 Despite the variety of colors known to California bears, California only has one wild bear species - the Black Bear. Their fur ranges from black to tan, with occasional white chest patches. Black bears have an average life span of 18 years, and estimates put the [current population](https://wildlife.ca.gov/Conservation/Mammals/Black-Bear) at around 30,000 in California.
 
-Black bears prefer forested areas, and thrive best in ecosystems with [structural diversity](https://www.bing.com/search?q=structural+diversity+bio&qs=n&form=QBRE&sp=-1&pq=structural+diversity+bio&sc=1-24&sk=&cvid=57176C65051C4C82877CF88B5A1693C6) - a term used to describe an area with diverse vegetation, though not just diversity of species, but also diversity of height and layout. This complements the bear's diverse diet; the omnivorous black bear eats everything from ants to nuts, to berries, to grasses. 
+Black bears prefer forested areas, and thrive best in ecosystems with [structural diversity](https://www.bing.com/search?q=structural+diversity+bio&qs=n&form=QBRE&sp=-1&pq=structural+diversity+bio&sc=1-24&sk=&cvid=57176C65051C4C82877CF88B5A1693C6) - a term used to describe an area with diverse vegetation, though not just diversity of species, but also diversity of height and layout. This complements the bear's diverse diet; the omnivorous black bear eats everything from insects, to nuts, to berries, to grasses, and meat on occasion. 
 
-Black bears are a common staple of Sierra Nevada Foothill life. With larger varieties of food and water sources, as compared to other areas in the state, they can thrive more easily . My . And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year – thus, a bountiful honeypot attracting animals from miles around. 
+Black bears are a common staple of Sierra Nevada Foothill life. With larger varieties of food and water sources, as compared to other areas in the state, they can thrive with lower competition for resources. Living in the foothills my parents see a lot of bears, especially in the backyard. And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year - a bountiful honeypot attracting animals from miles around. 
 
-In the past, only one reserved bear visited, sometimes with cubs. But now 3 bears vie for the same apples in a standoffish dance my parents refer to as their 'bear drama'. However, it never lasts long as the smaller bear unfailingly sprints away - like any of us, they are afraid of a bigger bear.
+In the last decade, however, the bear population who frequented this tree has shifted. Before, one reserved bear sporadically visited, sometimes with cubs, and occasional straggler bears would make a pit stop at the tree during seasonal migrations. But now 3 bears stake out the tree for several months, in a standoffish dance my parents refer to as their 'bear drama'. 
 
 Normally, these interactions would have been an intriguing slice of "life in the food chain", but with the perpetual tinge of umber smoke darkening the sky from several nearby wildfires, these incidents feel more meaningful. 
 

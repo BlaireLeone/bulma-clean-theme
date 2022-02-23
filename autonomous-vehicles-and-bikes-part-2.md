@@ -1,6 +1,6 @@
 ---
-title: What bicyclists contend with regular roadway traffic
-subtitle: And how they are affected by autonomous vehicles
+title: Bicyclists have had issues with traffic since traffic existed
+subtitle: But what does this say about bicyclist's relationship with autonomous vehicles?
 layout: page
 show_sidebar: false
 menubar: portfolio_menu

@@ -66,9 +66,11 @@ FALL 2020
 
 - Worked at local farms and personal gardens: planted, watered, tended, and harvested fruits, vegetables, and seasonal plants.  
 
-  
+  ​	
 
 ## Academic Work Experience
+
+------
 
 #### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
 

@@ -1,9 +1,11 @@
 ---
-title: Autonomous Vehicles and bicycles part 1
-subtitle: Why autonomous vehicles have a hard time identifying bicyclists and what is being down to counter that
+title: Autonomous vehicles are mainstream now
+subtitle: But what kind of technology do they use and how well can they detect bikes?
 layout: page
 show_sidebar: false
-menubar: past_articles_menu
+menubar: portfolio_menu
+hero_darken: true
+hero_image: /img/av-hero.jpg
 ---
 
 ## Can autonomous vehicles (AVs) sense bicycles? How sustainable are AVs? And how could current AV popularity shape the future of bicycling in the US?
@@ -40,15 +42,13 @@ But the question I ultimately believe to be most poignant here is that of how au
 
 What technology allows autonomous vehicles to be autonomous? And is it fair to question AVs in general despite Tom’s story only featuring AEBs?
 
-In short, autonomous here means driver-less, or else, having little to no need for human supervision. But within this, AVs can be deconstructed into ascending levels of autonomy. The Society of Automotive Engineers (SAE) categorized AVs in 2013, and then [updated them again](https://www.sae.org/news/press-room/2018/12/sae-international-releases-updated-visual-chart-for-its-“levels-of-driving-automation”-standard-for-self-driving-vehicles) in 2018, developing 6 tiers of automation.[[1\]](#_ftn1) While it includes Level 0, where the car is completely manual, the automation evaluation spans from Level 1, in which the vehicle only makes suggestions to a human driver, to Level 5, where the vehicle has complete control and passengers have confidence in not supervising. Between Levels 2 to 3, is the threshold between a human’s control and the vehicles; thus, Level 3 signals the beginning of vehicle autonomy. Despite some company’s misleading advertising, like Tesla’s “[full self-driving](https://www.thedrive.com/news/26700/tesla-puts-full-self-driving-back-on-the-menu-but-its-not-what-you-think)” tech package, as yet, no company involved with AV technology has reached level 5. The table below details the different levels. 
+In short, autonomous here means driver-less, or else, having little to no need for human supervision. But within this, AVs can be deconstructed into ascending levels of autonomy. The Society of Automotive Engineers (SAE) categorized AVs in 2013, and then [updated them again](https://www.sae.org/news/press-room/2018/12/sae-international-releases-updated-visual-chart-for-its-"levels-of-driving-automation"-standard-for-self-driving-vehicles) in 2018, developing 6 tiers of automation.[[1\]](#_ftn1) While it includes Level 0, where the car is completely manual, the automation evaluation spans from Level 1, in which the vehicle only makes suggestions to a human driver, to Level 5, where the vehicle has complete control and passengers have confidence in not supervising. Between Levels 2 to 3, is the threshold between a human’s control and the vehicles; thus, Level 3 signals the beginning of vehicle autonomy. Despite some company’s misleading advertising, like Tesla’s “[full self-driving](https://www.thedrive.com/news/26700/tesla-puts-full-self-driving-back-on-the-menu-but-its-not-what-you-think)” tech package, as yet, no company involved with AV technology has reached level 5. The table below details the different levels. 
 
-![Text Box:  Levels of Autonomy developed by the Society of Automotive Engineers. The blue signifies human control while green is vehicle control]
+ ![](/img/AVs level of Autonomy 3.jpg)  
 
- 
+[Levels of Autonomy developed by the Society of Automotive Engineers. The blue signifies human control while green is vehicle control]
 
- ![AVs level of Autonomy 3](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AVs level of Autonomy 3.jpg)  
-
-<img src="C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV Levels of Autonomy.png" alt="AV Levels of Autonomy" style="zoom:67%;" />
+ ![](/img/AV Levels of Autonomy.png)
 
 
 
@@ -60,15 +60,11 @@ In short, autonomous here means driver-less, or else, having little to no need f
 
 Looking back at Tom’s story, we don’t see a Level 5 driverless vehicle. Instead, his experience features a human-driven car equipped with AEBs, a form of brake assist designed to help the driver identify and avoid head on collisions, putting this vehicle between a Level 0 and a Level 1, according to SAE’s interpretation.[[2\]](#_ftn2) These brakes operate by receiving a command from a computer once it receives information from built-in sensors. When these sensors detect possible impending obstacles, they relay that data to the computer, which decides if they are indeed obstacles to be avoided; if so, the computer gives the word to brake. In other words, AEBs are a low-level form of artificial intelligence (AI). Like these AEB’s, AI makes decisions according to information it receives. While the AI of today is getting increasingly more complicated, thus analyzing a broader spectrum of data in more depth and outputting information akin to a human’s intelligence (and in many ways faster), at their core they operate by gathering, synthesizing, and processing data. Making decisions similarly to how an AEB makes decisions.
 
-![AEBs](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AEBs.jpg)
+![](/img/AEBs.jpg)
 
 
 
-Thus, despite Tom’s brush with what could be considered a minor version of AI, these brakes are in fact the immature fledglings of a fully autonomous vehicle. More than that, the AVs of today are intended by some to be the prototype of a nationwide fleet of vehicles. Already, the technology that enables AVs has grown exponentially in the last decade, to the point where we currently see functioning Level 4 vehicles on roadways worldwide (albeit on a trial level as most are still under supervision, and prone to adjustments as the systems run into novel situations). And progress begets progress, as they say. Given this projected eventuality, I believe it’s fair to interrogate the nature of AVs in general, as they are poised to be the next greatest technological advancement since the bread slicer gave us sliced bread.
-
-
-
-​		
+Thus, despite Tom’s brush with what could be considered babies first AI, these brakes are in fact the immature fledglings of a fully autonomous vehicle. More than that, the AVs of today are intended by some to be the prototype of a nationwide fleet of vehicles. Already, the technology that enables AVs has grown exponentially in the last decade, to the point where we currently see functioning Level 4 vehicles on roadways worldwide (albeit on a trial level as most are still under supervision, and prone to adjustments as the systems run into novel situations). And progress begets progress, as they say. Given this projected eventuality, I believe it’s fair to interrogate the nature of AVs in general, as they are poised to be the next greatest technological advancement since the bread slicer gave us sliced bread.
 
 Driverless-ness, however, is a tall order. While certainly more than the sum of its parts, when disassembled, we can see the complex systems that AVs must employ to function. Among technologies like GPS, automatic braking, steering, and locking, AVs have what Alan Amici, vice president of TE Connectivity, an automotive company at the forefront of sensory technology, identifies as the 3 most essential AV elements: sensors, connectivity, and software/control algorithms.
 
@@ -78,7 +74,7 @@ Sensors are pivotal to the car’s ability to navigate and more than that, they 
 
 
 
-*![AV car tech](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV car tech.png)*
+![](/img/AV car tech.png)
 
 
 
@@ -88,13 +84,13 @@ All this sensory data, however, is useless to a system that can’t make confide
 
 Not only do these models need to identify what they are looking at, they are also need to reconcile speed and direction of surrounding objects. And in doing so, an algorithm should be able to predict the movements of these objects to inform its own navigational decisions. For instance, if the vehicle wants to switch lanes, it must determine if any entity is currently occupying the space it seeks to fill, or if there is an approaching vehicle about to pass. If so, it must calculate that vehicle’s speed and adjust accordingly. Alternatively, if a deer runs across the road, while perhaps unpredictable, it would be useful to know if that deer would already be out of the lane by the time the vehicle gets there. Thus, in calculating the deer’s speed and direction, or in other words, its velocity, the AI may determine if it only needs to slow down instead of stop, perhaps saving its passengers unnecessary stress.
 
-![[004447]](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\[004447].jpg)
+![](/img/connectivity-1.jpg)
 
 ##### *Connectivity*
 
 Lastly, while the AVs are fully operational with just sensors and algorithms, they also need input from surrounding vehicles or wireless hubs (i.e. connectivity) if they are to be more efficient and operate in proximity. If a vehicle decides to stop because it thinks the plastic bag is a child, it needs to provide a forewarning to the next vehicle that it’s stopping, so the next car may simultaneously and safely stop or else provide a wide berth. Additionally, fleets of AVs on the roadway, if not interconnected, may be dangerous. Take for example two AVs on the outside lanes of a three-lane highway keeping pace with each other. What happens when they both want to switch into the middle lane at the same time? Perhaps an improbable situation, but one that could cause an accident, nonetheless. That may only occur, however, if they aren’t able to communicate their intentions and synchronize their movements. Thus, AVs cannot operate on independent systems.
 
-![AV image 3](C:\Users\bleoh\OneDrive\Documents\GitHub\bulma-clean-theme\img\Git hub bikes\AV image 3.jpg)
+![](/img/AV image 3.jpg)
 
 More than that, connectivity could boost efficiency in driving. Traffic could synchronize[[5\]](#_ftn5), eliminating the-mile-long start/stop jerking; stop lights could become non-existent. In a large intersection, vehicles would automatically make space for each other. And, an overarching algorithmic system, essentially acting as an air traffic controller, could calculate each vehicle’s route, determine where each AV will be at any given moment, and ultimately, minimize everyone’s time in traffic. Vehicles could also receive moment by moment reports from traffic and accident centers, like The Department of Transportation, local newscasters, or Google Maps. This could be a boon for a vehicle’s passengers; AVs could automatically switch routes due to road closures, traffic, or iciness, saving passengers time and reducing contact with safety hazards.
 
@@ -102,7 +98,21 @@ More than that, connectivity could boost efficiency in driving. Traffic could sy
 
 While I’m not going to focus too much on AV connectivity technology, it’s interesting to note where the connectivity occurs. The picture below summarizes the big 5 in AV wireless tech; it just doesn’t identify the individual objects such as trees, buildings, rocks and the like, which may have sensors attached to them to inform AVs of their location. This could be helpful in circumnavigating unique roadway situations where a tree, for instance, is situated very closely to the road. 
 
-![image-20220220143814317](C:\Users\bleoh\AppData\Roaming\Typora\typora-user-images\image-20220220143814317.png)
+![](/img/connectivity.png)
+
+
+
+### **Autonomous Vehicle Collision Stats**
+
+*AV Collisions*
+
+Despite sensationalist belief, the majority of AV incidents are not explosive or fatal, nor are head on collisions representative of the accidents that self-driving vehicles usually engage in. In the US especially, we are prone to think that fatal high-speed collisions are the norm for the AVs, given media coverage of such incidents as Elaine Herzerb (who I discuss in Part 2) and also Tesla’s [numerous highway crashes](https://insideevs.com/tag/tesla-autopilot/). 
+
+[Tentative research](http://www.umich.edu/~umtriswt/PDF/UMTRI-2015-34_Abstract_English.pdf]) from 2019 has shown that, in actuality, rear-end collisions make up the majority of AV accidents at 64.2% - a staggeringly high number considering that the next most frequent accident type for AVs are angle crashes (those that mostly occur at intersections with cars collide when driving at perpendicular directions or turning) at 31.4%. Even [conventional vehicles](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812981) (CVs) with a human driver don’t get close to that rear ending stat; only 28.3% of motor vehicle accidents in the US are rear ends (Though rear-end and angle collisions are still the first and second most common crash type for conventional vehicles). On top of all that, AVs are far more likely to be rear-ended by other vehicles than to do the rear-ending themselves. It’s speculated that this is due to the unconventional way AVs drive. In sticking to the letter of the law as they are programmed to do, they tend to confuse human drivers who are more likely to speed, tailgate, hug the side line, shoot the gaps etc. And, as AVs are hyper aware of any pedestrians or vehicles in front of them, they are more likely to fully stop for their protection, encountering situations where human drivers may instead slow down, make a wide berth, or, if what the AV was perceiving wasn’t actually another person at all, keep on at normal speed.
+
+Perhaps not surprisingly, because of this, AVs have a higher accident rate per miles traveled than conventional vehicles. A study from 2015 calculated that human drivers averaged anywhere from 1.9 – 4.1 crashes per million miles traveled (mmt).[[6\]](#_ftn6) AVs, on the other hand, average about 9.1 crashes per mmt. An alarming stat on the surface; however, as these accidents are largely in the form of rear-endings from other vehicles, they are not nearly as fatal or injurious as conventional vehicle crashes. On top of that, almost ¾ of the crashes occurred with the AV going at a speed of 5mph or lower; however, this again, is probably due to the excessively cautious driving style employed by AVs. But it should be noted that the report doesn’t detail how fast the other vehicles were going and thus how great of an impact the other drivers felt. 
+
+While this study, [and others like it](https://www.sciencedirect.com/science/article/pii/S2352146520301654), provide confident results, three caveats need to be recognized. 1.) AVs, unfortunately don’t exist in the quantities needed to make meaningful comparisons with conventional vehicles. The data acquired from DMV[[7\]](#_ftn7) of combined accident rates for conventional vehicles totals nearly 3 trillion miles as opposed to 1.2 million by AVs. Put another way, that’s 1 AV mile for every 2,500,000 CV mile (10 full vehicle life spans). In fact, [a report](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1478/RAND_RR1478.pdf) released by the RAND corporation (a nonprofit research institution) concludes that 100 AVs driving 24 hours a day, 365 days of the year, at an average speed of 25 mph, would need to drive for 12.5 years, or 275 million miles, to conclude with 95% confidence that their failure rate leads to at most 1.09 deaths per 100 million miles. A lot of numbers to process, but in essence, the sample size of this study was too small to make any generalizable statements. 2.) Another limitation the study notes is the context of the vehicle testing, or more specifically, where the vehicles were not tested – icy, stormy, or geographically unstable areas, or otherwise dangerous conditions. It’s unclear how many CVs are involved in accidents due to circumstances outside the driver’s control; it should thus be noted that AV collision results, could significantly differ depending on their location. 3.) The report specifies that none of the accidents AVs were involved in were the AVs fault, however, it’s unclear what they mean by “fault”. It could mean that the AVs didn’t collide with the other vehicles, and by that metric, it wasn’t the AV’s fault. Or it could mean, that the situations where the AVs stopped or slowed and CVs hit them were entirely justified (as in there may have been a pedestrian in the road) and therefore were not the AVs fault. However, as it has been suggested that so many rear-end accidents with AVs occurred because human drivers were surprised by the AVs behavior, I believe there is room to allow for AV culpability. If AVs are not following the intuitive rules of the road that every other driver subscribes to, they may lead to accidents that may have happened otherwise. Thus, I believe it’s prudent to reserve judgement on the exact safety viability of these stats until more information can be obtained.
 
 
 
@@ -117,3 +127,7 @@ While I’m not going to focus too much on AV connectivity technology, it’s in
 [[4\]](#_ftnref4) I won’t go into the different kinds of AI models employed by AV’s, however [this article](https://www.jdsupra.com/legalnews/the-basics-of-autonomous-vehicles-part-35016/) details many of the commonly used algorithms.
 
 [[5\]](#_ftnref5)Check out [this video](https://www.youtube.com/watch?v=iHzzSao6ypE&t=253s) on how phantom traffic forms and [this video](https://www.youtube.com/watch?v=TNokBgtSUvQ&t=255s) for a more detailed look. While I prefer the first video because it provides more information in less time, the animation in the second video is hard to beat.
+
+[[6\]](#_ftnref6) The variability is due to how many crashes tend not to be reported. Though 1.9 cpmm is a fixed number from the DMV, the researchers here estimated unreported ones as well, and put the actual US crash rate at about 4.1pmm.
+
+[[7\]](#_ftnref7) AV manufacturers are required to report any crash or collision involving AVs within 10 days to the DMV.

@@ -3,7 +3,8 @@ title: When the Bears Come Marching In
 subtitle: How a local population of bears revealed two startling facts about climate change to a young author
 layout: page
 show_sidebar: false
-menubar: past_articles_menu
+menubar: portfolio_menu
+hero_image: /img/bears-hero.jpg
 ---
 
 February 7, 2022
@@ -16,7 +17,7 @@ Since the new year, I’ve been reflecting on the process and implications of ou
 
 2.) Though the present is fraught with natural disasters like hurricanes, floods, and wildfires, the climate crisis isn’t just epic and catastrophic - it is also begrudgingly slow, comprehensive, and indiscriminate.
 
-These two facts are un-startlingly obvious. [Global temperatures](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php) have been rising for well over a century. And wildlife, as proverbial children of Earth, should naturally be impacted just as humans are. But prior to the bears, I had never  these two facts had never felt so impactful to me observed these two facts in combination, nor with my own eye.
+These two facts are gracefully obvious. [Global temperatures](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php) have been rising for well over a century. And wildlife, as proverbial children of the Earth, should naturally be impacted just as humans are. But prior to monitoring the behavior the local bears, I had never seen these facts in combination before, nor so close to home.
 
 ------
 

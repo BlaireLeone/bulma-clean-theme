@@ -1,8 +1,8 @@
 ---
 layout: page
 title: To Label or not to Label
-description: A page with an embedded YouTube video
-menubar: 
+description: 
+menubar: portfolio_menu
 show_sidebar: false
 ---
 

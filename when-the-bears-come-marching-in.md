@@ -13,19 +13,29 @@ By: Blaire Hobbs
 
 Since the new year, I’ve been reflecting on the process and implications of our planet’s volatile climate. While human populations around the world are at risk, it wasn’t until I stayed with my parents in the Sierra Nevada Foothills last fall and observed the local bear population that two things occurred to me:
 
-1.) Climate change impacts more than just people: wildlife has also been forced to adapt, and in some ways that could be harmful to other species, people, and ecosystems. 
+1.) Climate change impacts more than just people: wildlife has also been forced to adapt - in ways that could be harmful to other species, people, and ecosystems. 
 
 2.) Though the present is fraught with natural disasters like hurricanes, floods, and wildfires, the climate crisis isn’t just epic and catastrophic - it is also begrudgingly slow, comprehensive, and indiscriminate.
 
-These two truths are obvious. [Global temperatures](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php) have been rising for well over a century. And wildlife, as proverbial children of the Earth, should naturally be impacted just as humans are. But prior to monitoring the behavior the local bears, I had never seen these facts in combination before, nor so close to home.
+These two truths are obvious. [Global temperatures](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php) have been rising for well over a century. And wildlife, as proverbial children of the Earth, should naturally be impacted just as humans are. But prior to monitoring the behavior of these bears, I had never noticed these truths in combination, nor so close to home.
 
 ------
 
-Bears are a common staple of foothill life; they are omnivores, [able to eat anything edible](https://wildlife.ca.gov/Conservation/Mammals/Black-Bear/Biology#311311067-food-preferences) from ants to nuts, to berries, to human garbage. Despite the variety of fur colors in California bears, the Black Bear is the only wild bear in California; their color ranges from black to very light brown, to even white [wildlife.org]., and can   frequently visit my parent’s backyard. And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year – thus, a bountiful honeypot attracting animals from miles around. In years past, the bear sightings varied. Some years there was one bear, others two; sometimes a ‘teenaged’ bear that had been a tumbling cub the year prior. But most distinguishing about these sightings: they were brief, intermittent, and routine. They scavenged for apples until inevitably startling and running away.
+Bears are a common staple of foothill life; they are omnivores, [eating practically anything edible](https://wildlife.ca.gov/Conservation/Mammals/Black-Bear/Biology#311311067-food-preferences) from ants to nuts, to berries, to human garbage. Despite the variety of colors seen in California bears, only the Black Bear runs wild in California, with fur color ranging from black to tan and occasional white chest patches. Estimates put the population at around 30,000 in California.
 
-But, 2021 was different. Less keen on bolting when no obvious threat loomed, they stood their ground and stayed until presumably full. To make matters worse, three bears (the little cinnamon bear, the husky brown bear and her cubs, and the big male black bear) vied for the same space in a standoffish dance my parents refer to as their 'bear drama'. However, it never lasts long as the smaller bear would unfailingly sprint away first - like any of us, they are afraid of a bigger bear.
+At least three of them frequently visit my parent’s backyard. And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year – thus, a bountiful honeypot attracting animals from miles around. Usually just one bear until her cubs showed up. Occasionally another bear would arrive, but seemed only to be passing through as we never saw it again; and sometimes these sightings featured a ‘teenaged’ bear that had been a tumbling cub the year prior. But most distinguishing about these sightings: they unpredictable, but routines. Having arrived, they would spend at least an hour sitting in the tree, before climbing down and scavenged for apples they might have missed on the ground.
+
+But in the last 5 or 6 years, the bears started behaving a little differently. Less keen on bolting when no obvious threat loomed, they stood their ground and stayed until presumably full. To make matters worse, three bears (the little cinnamon bear, the husky brown bear and her cubs, and the big male black bear) vied for the same space in a standoffish dance my parents fondly refer to as their 'bear drama'. However, it never lasts long as the smaller bear unfailingly sprints away - like any of us, they are afraid of a bigger bear.
 
 In the past, these interactions would have been an intriguing slice of life in the food-chain, but with the perpetual tinge of dark umber smoke darkening the sky from several nearby wildfires, these incidents felt more meaningful.
+
+**Bears**
+
+------
+
+
+
+
 
 **Climate Change**
 

@@ -11,9 +11,9 @@ February 7, 2022
 
 By: Blaire Hobbs
 
-Though the present is fraught with hurricanes, floods, and wildfires, the climate crisis isn’t just epic and catastrophic - it is also begrudgingly slow and comprehensive. As a global process, climate change indiscriminately impacts everyone and everything including wildlife, which must gradually adapt their behaviors to suit the surrounding environment. 
+Though the present is fraught with hurricanes, floods, and wildfires, the climate crisis isn’t just epic and catastrophic - it is also begrudgingly slow and comprehensive. As a global process, climate change indiscriminately impacts everyone and everything including wildlife, which must gradually adapt their behaviors to suit the surrounding environment. However, for some populations this may acute growing pains as species and habitats collide.
 
-California Black Bears are one such species. While they are highly adaptable creatures, the rapidly changing environment has driven them further into urbanized and human-food laden places. Their new relationship with people is causing acute growing pains, which could put both populations at risk.
+California Black Bears are one such species. While they are highly adaptable creatures, the rapidly changing environment has driven them further into urbanized and human-food laden places, creating dangerous situations for both the bears and the people living in these environments. 
 
 **California Bears: They're Undeniable**
 

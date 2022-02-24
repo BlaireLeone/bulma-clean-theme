@@ -1,6 +1,6 @@
 ---
-title: Bear Drama
-subtitle: How climate change has shifted black bear behavior across the US 
+title: When the Bears Come Marching In
+subtitle: How climate change has impacted California's Black Bears and what this means for California's human residents
 layout: page
 show_sidebar: false
 menubar: portfolio_menu
@@ -11,13 +11,9 @@ February 7, 2022
 
 By: Blaire Hobbs
 
-Since the new year, I’ve been reflecting on the implications of our planet’s volatile climate. While human populations around the world are at risk, it wasn’t until I stayed with my parents in the Sierra Nevada Foothills of California last fall and observed the local bear population that two things occurred to me:
+Though the present is fraught with hurricanes, floods, and wildfires, the climate crisis isn’t just epic and catastrophic - it is also begrudgingly slow and comprehensive. As a global process, climate change indiscriminately impacts everyone and everything including wildlife, which must gradually adapt their behaviors to suit the surrounding environment. 
 
-1.) Climate change impacts more than just people: wildlife has also been forced to adapt - in ways that could be harmful to other species, people, and ecosystems. 
-
-2.) Though the present is fraught with natural disasters like hurricanes, floods, and wildfires, the climate crisis isn’t just epic and catastrophic - it is also begrudgingly slow, comprehensive, and indiscriminate.
-
-These biproducts of such all-encompassing circumstances are indisputable, and, at this point, too conspicuous to disbelieve. [Global temperatures](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php) have been rising for well over a century. And wildlife, as proverbial children of the Earth, should naturally be impacted just as humans are. 
+California Black Bears are one such species. While they are highly adaptable creatures, the rapidly changing environment has driven them further into urbanized and human-food laden places. Their new relationship with people is causing acute growing pains, which could put both populations at risk.
 
 **California Bears: They're Undeniable**
 
@@ -29,41 +25,25 @@ Black bears prefer forested areas, and thrive best in ecosystems with [structura
 
 ![](img/black-bear-habitat-ca.jpg)
 
+This map from the CA department of fish and wildlife shows the range of black bear's habitat in California. Note: in case it is unclear, the habitat is outlined by the black line.
 
 
-**Climate Change**
+
+**What significant impacts has climate change had on the California ecosystems that impact black bears? **
 
 ------
 
-Over the last 50 years, a growing body of research suggests that the black bears that previously existed in forested areas are wandering outside this habitat. 
+Rising temperatures, droughts, and wildfires, with [well-documented](https://science2017.globalchange.gov/chapter/8/) links to climate change, have significantly impacted black bear's access to food and water leading to black bear populations wandering outside their normal habitat and upsetting their hibernation cycle.
+
+
+
+
+
+Over the last 50 years, a growing body of research suggests that the black bears that previously existed in forested areas are wandering further and further into more temperate, urban zones.
 
 With their [*Urban Ecology Research Learning Alliance*](https://www.nps.gov/rlc/urbanecology/environmental-and-climate-change.htm), the National Parks Service studies climate change impacts in parks around the US. Of concern in their research is the effect climate change poses to wildlife, from rising temperatures to invasive species. 
 
 
 
 
-
-
-
-
-
-One morning in October, my mom called and, brisk as always when relaying disturbing personal news, said, “You know, the bear broke into the house last night”. It had ripped through an open screened window and attempted to climb through. My mom woke to strange huffing noises coming from the living room, even more strange because the normally spitfire dogs didn’t notice. Turning on the lights, she made eye contact with a big head, one arm and shoulder sticking out around it; it  startled then and leapt into the night. Later, my mom thought it was the little cinnamon bear.
-
-As it happens, this event turned out to be one of several encounters my parents would have with the bears, as they became more and more comfortable with my parent's presence.
-
-It's likely that the cascading climate effects from wildfires to droughts to heat waves have corralled these bears and other animals to food rich areas like my parent’s backyard. With this in mind, I can’t help but feel that the encounter I witnessed was more than just nature’s survival of the fittest – it was a slow motion shifting of behavioral patterns as the bears experience growing pains in this new reality – one I am convinced is a rippled effect of climate change. But more animals mean more competition and less available food.
-
-As long as I had known, the bears in this area were shy, avoidant. While much of the wildlife was familiar with humans in some respect, the bears at least had always maintained distance. But if it’s true that they’re now hungry and can’t fill up on traditional food sources, this may not always be the case. 
-
-I’m not advocating for providing food to wildlife or curtailing their populations. But I think it’s worth considering the animal’s plight within our crazy new world phenomenon and how our beloved relationships with surrounding ecosystems could change. 
-
-
-
-
-
-Black bears are a common staple of Sierra Nevada Foothill life. With larger varieties of food and water sources, as compared to other areas in the state, they can thrive with lower competition for resources. Living in the foothills my parents see a lot of bears, especially in the backyard. And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year - a bountiful honeypot attracting animals from miles around. 
-
-In the last decade, however, the bear population who frequented this tree has shifted. Before, one reserved bear sporadically visited, sometimes with cubs, and the occasional straggler bear would make a pit stop during seasonal migrations. But now 3 bears stake out the tree for several months in a standoffish dance my parents refer to as their 'bear drama'. 
-
-Normally, these interactions would have been an intriguing slice of "life in the food chain", but with the perpetual tinge of umber smoke darkening the sky from several nearby wildfires, these incidents feel more meaningful. 
 

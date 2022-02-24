@@ -25,7 +25,11 @@ These biproducts of such all-encompassing circumstances are indisputable, and, a
 
 Despite the variety of colors known to California bears, California only has one wild bear species - the Black Bear. Their fur ranges from black to tan, with occasional white chest patches. Black bears have an average life span of 18 years, and estimates put the [current population](https://wildlife.ca.gov/Conservation/Mammals/Black-Bear) at around 30,000 in California.
 
-Black bears prefer forested areas, and thrive best in ecosystems with [structural diversity](https://www.bing.com/search?q=structural+diversity+bio&qs=n&form=QBRE&sp=-1&pq=structural+diversity+bio&sc=1-24&sk=&cvid=57176C65051C4C82877CF88B5A1693C6) - a term used to describe an area with diverse vegetation, though not just diversity of species, but also diversity of height and layout. This complements the bear's diverse diet; the omnivorous black bear eats everything from insects, to nuts, to berries, to grasses, and meat on occasion. 
+Black bears prefer forested areas, and thrive best in ecosystems with [structural diversity](https://www.bing.com/search?q=structural+diversity+bio&qs=n&form=QBRE&sp=-1&pq=structural+diversity+bio&sc=1-24&sk=&cvid=57176C65051C4C82877CF88B5A1693C6) - a term used to describe an area with diverse vegetation, though not just diversity of species but also diversity of height and layout. This complements the bear's diverse diet too; the omnivorous black bear is an opportunistic eater, meaning it will everything: insects, nuts, berries, grasses, some meat on occasion,
+
+[^1]: check out this interesting article about the Yellowstone grizzly bear's consumption of wolf kills- talk about opportunistic!
+
+  and now human food as well. 
 
 Black bears are a common staple of Sierra Nevada Foothill life. With larger varieties of food and water sources, as compared to other areas in the state, they can thrive with lower competition for resources. Living in the foothills my parents see a lot of bears, especially in the backyard. And it’s no wonder. My parents tend a century old apple tree overflowing with apples every year - a bountiful honeypot attracting animals from miles around. 
 
@@ -37,9 +41,7 @@ Normally, these interactions would have been an intriguing slice of "life in the
 
 ------
 
-As it turns out, my parent's backyard is just a small microcosm of the greater California and United States. Black bears [exist across the country](https://wildlifeinformer.com/black-bear-population-by-state/#:~:text=A%20quick%20look%20at%20Black%20Bears%201%20Habitat.,sleep%20they%20go%20into%20varies.%20More%20items...%20); only nine states, including Hawaii, lack black bear populations, though even most of these have recuring sightings.
-
-Black bears prefer forested areas, and thrive best in areas with [structural diversity](https://www.bing.com/search?q=structural+diversity+bio&qs=n&form=QBRE&sp=-1&pq=structural+diversity+bio&sc=1-24&sk=&cvid=57176C65051C4C82877CF88B5A1693C6) - a term used to describe not just diversity of vegetation species, but also vegetation height and layout.
+As it turns out, my parent's backyard is a small microcosm of the greater California and United States. Black bears [exist across the country](https://wildlifeinformer.com/black-bear-population-by-state/#:~:text=A%20quick%20look%20at%20Black%20Bears%201%20Habitat.,sleep%20they%20go%20into%20varies.%20More%20items...%20); only nine states, including Hawaii, lack black bear populations, though even most of these have recurring sightings.
 
 Across the country from California, Connecticut has noticed 
 

@@ -34,7 +34,7 @@ hero_image: /img/bryce.jpg
 
 JUNE 2021 - PRESENT
 
-- Conducts interviews for  video series on propaganda: pitches stories, receives assignments, sources professionals and academics, researches extensively, drafts questions, interviews experts in 1–2-hour interviews.  
+- Conducts interviews for video series on propaganda: pitches stories, receives assignments, sources professionals and academics, researches extensively, drafts questions, interviews experts in 1–2-hour interviews.  
 
 - Authors investigative articles for digital publication: pitches and receives story assignments, conducts research, identifies diverse sources and additional media, drafts catchy headlines and summaries.
 

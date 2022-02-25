@@ -19,7 +19,7 @@ Character-driven and evocative, but plot-shallow with world-building and charact
 
 Best fit: someone looking for mood and neighborhood immersion, but not for someone looking for action, complex plot, or air-tight world building
 
-Genre: Sci-Fi, Cli-fi, human interest, speculative fiction
+Genre: Sci-Fi, cli-fi, human interest, speculative fiction
 
 Pages: 384 
 
@@ -37,29 +37,27 @@ The story begins with Coral as a teenager, but flashes forward to around the tim
 
 ------
 
-
-
 ### What Trashlands did well
 
 Writing Style and Mood Building, Characters, Premise, Local World Building
 
 - **Writing Style and Mood Building**
 
-In the beginning, I was captivated. The author has a beautiful writing style and eloquently evokes a somber melancholic feeling. Throughout the novel, I was ensconced in a stagnant tension, built from the characters themselves.  As the novel flips back and forth between past and present, the character's present struggles are revealed. It's clear that each character is haunted by some event(s) in their past and a majority of the novel is dedicated to reconciling those events with present circumstances.
+  In the beginning, I was captivated. The author has a beautiful writing style, eloquently evoking a somber melancholic feeling. I felt an immediate gripping tension. As the novel flips back and forth between past and present, the character's present struggles are revealed through past episodes and demons. It's clear that each character is haunted by some event(s) in their past and a majority of the novel is dedicated to reconciling the past through the present.
 
 - **Characters**
 
-The characters are very unique and fit within the framework of the community. Not only do we see a lot of Coral, we get to know the club owner, Rattlesnake Master; his best dancer, the tattooed but insecure Foxglove; Coral’s son, Shanghai, stuck laboring under a heavily guarded factory regime; and Coral’s father, the wise Mr. Fall, and self-appointed local schoolmaster. And the list goes on.
+  The characters are very unique and fit within the framework of the community. Not only do we see a lot of Coral, we get to know the club owner, Rattlesnake Master; his best dancer, the tattooed but insecure Foxglove; Coral’s son, Shanghai, stuck laboring under a heavily guarded factory regime; Coral’s father, the wise Mr. Fall, and self-appointed local schoolmaster. And the list goes on.
 
-Writing this review, I’m also realizing that the characters don’t have unique voices, which I actually don’t mind. While that technique works for some novels, it can be distracting. Instead, Trashland’s characters all have the same introspectively observational tone.
+  Writing this review, I’m also realizing that the characters don’t have unique voices, which I actually don’t mind. While that technique works for some novels, it can be distracting. Instead, Trashland’s characters all have the same introspectively observational tone.
 
 - **Premise**
 
-The premise of the story - that of a world reliant on plastic - is another thing the author does well. It’s an interesting twist on the post-apocalyptic genre. 
+  The premise of the story - that of a world reliant on plastic - is another thing the author does well. It’s an interesting twist on the post-apocalyptic genre. 
 
 - **Local Building**
 
-Altogether, the writing style, characters, and premise make for excellent building blocks for a complete story. And the author accomplishes this in the local sense. The world building around the community of Trashlands is incredibly detailed, thought-provoking, and dynamic. I enjoyed getting to know what it’s like living in a dump with strategically byzantine corridors, women who wear high heels made from wine glass stems, and a strip club that also acts as a decent motel. 
+  Altogether, the writing style, characters, and premise make for excellent building blocks for a complete story. And the author accomplishes this in the local sense. The world building around the community of Trashlands is incredibly detailed, thought-provoking, and dynamic. I enjoyed getting to know what it’s like living in a dump with strategically byzantine corridors, dancers with high heels made from wine glass stems, and a strip club that also acts as a decent motel. 
 
 ------
 
@@ -67,17 +65,17 @@ Altogether, the writing style, characters, and premise make for excellent buildi
 
 ### What Trashlands could have done better:
 
-**Plot and character development**
+- **Plot and Character Development**
 
-The novel needed more plot and character development. While the narrative is beautiful and the characters elegantly moving, these developments felt like a bucket sitting in a verdant colorful garden - functional, but awkward, sitting there because it fit in the garden theme. 
+  The novel needed more plot and character development. While the narrative is beautiful and the characters elegantly depicted, these developments felt like a bucket sitting in a verdant colorful garden - functional, but awkward, sitting there because it fit in the garden theme. 
 
-Plot and character development are intimately connected in most novels - plot usually motivating character development. It's no surprise that the thin plot, spawned little character development. I constantly found myself wanting more - from the action and from the characters. 
+  Plot and character development are intimately connected in most novels - plot usually motivating character development. It's no surprise then that the little of one spawned little of the other. I constantly found myself wanting more - from the action and from the characters. The tension I felt from the beginning stagnated the further through the novel I read. 
 
-As these details were lacking, the reader had no sense of purpose - there seemed to be no problem to resolve. We are told from the beginning that a problem exists, yet it isn't addressed until late in the novel, and acted as the the only sense of progression. And the reader cannot see how the characters react to the problem over time, we aren't given a sense of their motivations or emotional direction either.
+  This disconnect, and the lack of plot, provide the reader no sense of purpose - or no problem to resolve. We are told from the beginning that a problem exists, yet it isn't addressed until late in the novel and acted as the the only sense of progression. With no struggle to overcome, the reader can't see how the characters would react, which would reveal more about their values and emotional states.  In fact, the characters spend a majority of the novel reflecting on their internal struggles. However, these struggles are incongruent with their external lives, as problems happening in the outside world don't seem to impact their reflections or behaviors.
 
-**Plot Holes**
+- **Plot Holes**
 
-Perhaps because of this lack of foundation, the plot that did exist was full of holes - the characters decisions were often incongruent with their values or intentions and the world building in and around Trashlands had some glaring holes that required suspension of disbelief on a grander scale than other sci-fi I've read. Speculative fiction, sci-fi included, is naturally difficult to build, as it takes pieces from the real world, manipulates them, and says what about this? However, I believe for speculative fiction to be successful, it must imagine how every individual in that world lives and how the systems in and around it operate. It felt that the author did that well for the community of Trashlands, but the author also left a lot of questions and potential solutions unanswered - for the characters actions and the world at large.
+  Perhaps because these two fundamental narrative building blocks were flimsy, the plot that did exist was full of holes - the characters decisions were often incongruent with their values or intentions and the world building in and around Trashlands had some glaring holes that proved distracting even when suspending my disbelief. 
 
-This novel was character driven from the beginning, so I don't fault the author for detailing the characters and mood so thoroughly. However, I don't believe those details are mutually exclusive from plot and character development. I felt that the book could have been enhanced with a fleshed out plot, without detracting from the emotional depth it already taps into. 
+  This novel was character driven from the beginning, so I don't fault the author for detailing the characters and mood so thoroughly. However, I don't believe those details are mutually exclusive from plot and character development. Instead, I felt that the book could have been enhanced with a fleshed out plot, without detracting from the emotional depth it already taps into. 
 

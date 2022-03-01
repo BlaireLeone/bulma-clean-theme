@@ -43,7 +43,7 @@ Writing Style and Mood Building, Characters, Premise, Local World Building
 
 - **Writing Style and Mood Building**
 
-  In the beginning, I was captivated. The author has a beautiful writing style, eloquently evoking a somber melancholic feeling. I felt an immediate gripping tension. As the novel flips back and forth between past and present, the character's present struggles are revealed through past episodes and demons. It's clear that each character is haunted by some event(s) in their past and a majority of the novel is dedicated to reconciling the past through the present.
+  In the beginning, I was captivated. The author has a beautiful writing style, eloquently evoking a somber melancholic feeling. I felt an immediate gripping tension. As the novel flips back and forth between past and present, the character's current struggles are revealed through past episodes and demons. It's clear that each character is haunted by some event(s) in their past and a majority of the novel is dedicated to reconciling one with the other.
 
 - **Characters**
 
@@ -67,15 +67,15 @@ Writing Style and Mood Building, Characters, Premise, Local World Building
 
 - **Plot and Character Development**
 
-  The novel needed more plot and character development. While the narrative is beautiful and the characters elegantly depicted, these developments felt like a bucket sitting in a verdant colorful garden - functional, but awkward, sitting there because it fit in the garden theme. 
+  The novel needed more plot and character development. While the narrative is beautiful and the characters elegantly depicted, these developments felt like a bucket sitting in a verdant colorful garden - functional, but awkward, not fully integrated with the rest of the scene. 
 
-  Plot and character development are intimately connected in most novels - plot usually motivating character development. It's no surprise then that the little of one spawned little of the other. I constantly found myself wanting more - from the action and from the characters. The tension I felt from the beginning stagnated the further through the novel I read. 
+  Plot and character development are intimately connected in most novels - plot usually motivating character development. It's no surprise then that lack of one spawned lack of the other. I constantly found myself wanting more - from the action and from the characters. The tension I felt from the beginning stagnated the further through the novel I read. 
 
-  This disconnect, and the lack of plot, provide the reader no sense of purpose - or no problem to resolve. We are told from the beginning that a problem exists, yet it isn't addressed until late in the novel and acted as the the only sense of progression. With no struggle to overcome, the reader can't see how the characters would react, which would reveal more about their values and emotional states.  In fact, the characters spend a majority of the novel reflecting on their internal struggles. However, these struggles are incongruent with their external lives, as problems happening in the outside world don't seem to impact their reflections or behaviors.
+  This disconnect, and the lack of plot, provide the reader no sense of purpose - or no problem to resolve. We are told from the beginning that a problem exists, yet it isn't addressed until late in the novel, which gave a sense of progression, but not one complemented by the characters. In fact, the characters spend a majority of the novel reflecting on their internal struggles. However, these struggles are incongruent with their external lives, as problems happening in the outside world don't seem to impact their reflections or behaviors. In not reacting synonymously with external events, the reader has a harder time understanding the character's values and emotional states. By the end, characters felt flat and hollow. 
 
 - **Plot Holes**
 
-  Perhaps because these two fundamental narrative building blocks were flimsy, the plot that did exist was full of holes - the characters decisions were often incongruent with their values or intentions and the world building in and around Trashlands had some glaring holes that proved distracting even when suspending my disbelief. 
+  Perhaps because plot and character development, two fundamental narrative building blocks, felt lacking, the plot that did exist was full of holes - the characters decisions were often incongruent with their values or intentions and the world building in and around Trashlands had some glaring holes that proved distracting even when suspending my disbelief. 
 
   This novel was character driven from the beginning, so I don't fault the author for detailing the characters and mood so thoroughly. However, I don't believe those details are mutually exclusive from plot and character development. Instead, I felt that the book could have been enhanced with a fleshed out plot, without detracting from the emotional depth it already taps into. 
 

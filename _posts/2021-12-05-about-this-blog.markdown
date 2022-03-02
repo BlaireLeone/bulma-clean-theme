@@ -19,9 +19,9 @@ summary: conscious consumerism
 
 Conscious Consumerism has no fixed definition and in fact isn't listed in any modern dictionary. I've found several unofficial definitions of who a conscious consumer is, from [someone who looks at a label](https://medium.com/naturehub/what-is-a-conscious-consumer-and-why-does-it-matter-4b7a14ca08fc#:~:text=A%20conscious%20consumer%2C%20in%20a%20nutshell%2C%20is%20someone,is%20always%20a%20company%20motive%20to%20think%20about.) to someone who is [always conscious](https://earthhero.com/what-is-a-conscious-consumer/) to someone who has an [awareness while purchasing](https://bezen.eco/conscious-consumerism-and-its-relevance/) especially focusing on locally produced, ethical, and environmentally friendly goods.
 
-Conscious consumerism is open to interpretation. I believe it can be narrowed down from 'always conscious', but is more generous than just looking at labels. I also believe we need to limit it to purchasing. Or else, I believe that our purchases are an extension of our daily habits, values, and knowledge of our surroundings, job, personal interactions etc. 
+Conscious consumerism is open to interpretation. I believe it can be narrowed down from 'always conscious', but is more generous than just looking at labels. I also believe we need to limit it to purchasing. Or else, I believe that our purchases are an extension of our daily habits, values, background, expectations, even our attention 
 
-To be a conscious consumer means no only to be aware of our purchases, but to be aware of ourselves, especially our behaviors and beliefs.
+To be a conscious consumer means not only to be aware of our purchases, but to be aware of ourselves, and how our beliefs and habits shape the choices we make.
 
 
 

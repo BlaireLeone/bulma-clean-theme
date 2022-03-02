@@ -1,5 +1,5 @@
 ---
-title: Bicyclists have had issues with traffic since traffic existed
+title: Bicyclists have a long contentious history with vehicles
 subtitle: But what does this say about bicyclist's relationship with autonomous vehicles?
 layout: page
 show_sidebar: false
@@ -8,13 +8,11 @@ hero_image: /img/av2-hero.jpg
 hero_darken: true
 ---
 
+December 27, 2021
+
 ## Part 2 - Can autonomous vehicles (AVs) sense bicycles? How sustainable are AVs? And how could current AV popularity shape the future of bicycling in the US?
 
-
-
-### *Elaine Herzberg*
-
-In March 2018, [Elaine Herzberg](https://usa.streetsblog.org/2019/03/08/uber-got-off-the-hook-for-killing-a-pedestrian-with-its-self-driving-car/) was struck and killed by an Uber owned self-driving vehicle out for a test drive, as she walked her bike across an Arizona street. She was the first AV-related pedestrian fatality. It should be noted, however, that a backup driver was behind the wheel, and the AEBs had been disabled, so the exact degree of the car’s (and by extension Uber’s) fault is indeterminate.[[1\]](#_ftn1) It was presumed that the car recognized neither Herzberg nor the shape of her bag-laden bicycle, suggesting a lack of thorough vetting for AV’s bicycle identification models. The difference between Tom’s and Elaine’s incidents, however, is that Tom was the unfortunate recipient of an operational braking system, attempting to circumvent collision with a pedestrian. Elaine on the other hand, was the pedestrian in this case, however, the system was not operational, nor did it detect her existence until it was too late. 
+In March 2018, [Elaine Herzberg](https://usa.streetsblog.org/2019/03/08/uber-got-off-the-hook-for-killing-a-pedestrian-with-its-self-driving-car/) was struck and killed by an Uber owned self-driving vehicle out for a test drive, as she walked her bike across an Arizona street. She was the first AV-related pedestrian fatality. It should be noted, however, that a backup driver was behind the wheel, and the AEBs had been disabled, so the exact degree of the car’s (and by extension Uber’s) fault is indeterminate.[[1\]](#_ftn1) It was presumed that the car recognized neither Herzberg nor the shape of her bag-laden bicycle, suggesting a lack of thorough vetting for AV’s bicycle identification models. The difference between Tom’s and Elaine’s incidents, however, is that Tom was the unfortunate recipient of an operational braking system, attempting to circumvent collision with a pedestrian. Elaine on the other hand, was the pedestrian in this case, however, the braking system was not operational, and the sensors didn't detect her existence until it was too late. 
 
 ![](/img/Elaine Herzberg Uber car.jpg)  ![](/img/Elaine Herzberg bike.jpg) ![](/img/Elaine Herzberg.jpg)
 
@@ -24,7 +22,7 @@ According to [a report](https://www.ntsb.gov/investigations/AccidentReports/Repo
 
 **So, what of bikes?**
 
-Bicyclists have had a contentious history with vehicles. Given their lack of protection, meeting in unexpected road combat with a vehicle will more than likely result in the [cyclist being injured](file:///D:/hogwash/cyclist injured) if not killed. In [2017](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812765), 783 bicyclists died on US roadways[[4\]](#_ftn4); 96% (or 753) of those deaths involved a vehicle. Most of the time, this is due to simply not seeing the cyclist; bikes are small and often situated below the driver’s line of sight, and because of their maneuverability, they zip through traffic, perhaps coming up on a driver unawares; a driver may also neglect to check, as happens when opening a door into a bike lane. Either way, drivers are liable to fatally injure a cyclist whether they realize it or not. Take for example, [Katie Mckenna](https://www.rd.com/article/run-over-by-an-eighteen-wheeler/), a New York cyclist turned author and motivational speaker. She was run over by an 18-wheeled truck when it failed to notice her while maneuvering a right turn at an intersection. In [her book](https://www.amazon.com/How-Get-Run-Over-Truck-ebook/dp/B01LY9PYBR), she pulls no punches when identifying bicyclist’s vulnerability on the roadway; the first line queries, “So, how do you get run over by a truck? My first recommendation is to ride a bicycle”. According to her book, she signaled in every way possible that she was there, even wearing bright clothing. This is a sensationalist example, but one that exemplifies a common problem bicyclists have with surrounding vehicles.
+Bicyclists have had a contentious history with vehicles. Given their lack of protection, a collision with a vehicle will more than likely result in the [cyclist being injured](file:///D:/hogwash/cyclist injured) if not killed. In [2017](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812765), 783 bicyclists died on US roadways[[4\]](#_ftn4); 96% (or 753) of those deaths involved a vehicle. Most of the time, this is due to simply not seeing the cyclist; bikes are small and often situated below the driver’s line of sight, and because of their maneuverability, they zip through traffic, perhaps coming up on a driver unawares; a driver may also neglect to check, as happens when opening a door into a bike lane. Either way, drivers are liable to fatally injure a cyclist whether they realize it or not. Take for example, [Katie Mckenna](https://www.rd.com/article/run-over-by-an-eighteen-wheeler/), a New York cyclist turned author and motivational speaker. She was run over by an 18-wheeled truck when it failed to notice her while maneuvering a right turn at an intersection. In [her book](https://www.amazon.com/How-Get-Run-Over-Truck-ebook/dp/B01LY9PYBR), she pulls no punches when identifying bicyclist’s vulnerability on the roadway; the first line queries, “So, how do you get run over by a truck? My first recommendation is to ride a bicycle”. According to her book, she signaled in every way possible that she was there, even wearing bright clothing. This is a sensationalist example, but one that exemplifies a common problem bicyclists have with surrounding vehicles.
 
 ![](/img/AVs how to get run over by a truck.jpg)
 

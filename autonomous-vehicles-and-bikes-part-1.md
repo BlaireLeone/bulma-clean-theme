@@ -8,11 +8,9 @@ hero_darken: true
 hero_image: /img/av-hero.jpg
 ---
 
+December 11, 2021
+
 ## Can autonomous vehicles (AVs) sense bicycles? How sustainable are AVs? And how could current AV popularity shape the future of bicycling in the US?
-
-September 21, 2021
-
-​	
 
 My friend, Tom, called me one day asking for a ride home - my destination? An empty two-lane street, with wide bike lanes and a park nearby - one of the main thoroughfares going into town. This description will make sense in a bit.
 

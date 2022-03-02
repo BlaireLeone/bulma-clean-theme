@@ -20,7 +20,9 @@ Unlike other aquatic vertebrates (or terrestrial vertebrates like snakes) Moray 
 
 ![](/img/moray-eel-jaw.jpg)
 
-Most fish species use a suction-like method to capture their prey. By sucking prey into the oral cavity of the mouth, water sucked in with the prey, carries it to the stationary pharyngeal jaws. Instead, moral eels catch their prey with their with their first set of jaws, before launching the pharyngeal jaw from the throat into the oral cavity to hook the prey and draw it back into the throat that has been caught in the foremost jaw set, with sharp recurved teeth, before reeling it back into the esophagus. As Dr. Rita Mehta and Peter C. Wainwright describe, “This is the first described case of a vertebrate using a second set of jaws to both restrain and transport prey.”As mentioned above, the eel, like the snake, is elongate, meaning the internal muscles and bones are similarly lengthened. Although the second jaw set is located further back in the throat, this feeding method works mostly because of the elongated muscles that control the jaw set, which expand and contract with the launching method. 
+Most fish species use a suction-like method to capture their prey. By sucking prey into the oral cavity of the mouth, water sucked in with the prey, carries it to the stationary pharyngeal jaws. Instead, moral eels catch their prey with the sharp recurved teeth of their first set of jaws, before launching their pharyngeal jaws from the throat into the oral cavity to hook the prey and reeling it back into the throat. 
+
+As Dr. Rita Mehta and Peter C. Wainwright describe, “This is the first described case of a vertebrate using a second set of jaws to both restrain and transport prey.”As mentioned above, the eel, like the snake, is elongate, meaning the internal muscles and bones are similarly lengthened. Although the second jaw set is located further back in the throat, this feeding method works mostly because of the elongated muscles that control the jaw set, which expand and contract with the launching method. 
 
 
 

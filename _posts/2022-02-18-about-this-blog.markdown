@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About this blog"
+title: "About"
 description: "and my intentions for this blog"
 date: 2022-2-18 09:00:07
 hero_height: is-medium

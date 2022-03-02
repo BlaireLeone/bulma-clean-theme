@@ -12,17 +12,17 @@ March 12, 2017
 
 
 
-Dr. Rita Mehta is a UCSC biologist studying animal physiology, behavior, and evolutional morphology. Her work over the last two decades has provided some of the most significant research findings on Moray Eels, from their unique biology to their eating habits to their role within their ecosystems.
+Dr. Rita Mehta is a UCSC biologist studying animal physiology, behavior, and evolutional morphology. Her work over the last two decades has provided some of the most significant research findings on moray eels, from their unique biology to their eating habits to their role within their ecosystems.
 
 **Unique Biology**
 
-Unlike other aquatic vertebrates (or terrestrial vertebrates like snakes) Moray Eels use a second set of jaws, raptorial pharyngeal jaws, to catch and wrangle their prey. While most fish species have a set of pharyngeal jaws lying in the throat, the Moray Eel is different, in that the second jaws can move in and out of the eel's mouth. Although the second jaw set is located further back in the throat, this feeding method works mostly because of the elongated muscles that control the jaw set, which expand and contract with the launching method. According to Dr. Mehta, “This is the first described case of a vertebrate using a second set of jaws to both restrain and transport prey.”
+Unlike other aquatic vertebrates (or terrestrial vertebrates like snakes) moray eels use a second set of jaws, raptorial pharyngeal jaws, to catch and wrangle their prey. According to Dr. Mehta, “This is the first described case of a vertebrate using a second set of jaws to both restrain and transport prey.” While most fish species have a set of pharyngeal jaws lying in the throat, the Moray Eel is different, in that the second jaws is mobile, moving forward and backward in an eel's mouth. This feeding method relies on elongated muscles that control the jaw set, which expand and contract with the launching method. 
 
 ![](/img/moray-eel-jaw.jpg)
 
 **Feeding Method**
 
-Most fish species use a suction-like method to capture their prey. By sucking prey into the oral cavity of the mouth, water sucked in with the prey, carries it to the stationary pharyngeal jaws. Instead, moral eels catch their prey with the sharp recurved teeth of their first set of jaws, before launching their pharyngeal jaws from the throat into the oral cavity to hook the prey and reel it back into the throat. 
+Most fish species use a suction-like method to capture their prey. By sucking prey into the oral cavity of the mouth, water sucked in with the prey carries it to the stationary pharyngeal jaws in the throat. Instead, moral eels catch their prey with the sharp recurved teeth of their first set of jaws, before launching their pharyngeal jaws from the throat into the oral cavity to hook the prey and reel it back into the throat. 
 
 ![](/img/eels-2.jpg)
 

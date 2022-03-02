@@ -4,11 +4,6 @@
   link: /resume-cv-page/
 - name: Blog
   link: /blog/
-  dropdown:
-    - name: Healthy Habits for the Conscious Consumer
-      link: /blog/
-    - name: About
-      link: /2022-02-18-about-this-blog/
 - name: Book Reviews
   link: /book-reviews-page/
 

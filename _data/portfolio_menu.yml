@@ -1,9 +1,9 @@
-- label: Food and Climate Writings
+- label: Food, Biology, and Climate Writings
   items:
     - name: Urbanizing Black Bears
       link: /bear-drama/
-    - name: Labeling GMOs
-      link: /labels/
+    - name: Recent research on the Moray Eel
+      link: /the-moray-eel/
 - label: Bikes and Autonomous Vehicle Series
   items:         
     - name: Part 1 - Autonomous vehicle technology

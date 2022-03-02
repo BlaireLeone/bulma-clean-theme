@@ -4,8 +4,8 @@ title: "About this blog"
 description: "and my intentions for this blog"
 date: 2021-12-05 09:00:07
 hero_height: is-medium
-image: /img/friction.jfif
-hero_image: /img/friction.jfif
+image: /img/about-pic.jpg
+hero_image: /img/about-pic.jpg
 hero_darken: true
 published: true
 series: about_this_blog_series

@@ -2,7 +2,7 @@
 layout: post
 title: "About this blog"
 description: "and my intentions for this blog"
-date: 2021-12-05 09:00:07
+date: 2022-2-18 09:00:07
 hero_height: is-medium
 image: /img/about-pic.jpg
 hero_image: /img/about-pic.jpg

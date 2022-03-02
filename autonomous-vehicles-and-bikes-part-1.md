@@ -20,7 +20,7 @@ When I arrived, he was sitting on the curb with a bandaged hand, bruised face, a
 
 Tom explained:
 
-He had been riding his bike into town early in the morning - it was a Tuesday [**cite**] - and the streets were mostly empty.
+He had been riding his bike into town early in the morning. It was a Tuesday. The streets were mostly empty.
 
 After shooting down a short, but steep hill, Tom started gaining on a midsized SUV. He was still coasting from the downhill and hoped to use this momentum for an easier ride on the subsequent flat part coming into town. 
 
@@ -34,7 +34,7 @@ Both Tom and the driver paid for it, the driver in repairing his new car, and To
 
 **So, what does this mean?**
 
-I believe there are several takeaways from this story, perhaps the least of which is the question of when it’s prudent for a cyclist to pass a vehicle, especially if it involves speeding. Legality aside, is doing so inconsiderate if not rash? In retrospect, Tom acknowledges that his attempt at overtaking the car may have been reckless. Given the flatness of the road, Tom’s experience as a cyclist, and the lightness of his bike, he had no need to save himself the pedaling effort nor outpace the only other vehicle on the roadway (though as a cyclist myself, I understand where his head was at - I cannot describe the satisfaction of passing a vehicle on your bike). 
+I believe there are several takeaways from this story, perhaps the least of which is the question of when it’s prudent for a cyclist to pass a vehicle, especially if it involves speeding. Legality aside, is doing so inconsiderate if not rash? In retrospect, Tom acknowledges that his attempt at overtaking the car may have been reckless. Given the flatness of the road, Tom’s experience as a cyclist, and the lightness of his bike, he had no need to save himself the pedaling effort nor outpace the only other vehicle on the roadway.
 
 But the question I ultimately believe to be most poignant here is that of how autonomous vehicles (AVs) will coalesce with bicyclists in the future. I don’t believe one could truly attribute Tom's accident to the AEBs, given that they were attempting to save the driver and pedestrian from needless harm. However, the fact that an accident resulted nonetheless suggests a need for further analysis of how autonomous vehicles interact with bicyclists, as they may not prioritize bicyclist's safety as highly as they should.
 
@@ -106,7 +106,7 @@ While I’m not going to focus too much on AV connectivity technology, it’s in
 
 *AV Collisions*
 
-Despite sensationalist belief, the majority of AV incidents are not explosive or fatal, nor are head on collisions representative of the accidents that self-driving vehicles usually engage in. In the US especially, we are prone to think that fatal high-speed collisions are the norm for the AVs, given media coverage of such incidents as Elaine Herzerb (who I discuss in Part 2) and also Tesla’s [numerous highway crashes](https://insideevs.com/tag/tesla-autopilot/). 
+Despite sensationalist belief, the majority of AV incidents are not explosive or fatal, nor are head-on collisions representative of the accidents that self-driving vehicles usually engage in. In the US especially, we are prone to think that fatal high-speed collisions are the norm for the AVs, given media coverage of such incidents as Elaine Herzerb (who I discuss in Part 2) and also Tesla’s [numerous highway crashes](https://insideevs.com/tag/tesla-autopilot/). 
 
 [Tentative research](http://www.umich.edu/~umtriswt/PDF/UMTRI-2015-34_Abstract_English.pdf]) from 2019 has shown that, in actuality, rear-end collisions make up the majority of AV accidents at 64.2% - a staggeringly high number considering that the next most frequent accident type for AVs are angle crashes (those that mostly occur at intersections with cars collide when driving at perpendicular directions or turning) at 31.4%. Even [conventional vehicles](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812981) (CVs) with a human driver don’t get close to that rear ending stat; only 28.3% of motor vehicle accidents in the US are rear ends (Though rear-end and angle collisions are still the first and second most common crash type for conventional vehicles). On top of all that, AVs are far more likely to be rear-ended by other vehicles than to do the rear-ending themselves. It’s speculated that this is due to the unconventional way AVs drive. In sticking to the letter of the law as they are programmed to do, they tend to confuse human drivers who are more likely to speed, tailgate, hug the side line, shoot the gaps etc. And, as AVs are hyper aware of any pedestrians or vehicles in front of them, they are more likely to fully stop for their protection, encountering situations where human drivers may instead slow down, make a wide berth, or, if what the AV was perceiving wasn’t actually another person at all, keep on at normal speed.
 

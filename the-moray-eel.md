@@ -12,7 +12,7 @@ March 12, 2017
 
 
 
-Dr. Rita Mehta is a UCSC biologist studying animal physiology, behavior, and evolutional morphology. Her work over the last two decades has provided some of the most significant research findings on Moray Eels, from their unique biology to their eating habits and role within their ecosystems.
+Dr. Rita Mehta is a UCSC biologist studying animal physiology, behavior, and evolutional morphology. Her work over the last two decades has provided some of the most significant research findings on Moray Eels, from their unique biology to their eating habits to their role within their ecosystems.
 
 **Unique Biology**
 
@@ -24,7 +24,7 @@ Unlike other aquatic vertebrates (or terrestrial vertebrates like snakes) Moray 
 
 Most fish species use a suction-like method to capture their prey. By sucking prey into the oral cavity of the mouth, water sucked in with the prey, carries it to the stationary pharyngeal jaws. Instead, moral eels catch their prey with the sharp recurved teeth of their first set of jaws, before launching their pharyngeal jaws from the throat into the oral cavity to hook the prey and reel it back into the throat. 
 
-![](/img/eels-2.jfif)
+![](/img/eels-2.jpg)
 
 ”As mentioned above, the eel, like the snake, is elongate, meaning the internal muscles and bones are similarly lengthened. 
 

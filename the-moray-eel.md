@@ -2,7 +2,7 @@
 layout: page
 title: The Moray Eel
 subtitle: Hidden features and Strange Eating Habits
-hero_image: /img/eels.jfif
+hero_image: /img/eels-1.jfif
 description: 
 menubar: portfolio_menu
 show_sidebar: false    	
@@ -16,13 +16,17 @@ Dr. Rita Mehta is a UCSC biologist studying animal physiology, behavior, and evo
 
 **Unique Biology**
 
-Unlike other aquatic vertebrates (or terrestrial vertebrates like snakes) Moray Eels use a second set of jaws, raptorial pharyngeal jaws, to catch and wrangle their prey. While most fish species have a set of pharyngeal jaws lying in the throat, the Moray Eel is different, in that the second jaws can move in and out of the eel's mouth.
+Unlike other aquatic vertebrates (or terrestrial vertebrates like snakes) Moray Eels use a second set of jaws, raptorial pharyngeal jaws, to catch and wrangle their prey. While most fish species have a set of pharyngeal jaws lying in the throat, the Moray Eel is different, in that the second jaws can move in and out of the eel's mouth. Although the second jaw set is located further back in the throat, this feeding method works mostly because of the elongated muscles that control the jaw set, which expand and contract with the launching method.
 
 ![](/img/moray-eel-jaw.jpg)
 
+**Feeding Method**
+
 Most fish species use a suction-like method to capture their prey. By sucking prey into the oral cavity of the mouth, water sucked in with the prey, carries it to the stationary pharyngeal jaws. Instead, moral eels catch their prey with the sharp recurved teeth of their first set of jaws, before launching their pharyngeal jaws from the throat into the oral cavity to hook the prey and reeling it back into the throat. 
 
-As Dr. Rita Mehta and Peter C. Wainwright describe, “This is the first described case of a vertebrate using a second set of jaws to both restrain and transport prey.”As mentioned above, the eel, like the snake, is elongate, meaning the internal muscles and bones are similarly lengthened. Although the second jaw set is located further back in the throat, this feeding method works mostly because of the elongated muscles that control the jaw set, which expand and contract with the launching method. 
+![](/img/eels-2.jfif)
+
+As Dr. Rita Mehta and Peter C. Wainwright describe, “This is the first described case of a vertebrate using a second set of jaws to both restrain and transport prey.”As mentioned above, the eel, like the snake, is elongate, meaning the internal muscles and bones are similarly lengthened. 
 
 
 

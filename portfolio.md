@@ -19,5 +19,3 @@ During college, I was involved with several student ventures: I worked as an edi
 
 My appreciation for films and storytelling developed from my experience as assistant festival director for the *Nevada City Film Festival*, where I watched and discussed dozens of films with my team to determine their fit for the festival. 
 
-I hope to combine my experience with storytelling, behavioral science, and media literacy to continue reporting on complex and diverse issues.
-

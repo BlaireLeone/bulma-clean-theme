@@ -12,7 +12,7 @@ March 12, 2017
 
 
 
-Dr. Rita Mehta is a UCSC biologist studying animal physiology, behavior, and evolutional morphology. Her work over the last two decades has provided some of the most significant research findings on moray eels, from their unique biology to their eating habits to their role within their ecosystems.
+Dr. Rita Mehta is a UCSC biologist studying animal physiology, behavior, and evolutional morphology. Her work over the last two decades has provided some of the most significant research findings on moray eels, especially on how their unique biology contributes to their eating habits and role within their ecosystems.
 
 **Unique Biology**
 

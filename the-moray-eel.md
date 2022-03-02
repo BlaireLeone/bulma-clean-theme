@@ -11,13 +11,17 @@ March 12, 2017
 
 
 
-Dr. Rita Mehta, a UCSC biologist studying animal physiology, behavior, and evolutional morphology. Her work over the last two decades has provided some of the most significant research findings on Moray Eels, from their unique biology to their eating habits and role within their ecosystems.
+Dr. Rita Mehta is a UCSC biologist studying animal physiology, behavior, and evolutional morphology. Her work over the last two decades has provided some of the most significant research findings on Moray Eels, from their unique biology to their eating habits and role within their ecosystems.
 
 **Unique Biology**
 
-Unlike other aquatic vertebrates (or terrestrial vertebrates like snakes) Moray Eels use a second set of jaws, raptorial pharyngeal jaws, to catch and wrangle their prey. 
+Unlike other aquatic vertebrates (or terrestrial vertebrates like snakes) Moray Eels use a second set of jaws, raptorial pharyngeal jaws, to catch and wrangle their prey. While most fish species have a set of pharyngeal jaws lying in the throat, the Moray Eel is different, in that the second jaws can move in and out of the eel's mouth.
 
 ![](/img/moray-eel-jaw.jpg)
+
+Most fish species use a suction-like method to capture their prey. By sucking prey into the oral cavity of the mouth, water sucked in with the prey, carries it to the stationary pharyngeal jaws. Instead, moral eels catch their prey with their with their first set of jaws, before launching the pharyngeal jaw from the throat into the oral cavity to hook the prey and draw it back into the throat that has been caught in the foremost jaw set, with sharp recurved teeth, before reeling it back into the esophagus. As Dr. Rita Mehta and Peter C. Wainwright describe, “This is the first described case of a vertebrate using a second set of jaws to both restrain and transport prey.”As mentioned above, the eel, like the snake, is elongate, meaning the internal muscles and bones are similarly lengthened. Although the second jaw set is located further back in the throat, this feeding method works mostly because of the elongated muscles that control the jaw set, which expand and contract with the launching method. 
+
+
 
 Hitherto, the existence of these jaw types were only found in a select few species of invertebrates; and even now the Moray Eel is the only known vertebrate species with this feature. Because of this, several challenging questions have been raised concerning the exclusivity of this feeding method, additional feeding methods yet to be discovered, the extent that this jaw type is used for, and additional connections that research of Moray Eels can reveal.
 

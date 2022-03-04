@@ -2,7 +2,7 @@
 layout: page
 title: The Moray Eel
 subtitle: Hidden features and Strange Eating Habits
-hero_image: /img/eels-5.jfif
+hero_image: /img/eels-6.jfif
 description: 
 menubar: portfolio_menu
 show_sidebar: false    	
@@ -28,7 +28,7 @@ According to Dr. Mehta, “This is the first described case of a vertebrate usin
 
 **Feeding**
 
-Eels, with their elongate bodies, (a shape they share with snakes, meaning their internal muscles and bones are stretched) survive in the twisted spaces of coral reefs. Likewise, their shape allows them to explore tight crevices for food. In doing so they can corner prey in the coral, stick their head in, and launching their pharyngeal jaws into the small holes. 
+Eels, with their elongate bodies, (a shape they share with snakes, meaning their internal muscles and bones are stretched) survive in the twisted spaces of coral reefs. Their shape allows them to hide from predators in the tight coral corridors, but also allows them to explore tight crevices for food. In doing so, they can corner prey in the coral, stick their head in, and snatch the prey out by launching their pharyngeal jaws into the crevice. 
 
 When it comes to large prey, Morays can also use what is called a ratcheting technique, which is often described as walking their jaws over their prey slowly creeping it into their throat. This happens via the ability of the first set of jaws to unlock, separating into two halves that can move freely from one another. After catching a larger prey type in their teeth, they will detach their jaws, and walk them over the prey until it is completely consumed. The pharyngeal jaws then take over, dragging the prey the rest of way back to the esophagus. (The ratcheting method is also used by snakes, further linking the two species.) The combination of theses two feeding systems in the Moray Eel present a whole new feeding dynamic, and create new questions concerning the morphology and functionality of this jaw system.
 

@@ -2,7 +2,7 @@
 layout: page
 title: The Moray Eel
 subtitle: New findings could illuminate novel information on surrounding ecosystems
-hero_image: /img/eels-11.jfif
+hero_image: /img/eels-12.jfif
 description: 
 menubar: portfolio_menu
 show_sidebar: false    	
@@ -51,5 +51,20 @@ The combination of theses two feeding systems in the Moray Eel - the raptorial p
 As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Moray eels are known as keystone species, which means the play a crucial role in stabilizing their ecosystem's equilibrium. When these ecosystems are thrown out of balance, insight into how the moray eels feed could be crucial in monitoring the rebalancing process.
 
 Thus, questions like - what other species have this feeding system? How can we find them? What other fish can provide similarly enlightening findings? What other differences are there between moray eels and other species? – have arisen during this study. Dr. Rita Mehta and her team at Mehta Labs, through the UCSC Longmore Marine Center, hope to answer these questions and more.
+
+
+
+Bibliography
+
+[Distribution and habitat associations of the California moray (Gymnothorax mordax) within Two Harbors, Santa Catalina Island, California](https://drive.google.com/file/d/1dSMdC9YGNQn0lxNaBf4K3LQVBKbF-T2x/view?usp=sharing)
+
+[Elongation of the Body in Eels](https://mehta.eeb.ucsc.edu/wp-content/uploads/2013/11/Mehta-et-al-2010.pdf)
+
+[Morphological and Functional Innovation: Raptorial jaws help moray eels swallow large prey)](https://mehta.eeb.ucsc.edu/researchtopics/research/)
+
+[To knot or not? Novel feeding behaviours in moray eels](https://mehta.eeb.ucsc.edu/wp-content/uploads/2016/03/Barley2015MarineBiodiversity.pdf)
+
+
+
 
 

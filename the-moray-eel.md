@@ -2,7 +2,7 @@
 layout: page
 title: The Moray Eel
 subtitle: Hidden features and Strange Eating Habits
-hero_image: /img/eels-9.jfif
+hero_image: /img/eels-10.jfif
 description: 
 menubar: portfolio_menu
 show_sidebar: false    	
@@ -13,6 +13,10 @@ March 12, 2017
 
 
 Dr. Rita Mehta, a UCSC biologist studying animal physiology, behavior, and evolutional morphology, has provided some of the most significant research findings on moray eels. After discovering a unique feature of their physiology, she also discovered how this feature contributes to their eating habits and role within their ecosystems.
+
+**Description**
+
+
 
 **Unique Biology**
 
@@ -36,6 +40,8 @@ The combination of theses two feeding systems in the Moray Eel, the raptorial ph
 
 ![](/img/eels-2.jpg)
 
-Many questions have been raised concerning the addition of raptorial pharyngeal jaws, of worldwide feeding mechanisms, and of the Moral Eel in general. As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Questions like - what other species have this feeding system? How can we find them? What other fishes can provide a similarly enlightening study? What other differences are there between Moray Eels and other species? – have arisen in process of this study. And which Dr. Rita Mehta and her team challenge in their quest for insight. Nevertheless, one caveat that appears to me is the subordination of morality to science. Though research may be fun and enlightening, it can only be justified to a point. Subjecting species to the terrors of research methods for the singular purpose of garnering knowledge proves nothing, and simply objectifies them as means to a scientific curiosity-driven end. A researcher should weigh the significance these insights have for us versus the significance of the study methodology for the species, with particular care to the question of ‘should we do this?’ over ‘can we do this?’. Morality should never take a backseat to science, and thus, should always be considered before undertaking the research process.
+As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. 
+
+Questions like - what other species have this feeding system? How can we find them? What other fishes can provide a similarly enlightening study? What other differences are there between Moray Eels and other species? – have arisen in the process of this study. Dr. Rita Mehta and her team in their quest for insight challenge these questions.
 
 

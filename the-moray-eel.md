@@ -16,7 +16,15 @@ Dr. Rita Mehta, a UCSC biologist studying animal physiology, behavior, and evolu
 
 **Description**
 
+Moray eels encompass over 200 species of eels, with a variety of sizes and colors. Their coloring ranges from black to orange to green with a spectrum of speckled, spotted, or striped patterns. Some species also have camouflaging abilities.
 
+They are generally known for their serpentine like body and large head, with a long snout and big piercing eyes. Running down the length of their back, is a long, but short dorsal fin that merges at the end with their tale.
+
+They generally live in marine or sometimes brackish waters, and generally prefer warm-water coral reefs. Though mostly hunting for other fish, they also eat mollusks, like octopus, or hard-shelled invertebrates, like crabs.
+
+Moray eels also a few rows of small sharp front in their mouths, which are pointed backward, like a fishhook, to keep their prey from escaping.
+
+![](/img/eels-2-3.jpg)
 
 **Unique Biology**
 

@@ -17,7 +17,7 @@ Published: January 22, 2022
 
 Character-driven and evocative, but plot-shallow with world-building and character plot holes
 
-Best fit: someone looking for mood and neighborhood immersion, but not for someone looking for action, complex plot, or air-tight world building
+Best fit: someone looking for mood and neighborhood immersion, who doesn't mind less action or air-tight world building
 
 Genre: Sci-Fi, cli-fi, human interest, speculative fiction
 
@@ -29,7 +29,7 @@ Pages: 384
 
 Set sometime in the not-so-distant future, this book details the lives of a small community living in the vast maze-like wreckage heap of Trashlands. In this landscape, plastic is currency after devastating floods annihilated most of civilization and shut down plastic production. Trashlands is a small oasis in this wasteland. The presence of a functioning strip club, known also as Trashlands, instills a sense of community and stability. Both governance and economy, Trashland’s lecherous owner, Rattlesnake Master, rules his community with a plastic fist, and hires large muscled goons to enforce his autocratic rules. However, the presence of the strip club, and therefore the goons, ensures order as well as a steady stream of income for the locals.
 
-Our main character is Coral, a scrappy plastic forager moonlighting as a scultor, hoping someday to save up enough valuable plastic to buy back the son she lost to child collectors. Coral, her partner, and her father, survive mostly by her work as a plastic picker. She hauls in plastic from the nearby polluted river, which they then trade for food and supplies at a local market. Though mostly Corals, the perspective flits back and forth between several characters, including her partner, her father, other residents in Trashlands, and a newcomer from the city.
+Our main character is Coral, a scrappy plastic forager moonlighting as a sculptor, hoping someday to save up enough valuable plastic to buy back the son she lost to child collectors. Coral, her partner, and her father, survive mostly by her work as a plastic picker. She hauls in plastic from the nearby polluted river, which they then trade for food and supplies at a local market. Though mostly Corals, the perspective flits back and forth between several characters, including her partner, her father, other residents in Trashlands, and a newcomer from the city.
 
 The story begins with Coral as a teenager, but flashes forward to around the time the newcomer arrives. The narrative often steps outside of itself as it slips back and forth between past and present, allowing the reader to understand how the characters evolved into the Trashland’s community.
 

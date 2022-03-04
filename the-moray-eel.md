@@ -34,6 +34,8 @@ When it comes to larger prey, morays can also use what is called a *ratcheting t
 
 The combination of theses two feeding systems in the Moray Eel, the raptorial pharyngeal jaw and the ratcheting technique, present a whole new feeding dynamic for aquatic vertebrates, and create new questions concerning the morphology and functionality of this jaw system.
 
+![](/img/eels-2-2.jpg)
+
 Many questions have been raised concerning the addition of raptorial pharyngeal jaws, of worldwide feeding mechanisms, and of the Moral Eel in general. As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Questions like - what other species have this feeding system? How can we find them? What other fishes can provide a similarly enlightening study? What other differences are there between Moray Eels and other species? – have arisen in process of this study. And which Dr. Rita Mehta and her team challenge in their quest for insight. Nevertheless, one caveat that appears to me is the subordination of morality to science. Though research may be fun and enlightening, it can only be justified to a point. Subjecting species to the terrors of research methods for the singular purpose of garnering knowledge proves nothing, and simply objectifies them as means to a scientific curiosity-driven end. A researcher should weigh the significance these insights have for us versus the significance of the study methodology for the species, with particular care to the question of ‘should we do this?’ over ‘can we do this?’. Morality should never take a backseat to science, and thus, should always be considered before undertaking the research process.
 
 

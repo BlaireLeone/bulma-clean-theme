@@ -2,7 +2,7 @@
 layout: page
 title: The Moray Eel
 subtitle: Hidden features and Strange Eating Habits
-hero_image: /img/eels-8.jfif
+hero_image: /img/eels-9.jfif
 description: 
 menubar: portfolio_menu
 show_sidebar: false    	

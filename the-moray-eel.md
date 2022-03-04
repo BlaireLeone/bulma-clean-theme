@@ -12,17 +12,15 @@ March 12, 2017
 
 
 
-Dr. Rita Mehta, a UCSC biologist studying animal physiology, behavior, and evolutional morphology, has provided some of the most significant research findings on moray eels. After discovering a unique feature of their physiology, she also discovered how this feature contributes to their eating habits and role within their ecosystems.
+Dr. Rita Mehta, a UCSC biologist studying animal physiology, behavior, and evolutional morphology, has provided some of the most significant research findings on moray eels. After discovering a unique feature of their physiology, Dr. Mehta now considers how this feature contributes to their eating habits and role within their ecosystems.
 
 **Description**
 
-Moray eels encompass over 200 species of eels, with a variety of sizes and colors. Their coloring ranges from black to orange to green with a spectrum of speckled, spotted, or striped patterns. Some species also have camouflaging abilities.
+Moray eels encompass over 200 species of eels, with a wide variety of sizes and colors. Their coloring ranges from black to orange to green with a spectrum of speckled, spotted, or striped patterns. Some species also have camouflaging abilities. Morays will live in marine or brackish waters, but they most prefer warm-watered coral reefs.
 
-They are generally known for their serpentine like body and large head, with a long snout and big piercing eyes. Running down the length of their back, is a long, but short dorsal fin that merges at the end with their tale.
+Morays are known for their serpentine like body and large head, with a long snout and big piercing eyes. Running down the length of their back, is a long, but short dorsal fin that merges at the end with their tale. Though mostly hunting for other fish, they also eat mollusks, like octopus, or hard-shelled invertebrates, like crabs.
 
-They generally live in marine or sometimes brackish waters, and generally prefer warm-water coral reefs. Though mostly hunting for other fish, they also eat mollusks, like octopus, or hard-shelled invertebrates, like crabs.
-
-Moray eels also a few rows of small sharp front in their mouths, which are pointed backward, like a fishhook, to keep their prey from escaping.
+Moray eels also have a few rows of small sharp front in their mouths, which are pointed backward, like a fishhook, to keep their prey from escaping.
 
 ![](/img/eels-2-3.jpg)
 
@@ -48,8 +46,8 @@ The combination of theses two feeding systems in the Moray Eel - the raptorial p
 
 ![](/img/eels-2.jpg)
 
-As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. 
+**Where to go from here**
 
-Questions like - what other species have this feeding system? How can we find them? What other fishes can provide a similarly enlightening study? What other differences are there between Moray Eels and other species? – have arisen in the process of this study. Dr. Rita Mehta and her team in their quest for insight challenge these questions.
+As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Questions like - what other species have this feeding system? How can we find them? What other fish can provide similarly enlightening findings? What other differences are there between moray eels and other species? – have arisen in the process of this study. Dr. Rita Mehta and her team at Mehta Labs, through the UCSC Longmore Marine Center, hope to answer these questions and more.
 
 

@@ -2,7 +2,7 @@
 layout: page
 title: The Moray Eel
 subtitle: Hidden features and Strange Eating Habits
-hero_image: /img/eels-4.jfif
+hero_image: /img/eels-5.jfif
 description: 
 menubar: portfolio_menu
 show_sidebar: false    	
@@ -28,15 +28,10 @@ According to Dr. Mehta, “This is the first described case of a vertebrate usin
 
 **Feeding**
 
-Eels, with their elongate bodies, (a shape they share with snakes, meaning their whole bodies are stretched) survive in the twisted spaces of coral reefs. Likewise, their shape allows them to explore tight crevices for food. In doing so they can corner prey in the coral, stick their head in, and launching their pharyngeal jaws into the small holes. 
+Eels, with their elongate bodies, (a shape they share with snakes, meaning their internal muscles and bones are stretched) survive in the twisted spaces of coral reefs. Likewise, their shape allows them to explore tight crevices for food. In doing so they can corner prey in the coral, stick their head in, and launching their pharyngeal jaws into the small holes. 
 
 When it comes to large prey, Morays can also use what is called a ratcheting technique, which is often described as walking their jaws over their prey slowly creeping it into their throat. This happens via the ability of the first set of jaws to unlock, separating into two halves that can move freely from one another. After catching a larger prey type in their teeth, they will detach their jaws, and walk them over the prey until it is completely consumed. The pharyngeal jaws then take over, dragging the prey the rest of way back to the esophagus. (The ratcheting method is also used by snakes, further linking the two species.) The combination of theses two feeding systems in the Moray Eel present a whole new feeding dynamic, and create new questions concerning the morphology and functionality of this jaw system.
 
 Many questions have been raised concerning the addition of raptorial pharyngeal jaws, of worldwide feeding mechanisms, and of the Moral Eel in general. As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Questions like - what other species have this feeding system? How can we find them? What other fishes can provide a similarly enlightening study? What other differences are there between Moray Eels and other species? – have arisen in process of this study. And which Dr. Rita Mehta and her team challenge in their quest for insight. Nevertheless, one caveat that appears to me is the subordination of morality to science. Though research may be fun and enlightening, it can only be justified to a point. Subjecting species to the terrors of research methods for the singular purpose of garnering knowledge proves nothing, and simply objectifies them as means to a scientific curiosity-driven end. A researcher should weigh the significance these insights have for us versus the significance of the study methodology for the species, with particular care to the question of ‘should we do this?’ over ‘can we do this?’. Morality should never take a backseat to science, and thus, should always be considered before undertaking the research process.
 
-
-
-
-
-As mentioned above, the eel, like the snake, is elongate, meaning the internal muscles and bones are similarly lengthened. 
 

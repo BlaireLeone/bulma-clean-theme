@@ -20,15 +20,13 @@ I'm in the midst of reading the third book, but I'll put in a review when I'm fi
 
 Character-driven and eloquent plot - some plot holes and lacking universal world building
 
-Seems perfect for: someone looking for a fast-paced adventure and local world building, but not for someone looking for mood and a complex sci-fi universe
+Seems perfect for: someone looking for a fast-paced adventure, local world building, and a strong female lead
 
 Genre: Sci-Fi, human interest, speculative fiction
 
 Pages: 368 for all three books combined
 
 ## **About**
-
-test test test testestestetet
 
 ## **Review**
 

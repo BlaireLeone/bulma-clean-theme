@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Moray Eel
-subtitle: Hidden features and Strange Eating Habits
+subtitle: New findings could illuminate novel information on surrounding ecosystems
 hero_image: /img/eels-11.jfif
 description: 
 menubar: portfolio_menu

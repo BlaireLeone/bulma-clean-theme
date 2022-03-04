@@ -18,11 +18,11 @@ Dr. Rita Mehta, a UCSC biologist studying animal physiology, behavior, and evolu
 
 Most fish have what are called pharyngeal jaws, a set of jaws located in the throat, which, in addition to the normal set of jaws in the mouth, helps them wrangle their prey. Using a suction-like method, fish suck prey into the oral cavity of the mouth; water sucked in with the prey carries it to the pharyngeal jaws in the throat, which then grab and pin down prey for digestion.
 
-![](/img/moray-eel-jaw.jpg)
+![](/img/eels-2-2.jfif)
 
 While similarly equipped with a second set of jaws in the throat, moray eels have instead what are called raptorial pharyngeal jaws, which play a more active role in wrangling prey. Moral eels catch their prey with the sharp recurved teeth of their first set of jaws, before launching their pharyngeal jaws from the throat into the oral cavity to hook the prey and reel it back. This feeding method relies on elongated muscles, which expand and contract with the launching method to control the jaw set. 
 
-![](/img/eels-2.jpg)
+![](/img/moray-eel-jaw.jpg)
 
 According to Dr. Mehta, “This is the first described case of a vertebrate using a second set of jaws to both restrain and transport prey.” Hitherto, the existence of these jaw types were only found in a select few species of invertebrates, illuminating a novel feeding regime for species worldwide.
 
@@ -34,7 +34,7 @@ When it comes to larger prey, morays can also use what is called a *ratcheting t
 
 The combination of theses two feeding systems in the Moray Eel, the raptorial pharyngeal jaw and the ratcheting technique, present a whole new feeding dynamic for aquatic vertebrates, and create new questions concerning the morphology and functionality of this jaw system.
 
-![](/img/eels-2-2.jfif)
+![](/img/eels-2.jpg)
 
 Many questions have been raised concerning the addition of raptorial pharyngeal jaws, of worldwide feeding mechanisms, and of the Moral Eel in general. As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Questions like - what other species have this feeding system? How can we find them? What other fishes can provide a similarly enlightening study? What other differences are there between Moray Eels and other species? – have arisen in process of this study. And which Dr. Rita Mehta and her team challenge in their quest for insight. Nevertheless, one caveat that appears to me is the subordination of morality to science. Though research may be fun and enlightening, it can only be justified to a point. Subjecting species to the terrors of research methods for the singular purpose of garnering knowledge proves nothing, and simply objectifies them as means to a scientific curiosity-driven end. A researcher should weigh the significance these insights have for us versus the significance of the study methodology for the species, with particular care to the question of ‘should we do this?’ over ‘can we do this?’. Morality should never take a backseat to science, and thus, should always be considered before undertaking the research process.
 

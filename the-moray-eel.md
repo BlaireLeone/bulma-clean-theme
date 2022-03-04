@@ -48,6 +48,8 @@ The combination of theses two feeding systems in the Moray Eel - the raptorial p
 
 **Where to go from here**
 
-As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Questions like - what other species have this feeding system? How can we find them? What other fish can provide similarly enlightening findings? What other differences are there between moray eels and other species? – have arisen in the process of this study. Dr. Rita Mehta and her team at Mehta Labs, through the UCSC Longmore Marine Center, hope to answer these questions and more.
+As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Moray eels are known as keystone species, which means the play a crucial role in stabilizing their ecosystem's equilibrium. When these ecosystems are thrown out of balance, insight into how the moray eels feed could be crucial in monitoring the rebalancing process.
+
+Thus, questions like - what other species have this feeding system? How can we find them? What other fish can provide similarly enlightening findings? What other differences are there between moray eels and other species? – have arisen during this study. Dr. Rita Mehta and her team at Mehta Labs, through the UCSC Longmore Marine Center, hope to answer these questions and more.
 
 

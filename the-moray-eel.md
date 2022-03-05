@@ -18,9 +18,9 @@ Dr. Rita Mehta, a UCSC biologist studying animal physiology, behavior, and evolu
 
 Moray eels encompass over 200 species of eels, with a wide variety of sizes and colors. Their coloring ranges from black to orange to green with a spectrum of speckled, spotted, or striped patterns. Some species also have camouflaging abilities. Morays will live in marine or brackish waters, but they most prefer warm-watered coral reefs.
 
-Morays are known for their serpentine like body and large head, with a long snout and big piercing eyes. Running down the length of their back, is a long, but short dorsal fin that merges at the end with their tale. Though mostly hunting for other fish, they also eat mollusks, like octopus, or hard-shelled invertebrates, like crabs.
+Morays are known for their serpentine like body and large head, with a long snout and big piercing eyes. Running down the length of their back, is a long, but short dorsal fin that merges at the end with their tale. Though mostly hunting for other fish, they also eat mollusks (like octopus) or hard-shelled invertebrates (like crabs).
 
-Moray eels also have a few rows of small sharp front in their mouths, which are pointed backward, like a fishhook, to keep their prey from escaping.
+Moray eels also have a few rows of small sharp front teeth, which are pointed backward, like a fishhook, to keep their prey from escaping.
 
 ![](/img/eels-2-3.jpg)
 
@@ -30,7 +30,7 @@ Most fish have what are called pharyngeal jaws, a set of jaws located in the thr
 
 ![](/img/eels-2-2.jfif)
 
-While similarly equipped with a second set of jaws in the throat, moray eels have instead what are called raptorial pharyngeal jaws, which play a more active role in wrangling prey. Moral eels catch their prey with the sharp recurved teeth of their first set of jaws, before launching their pharyngeal jaws from the throat into the oral cavity to hook the prey and reel it back. This feeding method relies on elongated muscles, which expand and contract with the launching method to control the jaw set. 
+While similarly equipped with a second set of jaws in the throat, moray eels are a little different. They have what are called raptorial pharyngeal jaws, which play a more active role in wrangling prey. Moral eels catch their prey with the sharp recurved teeth of their first set of jaws, before launching their pharyngeal jaws from the throat into the oral cavity to hook the prey and reel it back. This feeding method relies on elongated muscles, which expand and contract with the launching method to control the jaw set. 
 
 ![](/img/moray-eel-jaw.jpg)
 

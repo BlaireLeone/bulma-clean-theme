@@ -17,13 +17,11 @@ summary: Friction, a concept most people are familiar with from one science clas
 
 Friction, a concept most people are familiar with from one science class or another, is also a term applied to behavioral economics or behavioral science, and can come in handy when changing our daily behaviors. 
 
-Before diving into friction, I'm going to set the scene with a few broader terms.
-
 ## Behavioral Science and Behavioral Economics
 
 ------
 
-**Behavioral science** is somewhat self-explanatory - it is the study of human behavior, although it can range from studying specific behaviors, to motivations for behaviors, to behaviors linked to pschological conditions or trauma. 
+**Behavioral science** is somewhat self-explanatory - it is the study of human behavior, although it can range from studying specific behaviors, to motivations for behaviors, to behaviors linked to psychological conditions or trauma. 
 
 **Behavioral economics** is a little different in that it examines human behavior as it relates to decision-making. While more of a psychological science in practice, it is also considered an economic discipline for how individual decision-making affects broader socio-economic trends. For instance, behavioral economists might study the proportion of people that bought this particular product compared to another, and why? Or what made this insurance plan, or that gym membership more popular. While behaviorists are curious about particular decisions, they, more accurately, are curious about what made this decision so appealing out of the array of decisions available. Why did they choose an Apple product vs Samsung or Motorola? 
 
@@ -63,7 +61,7 @@ If you have a chocolate or candy affinity, placing it on the top shelf of your c
 
 **2.)  Reducing:** We can motivate other behaviors by reducing the frictions around them - or finding ways to make these habits easier.
 
-Trying to eat more fruits and veggies instead of chocolate and candy? Try prepping your fruits and veggies ahead of time. Cut them into smaller peices and keep them in a tupperware. This makes the veggies more snackable and appealing and thus makes you more inclined to eat them when you're feeling snacky or maybe prepping other meals.
+Trying to eat more fruits and veggies instead of chocolate and candy? Try prepping your fruits and veggies ahead of time. Cut them into smaller pieces and keep them in a Tupperware. This makes the veggies more snackable and appealing and thus makes you more inclined to eat them when you're feeling snacky or maybe prepping other meals.
 
 ------
 

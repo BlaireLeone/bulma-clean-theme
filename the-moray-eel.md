@@ -16,11 +16,9 @@ Dr. Rita Mehta, a UCSC biologist studying animal physiology, behavior, and evolu
 
 **Description**
 
-Moray eels encompass over 200 species of eels, with a wide variety of sizes and colors. Their coloring ranges from black to orange to green with a spectrum of speckled, spotted, or striped patterns. Some species also have camouflaging abilities. Morays will live in marine or brackish waters, but they most prefer warm-watered coral reefs.
+Moray eels encompass over 200 species of eels, with a wide variety of sizes and colors. Morays are known for their serpentine like body and large head, with a long snout and big piercing eyes. Their coloring ranges from black to orange to green with a spectrum of speckled, spotted, or striped patterns. Some species also have camouflaging abilities. 
 
-Morays are known for their serpentine like body and large head, with a long snout and big piercing eyes. Running down the length of their back, is a long, but short dorsal fin that merges at the end with their tale. Though mostly hunting for other fish, they also eat mollusks (like octopus) or hard-shelled invertebrates (like crabs).
-
-Moray eels also have a few rows of small sharp front teeth, which are pointed backward, like a fishhook, to keep their prey from escaping.
+While morays can live in marine or brackish waters, they prefer warm-watered coral reefs. Their diet consists of fish, mollusks (like octopus), and hard-shelled invertebrates (like crabs). Like fishhooks, their small sharp front teeth are pointed backward to keep their prey from escaping while hunting. 
 
 ![](/img/eels-2-3.jpg)
 
@@ -30,7 +28,7 @@ Most fish have what are called pharyngeal jaws, a set of jaws located in the thr
 
 ![](/img/eels-2-2.jfif)
 
-While similarly equipped with a second set of jaws in the throat, moray eels are a little different. They have what are called raptorial pharyngeal jaws, which play a more active role in wrangling prey. Moral eels catch their prey with the sharp recurved teeth of their first set of jaws, before launching their pharyngeal jaws from the throat into the oral cavity to hook the prey and reel it back. This feeding method relies on elongated muscles, which expand and contract with the launching method to control the jaw set. 
+While similarly equipped with a second set of jaws in the throat, moray eels are a little different. They have what are called raptorial pharyngeal jaws, which play a more active role in pinning down prey. Moral eels catch their prey with the sharp recurved teeth of their first set of jaws, before launching their pharyngeal jaws from the throat into the oral cavity to hook the prey and reel it backwards. This feeding method relies on elongated muscles, which expand and contract with the launching method to control the jaw set. 
 
 ![](/img/moray-eel-jaw.jpg)
 
@@ -40,9 +38,9 @@ According to Dr. Mehta, “This is the first described case of a vertebrate usin
 
 Eels, with their elongate bodies, (a shape they share with snakes, meaning their internal muscles and bones are lengthened) survive in the twisted spaces of coral reefs. Their shape allows them to hide from predators in the coral, but also allows them to explore tight crevices for food. In doing so, they can corner prey, stick their head in, and snatch the prey out by launching their pharyngeal jaws forward. 
 
-When it comes to larger prey, morays can also use what is called a *ratcheting technique*, which Dr. Mehta describes as walking their jaws over prey to creep it into their throat. For this process, the first set of jaws unlock, separating into two halves that can move freely from one another. As the prey is guided through the eel's mouth, the pharyngeal jaws then take over, dragging the prey the rest of way into the throat. Despite the use of the raptorial pharyngeal jaws, this technique is not unique to the moral eel - eel's terrestrial counterparts, snakes are known for this technique as well.
+When it comes to larger prey, morays can also use what is called a *ratcheting technique*, which Dr. Mehta describes as walking their jaws over prey to creep it into their throat. For this process, the first set of jaws unlock, separating into two halves that can move freely from one another. As the prey is guided through the eel's mouth, the pharyngeal jaws then take over, dragging the prey the rest of way into the throat. Despite the use of the raptorial pharyngeal jaws, the ratcheting technique is not unique to the moral eel - their terrestrial counterparts, snakes are known for this technique as well.
 
-The combination of theses two feeding systems in the Moray Eel - the raptorial pharyngeal jaw and the ratcheting technique - not only illuminates a new feeding dynamic for aquatic vertebrates, it also promotes new questions concerning the morphology and functionality of this jaw system.
+The combination of theses two feeding systems in the moray eel - the raptorial pharyngeal jaw and the ratcheting technique - not only illuminates a new feeding dynamic for aquatic vertebrates, it also promotes new questions concerning the morphology and adaptability of this jaw system.
 
 ![](/img/eels-2.jpg)
 
@@ -50,7 +48,7 @@ The combination of theses two feeding systems in the Moray Eel - the raptorial p
 
 As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Moray eels are known as keystone species, which means the play a crucial role in stabilizing their ecosystem's equilibrium. When these ecosystems are thrown out of balance, insight into how the moray eels feed could be crucial in monitoring the rebalancing process.
 
-Thus, questions like - what other species have this feeding system? How can we find them? What other fish can provide similarly enlightening findings? What other differences are there between moray eels and other species? – have arisen during this study. Dr. Rita Mehta and her team at Mehta Labs, through the UCSC Longmore Marine Center, hope to answer these questions and more.
+Thus, questions like - what other species have this feeding system? How can we find them? What other fish can provide similarly enlightening findings? What other differences are there between moray eels and other species? – have arisen during this study. Dr. Rita Mehta and her team at Mehta Labs, through the UCSC Longmore Marine Center, hope to answer these questions and .
 
 
 
@@ -60,7 +58,7 @@ Bibliography
 
 [Elongation of the Body in Eels](https://mehta.eeb.ucsc.edu/wp-content/uploads/2013/11/Mehta-et-al-2010.pdf)
 
-[Morphological and Functional Innovation: Raptorial jaws help moray eels swallow large prey)](https://mehta.eeb.ucsc.edu/researchtopics/research/)
+[Morphological and Functional Innovation: Raptorial jaws help moray eels swallow large prey](https://mehta.eeb.ucsc.edu/researchtopics/research/)
 
 [To knot or not? Novel feeding behaviours in moray eels](https://mehta.eeb.ucsc.edu/wp-content/uploads/2016/03/Barley2015MarineBiodiversity.pdf)
 

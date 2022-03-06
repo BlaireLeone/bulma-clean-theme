@@ -7,13 +7,11 @@ menubar: portfolio_menu
 hero_image: /img/bears-hero.jpg
 ---
 
-February 7, 2022
+February 27, 2022
 
 By: Blaire Hobbs
 
-**Sneak Peak!** 
-
-Last week, news broke that Hank the Tank, the infamous 500lb. black bear ransacking South Lake Tahoe homes was in fact [3 bears](https://www.theguardian.com/environment/2022/feb/25/very-hungry-bear-hank-the-tank-is-in-fact-three-bears-dna-shows). Thanks to DNA evidence, Hank is now off the hook, however, while Hank may be glad to no longer shoulder the whole blame, communities and bear's alike must shoulder a potential reality where bears like Hank are showing up more often.
+Last week, news broke that Hank the Tank, the infamous 500lb. black bear ransacking South Lake Tahoe homes was in fact [3 bears](https://www.theguardian.com/environment/2022/feb/25/very-hungry-bear-hank-the-tank-is-in-fact-three-bears-dna-shows). Thanks to DNA evidence, Hank is now off the hook, however, while Hank may be glad to no longer shoulder all the blame, communities and bear's alike must shoulder a potential reality where bears like Hank are showing up more often.
 
 Due to human encroachment on the bear's habitat as well as additional climate pressures, Californians may be seeing an uptick of bears wandering into urbanized spaces as they develop preferences for human food and acclimate to human environments.
 
@@ -28,3 +26,22 @@ Black bears prefer densely forested areas, and thrive best in ecosystems with [s
 ![](img/black-bear-habitat-ca.jpg)
 
 This map from the CA department of fish and wildlife shows the range of black bear's habitat in California as of 2021.
+
+Black bears are no stranger to human encroachment. It's hypothesized that the large-scale hunting operations, deforestation, and permanent townships from humans in the last few centuries, drove the bears into smaller more forested zones. 
+
+However in the past 50 years, this pattern has reversed and we are seeing more and more bears wandering outside their preferred habitats - especially into urban areas.
+
+**Humans**
+
+
+
+**Climate Change - Rising Temperatures**
+
+
+
+**Drought**
+
+
+
+**Wildfires**
+

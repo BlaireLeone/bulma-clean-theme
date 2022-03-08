@@ -38,17 +38,17 @@ According to Dr. Mehta, “This is the first described case of a vertebrate usin
 
 Eels, with their elongate bodies, (a shape they share with snakes, meaning their internal muscles and bones are lengthened) survive in the twisted spaces of coral reefs. Their shape allows them to hide from predators in the coral, but also allows them to explore tight crevices for food. In doing so, they can corner prey, stick their head in, and snatch the prey out by launching their pharyngeal jaws forward. 
 
-When it comes to larger prey, morays can also use what is called a *ratcheting technique*, which Dr. Mehta describes as walking their jaws over prey to creep it into their throat. For this process, the first set of jaws unlock, separating into two halves that can move freely from one another. As the prey is guided through the eel's mouth, the pharyngeal jaws then take over, dragging the prey the rest of way into the throat. Despite the use of the raptorial pharyngeal jaws, the ratcheting technique is not unique to the moral eel - their terrestrial counterparts, snakes are known for this technique as well.
+When it comes to larger prey, morays also use what is called a *ratcheting technique*, which Dr. Mehta describes as walking their jaws over prey to creep it into their throat. For this process, the first set of jaws unlock, separating into two halves that can move freely from one another. As the prey is guided through the eel's mouth, the pharyngeal jaws then take over, dragging the prey the rest of way into the throat. Despite the use of the raptorial pharyngeal jaws, the ratcheting technique is not unique to the moral eel - their terrestrial counterparts, snakes, are known for this technique as well.
 
-The combination of theses two feeding systems in the moray eel - the raptorial pharyngeal jaw and the ratcheting technique - not only illuminates a new feeding dynamic for aquatic vertebrates, it also promotes new questions concerning the morphology and adaptability of this jaw system.
+The combination of these two feeding systems in the moray eel - the raptorial pharyngeal jaw and the ratcheting technique - not only illuminates a new feeding dynamic for aquatic vertebrates, it also promotes new questions concerning the morphology and adaptability of this jaw system.
 
 ![](/img/eels-2.jpg)
 
 **Where to go from here**
 
-As they are the only known vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Moray eels are known as keystone species, which means the play a crucial role in stabilizing their ecosystem's equilibrium. When these ecosystems are thrown out of balance, insight into how the moray eels feed could be crucial in monitoring the rebalancing process.
+As they are the only known aquatic vertebrates to use the second jaw set in the launching/retracting manner, there are many unknowns. Moray eels are keystone species, which means the play a crucial role in maintaining their ecosystem's equilibrium. When these ecosystems are thrown out of balance, insight into how the moray eels feed could be crucial in restabilizing the ecosystem and protecting other species up and down the food chain.
 
-Thus, questions like - what other species have this feeding system? How can we find them? What other fish can provide similarly enlightening findings? What other differences are there between moray eels and other species? – have arisen during this study. Dr. Rita Mehta and her team at Mehta Labs, through the UCSC Longmore Marine Center, hope to answer these questions and .
+Thus, questions like - what other species have this feeding system? How can we find them? What other fish can provide similarly enlightening findings? What other differences are there between moray eels and other species? – have arisen while studying these creatures. Dr. Rita Mehta and her team at Mehta Labs, through the UCSC Longmore Marine Center, hope to answer these questions and more.
 
 
 

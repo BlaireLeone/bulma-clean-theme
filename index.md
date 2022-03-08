@@ -11,7 +11,7 @@ hero_image: /img/blue-lakes.jpg
 
 # About Blaire
 
-I am freelance writer and editor covering environmental conservation, sustainable food systems, personal health, travel, people, media literacy, and behavioral science. I have a degree in Cognitive Science from the University of California Santa Cruz and a professional background in media literacy, misinformation research, behavioral science, and teaching. I also work with The Propwatch Project as a segment producer interviewing researchers and writing articles in the field of misinformation.
+I am freelance writer and editor covering science, environmental conservation, personal health, travel, people, media literacy, and behavioral science. I have a degree in Cognitive Science from the University of California Santa Cruz and a professional background in media literacy, misinformation research, behavioral science, and teaching. I also work with The Propwatch Project as a segment producer interviewing researchers and writing articles in the field of misinformation.
 
 ![](/img/Hobbs_Blaire_Headshot.jpg)
 

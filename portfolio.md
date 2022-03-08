@@ -7,7 +7,7 @@ menubar: portfolio_menu
 hero_image: /img/maroon-peaks.jpg
 ---
 
-I'm a freelance writer and editor, covering environmental sustainability and policy, technology, food, media literacy, people, culture, and behavioral science. 
+I'm a freelance writer and editor, covering environmental sustainability and policy, technology, science, media literacy, people, culture, and behavioral science. 
 
 I also report on propaganda techniques with *The Propwatch Project*, a nonpartisan nonprofit seeking to educate the public on propaganda and misinformation techniques. I write in-depth articles and interviews with misinformation researchers, including [writing on common techniques](https://www.propwatch.org/article.php?id=295) employed by state-sponsored social media trolls and discussing the relationship between state-sponsored propaganda and state violence through [an interview with misinformation expert, Dr. Josephine Lukito](https://www.propwatch.org/article.php?id=305). While working with *Propwatch*, I became involved with the *Journal of Media Literacy Education*, where I edit and publish manuscripts.
 
@@ -17,5 +17,5 @@ Later, I graduated with a BS in Cognitive Science and a minor in Literature from
 
 During college, I was involved with several student ventures: I worked as an editor with *Chinquapin Magazine*, a student-run literary magazine, and ran monthly movie nights with the *Psi-Chi* club, an international psychology association. 
 
-My appreciation for films and storytelling developed from my experience as assistant festival director for the *Nevada City Film Festival*, where I watched and discussed dozens of films with my team to determine their fit for the festival. 
+My appreciation for films and storytelling developed from my experience as assistant festival director for the *Nevada City Film Festival*, where I watched and discussed dozens of films from all genres.  
 

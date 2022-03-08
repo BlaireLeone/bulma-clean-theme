@@ -5,6 +5,7 @@ layout: page
 show_sidebar: false
 menubar: plant_newsletter_menu
 hero_image: /img/harvesting-herbs.png
+hero_darken: true
 ---
 
 ## **The v*Herb*iage: Processing Herbs**

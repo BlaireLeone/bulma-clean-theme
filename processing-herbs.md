@@ -1,9 +1,10 @@
 ---
 title: Processing Herbs
-subtitle: Here's how we process our herbs at HAALo from harvesting to storing
+subtitle: From harvesting to storing!
 layout: page
 show_sidebar: false
 menubar: plant_newsletter_menu
+hero_image: /img/harvesting-herbs.png
 ---
 
 ## **The v*Herb*iage: Processing Herbs**

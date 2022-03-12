@@ -27,9 +27,9 @@ Friction, a concept most people are familiar with from one science class or anot
 
 Most behaviors seem deliberate, either carefully calculated or obvious based on personal principles: affirming strongly held beliefs - like the decision to attend a place of worship (if you have a particular faith) or the decision to join an extraterrestrial book club (if you believe in aliens); performing a practical or efficient task – like doing your laundry because you ran out of clean socks or doing your taxes because it's that time of year. 
 
-Nobel Laureate psychologist Daniel Kahneman from Princeton University (and his late colleague Amos Tversky), however, has a new perspective, which generally suggests that we may not have as much control over our decisions as we think we do. Spoiler alert: it changed how we view psychology and behavioral economics forever.
+Nobel Laureate and psychologist Daniel Kahneman from Princeton University (and his late colleague Amos Tversky), however, has a new perspective, which generally suggests that we may not have as much control over our decisions as we think we do. Spoiler alert: it changed how we view psychology and behavioral economics forever.
 
-In his 2011 book, Thinking Fast and Slow, he posits that our thinking, and more than that, our behavior, operates on two settings: slow and fast. And that these settings effect our decision making in surprising ways. Although it should be noted that in summarizing these two systems here (in the book, they are actually referred two as System 1 and System 2 respectively), that I am vastly oversimplifying their nuance.
+In his 2011 book, Thinking Fast and Slow, he posits that our thinking, and more than that, our behavior, operates on two settings: slow and fast. [[3]](https://us.macmillan.com/books/9780374533557/thinkingfastandslow) And that these settings effect our decision making in surprising ways. Although it should be noted that in summarizing these two systems (in the book, they are actually referred two as System 1 and System 2 respectively), I am vastly oversimplifying their nuance.
 
 #### Slow Thinking 
 

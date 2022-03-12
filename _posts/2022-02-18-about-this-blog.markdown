@@ -19,11 +19,11 @@ summary: conscious consumerism
 
 ------
 
-One thing I've learned in my own journey to living a conscious consumer lifestyle is that most people generally agree that they would like be healthy and low-impact (two fundamental tenets of conscious consumerism). Most people however, if they are interested in doing so, don't know how to start or how to find the time. 
+One thing I've learned in my own journey to living a conscious consumer lifestyle is that most people generally agree that they would like be healthy and low-impact (two fundamental tenets of conscious consumerism), but even if they would like to do so in general, they might not know how to start or how to find the time. Going cold turkey might be the fastest way, but making small changes over time can be the easiest to implement for individual lifestyles. 
 
-I've noticed, however, that without going cold turkey it's difficult to implement small changes. But what I've noticed is that the easiest place to start is with ourselves! Many of our routines and habits, or our subconscious daily behaviors, impede us the most; either we are not aware of our habits or our habits are so ingrained that they are hard to redirect.
+So where do we start? The easiest place to start is with ourselves! Many of our routines and habits, or our subconscious daily behaviors, impede us the most; either we are not aware of our habits or our habits are so ingrained that they are hard to redirect. 
 
-Through this blog, I’ll share what I’ve learned on my journey to be a conscious consumer and give tips on how to build healthier habits. I hope this information can help other conscious consumers make decisions and build habits that allow for a healthier, more sustainable, and hopefully, cheaper lifestyle.
+Through this blog, I’ll share what I’ve learned on my journey to be a conscious consumer and give tips on how to build healthier habits that encourage personal wellness. I hope this information can help other conscious consumers make decisions and build habits that allow for a healthier, more sustainable, and hopefully, cheaper lifestyle.
 
 # What is Conscious Consumerism?
 
@@ -37,7 +37,9 @@ Consider two things:
 
 2.) Conscious consumerism is a lifestyle - one that focuses on locally produced, ethical, and environmentally friendly goods, but more generally seeks to be low-impact; to be mindful of how your decisions can effect the environment, other people, and your own personal health. This applies to what you buy, but consider even how you drive or how you communicate with others. What trickle down effects does one mode of behavior cause versus another? On yourself and on others?
 
-Altogether, a conscious consumer lifestyle is one that is healthy, sustainable, and I believe ultimately, cheaper. As you seek choices that boost your health, the environments, and other peoples, you are also consuming less and generating less waste! And as an added perk, you save money too! 
+Altogether, a conscious consumer lifestyle builds on what the University of Maryland calls the [8 Dimensions of Wellness](https://umwellness.wordpress.com/8-dimensions-of-wellness/), which deconstructs personal health into not just physical or emotional health, but also other more nuanced dimensions such as social, financial, and environmental health. 
+
+In short, conscious consumerism seeks to build habits that are healthy, sustainable, and ultimately, cheaper.  As you seek choices that boost your health, the environments, and other peoples, you are also consuming less and generating less waste! And as an added perk, you save money too! 
 
 
 

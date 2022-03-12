@@ -16,15 +16,12 @@ hero_image: /img/bryce.jpg
 
 ------
 
-#### Freelance Writer and Editor *•* *Remote*   
+#### Freelance Writer • *Remote*   
 
-2017 – PRESENT 
+JANUARY 2022 – PRESENT 
 
-- Revises environmental documents for the Placer County Air Pollution Control District Office to ensure public understanding of data gathering practices, local and federal air quality policy, prescribed burning, and wildfire smoke updates.
+- Authors weekly cognitive  science articles for client in the tech startup field: compiles and  organizes research, discusses and reviews articles with client.  
 
-- Worked 1:1 with (later elected) candidate to local CA water district’s Board of Directors: translated complex fiscal analyses and wonky policy language for broader voting population.
-
-- Edited first-person commentary on benefits of local water system infrastructural repairs for civil engineer in Shasta County, California: adapted technical language and fleshed out narrative.
 
 ​	
 
@@ -40,7 +37,19 @@ JUNE 2021 - PRESENT
 
 - Participates in weekly team meetings to discuss ongoing and future projects.  
 
-​	
+  
+
+#### Freelance Editor *•* *Remote*   
+
+2017 – PRESENT 
+
+- Revises environmental documents for the Placer County Air Pollution Control District Office to ensure public understanding of data gathering practices, local and federal air quality policy, prescribed burning, and wildfire smoke updates.
+
+- Worked 1:1 with (later elected) candidate to local CA water district’s Board of Directors: translated complex fiscal analyses and wonky policy language for broader voting population.
+
+- Edited first-person commentary on benefits of local water system infrastructural repairs for civil engineer in Shasta County, California: adapted technical language and fleshed out narrative.
+
+  
 
 #### Newsletter Intern • *League of Women Voters of Milwaukee County •* *Remote* 
 

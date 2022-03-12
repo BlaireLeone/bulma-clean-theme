@@ -19,7 +19,7 @@ summary: conscious consumerism
 
 ------
 
-One thing I've learned in my own journey to living a conscious consumer lifestyle is that most people want the same thing - to be healthy and low-impact, but don't know where or how to start. I've noticed, however, that it is our routines and habits, or our subconscious daily behaviors, that impede us the most in this desire. Often we are not aware of our habits, or our habits are so ingrained that they are hard to redirect.
+One thing I've learned in my own journey to living a conscious consumer lifestyle is that most people generally agree that they would like be healthy and low-impact, but haven't really thought about how or why. I've noticed, however, that it is our routines and habits, or our subconscious daily behaviors, that impede us the most in this desire. Often we are not aware of our habits, or our habits are so ingrained that they are hard to redirect.
 
 Through this blog, I’ll share what I’ve learned on my journey to be a conscious consumer and give tips on how to build healthier habits. I hope this information can help other conscious consumers make decisions and build habits that allow for a healthier, more sustainable, and hopefully, cheaper lifestyle.
 

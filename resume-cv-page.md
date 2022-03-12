@@ -20,8 +20,6 @@ hero_image: /img/bryce.jpg
 
 2017 – PRESENT 
 
-- Authors articles: currently under review for publication with *High Country News*, *Tech Policy Press*, and *The Sun Magazine*, including pieces on how climate change affects human-wildlife relationships, bicycle and autonomous vehicle interactions, and using behavioral economics to build sustainable habits.
-
 - Revises environmental documents for the Placer County Air Pollution Control District Office to ensure public understanding of data gathering practices, local and federal air quality policy, prescribed burning, and wildfire smoke updates.
 
 - Worked 1:1 with (later elected) candidate to local CA water district’s Board of Directors: translated complex fiscal analyses and wonky policy language for broader voting population.

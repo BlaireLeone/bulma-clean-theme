@@ -64,6 +64,8 @@ When we make a decision to do something, but are unable to follow through, it is
 
 Because we are not thinking critically about our actions when friction affects them, it is our fast thinking that is impacted. However, friction is not simply negative. We can also consciously apply it to our behaviors when trying to build new habits. 
 
+![](img/habits-2.jpg)
+
 #### So how can we use friction to our advantage?
 
 Friction plays two roles in our efforts.

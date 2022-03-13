@@ -2,7 +2,7 @@
 title: Habits
 subtitle: "How can friction help us change our habits?"
 layout: page
-hero_image: /img/habits-4.jpg
+hero_image: /img/habits-5.jpg
 show_sidebar: false
 ---
 

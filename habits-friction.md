@@ -16,6 +16,8 @@ Friction, a concept most people are familiar with from one science class or anot
 
 Behavioral science is somewhat self-explanatory - it is the study of human behavior, although it can range from studying specific behaviors, to motivations for behaviors, to behaviors linked to psychological conditions or trauma. Behavioral science is a broad discipline that can encompass anthropology, sociology, cognitive psychology, as well as behavioral economics. [[1]](https://www.chicagobooth.edu/mindworks/what-is-behavioral-science-research#:~:text=Several%20disciplines%20fall%20under%20the%20broad%20label%20of,4%20Consumer%20behavior%205%20Social%20psychology%206%20Sociology)
 
+![](img/behavioral-economics.jpg)
+
 #### **Behavioral economics**
 
 Behavioral economics, a subdiscipline of behavioral science, is more specific in that it examines human behavior as it relates to decision-making. While more of a psychological science in practice, it is also considered an economic discipline for how individual decision-making affects broader socio-economic trends. For instance, behavioral economists might study the proportion of people that bought one product compared to another. And why? Or what made this insurance plan, or that gym membership more popular. While behaviorists are curious about particular decisions, they more accurately, are curious about what made this decision so appealing out of the array of decisions available, despite the trade-offs attached to each decision. Why did they choose to drive vs flying or taking the train? [[2]](https://news.uchicago.edu/explainer/what-is-behavioral-economics)

@@ -8,7 +8,6 @@ image: /img/about-pic.jpg
 hero_image: /img/about-pic.jpg
 hero_darken: true
 published: true
-series: about_this_blog_series
 summary: One thing I've learned in my own journey to living a conscious consumer lifestyle is that most people generally agree that they would like be healthy and low-impact...
 
 ---

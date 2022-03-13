@@ -9,7 +9,6 @@ image: /img/habits.jfif
 hero_image: /img/habits.jfif
 published: true
 tags: habits friction fast slow Daniel-Kahneman
-series: habits_series
 toc: true
 toc_title: Contents
 summary: Friction, a concept most people are familiar with from one science class or another, is also a term from behavioral economics or behavioral science, and can come in handy when changing our daily behaviors.

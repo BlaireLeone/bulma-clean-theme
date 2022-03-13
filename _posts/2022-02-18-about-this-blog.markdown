@@ -19,7 +19,7 @@ summary: One thing I've learned in my own journey to living a conscious consumer
 
 ------
 
-One thing I've learned in my own journey to living a conscious consumer lifestyle is that most people generally agree that they would like be healthy and low-impact (two fundamental tenets of conscious consumerism), but even when generally interested, they might not know how to start or how to find the time. Going cold turkey might be the fastest way, but making small changes over time can be easiest when deciding if it's a lifestyle you want or can sustain. 
+One thing I've learned in my own journey to living a conscious consumer lifestyle is that most people generally agree that they would like be healthy and low-impact (two fundamental tenets of conscious consumerism). Despite showing interest, the primary concerns for implementing this kind of lifestyle are not knowing how to start or how to find the time. Going cold turkey might be the fastest way, but making small changes over time can be easiest when deciding if it's a lifestyle you want or can sustain. 
 
 So where do we start? The easiest place to start is with ourselves! Many of our routines and habits, or our subconscious daily behaviors, impede us the most; either we are not aware of our habits or our habits are so ingrained that they are hard to redirect. Read my article on habits here and a common method for changing them.
 

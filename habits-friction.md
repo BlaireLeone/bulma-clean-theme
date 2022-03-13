@@ -1,7 +1,6 @@
 ---
 title: Habits
 subtitle: "How can friction help us change our habits?"
-description: An example showcase page to help you easily display your work
 layout: page
 hero_image: /img/habits-1.jpg
 show_sidebar: false
@@ -46,6 +45,8 @@ Fast thinking, on the other hand, applies to decisions that are automatic and re
 ------
 
 But thinking fast is where our habits tend to catch up with us. Researchers from Duke University describe **habits** as "automated response dispositions that are cued by aspects of the performance context" [[4]](https://dornsife.usc.edu/assets/sites/208/docs/Neal.Wood.Quinn.2006.pdf), which is a fancy way of saying that habits are actions or behaviors that are intuitive, automatic, or in other words, fast thinking. And more than that, habits are cued; we perform these habits when something in our environment or preceding behavior subconsciously reminds us. For instance, looking at your phone when feeling restless or opening the fridge door when walking into the kitchen. We do them unthinkingly.
+
+![](img/habits.jfif)
 
 In fact, these researchers suggest that 45% of our behaviors are repeated daily. That includes a lot of actions everyday! These habits form when repeated enough through a stable environment - an environment that promotes the same routine - and an association is formed between cue and response. [[5]](https://pubmed.ncbi.nlm.nih.gov/12500811/) If you got up to drink water at 10:30 everyday, and coincidentally heard a bell at the same time - everyday after that you might get up to drink water when the bell sounds, without logically considering if you were thirsty.
 

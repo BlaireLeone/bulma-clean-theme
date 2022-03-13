@@ -2,7 +2,7 @@
 layout: page
 title: The Moray Eel
 subtitle: New findings could illuminate novel information on surrounding ecosystems
-hero_image: /img/eels-13.jfif
+hero_image: /img/moray.jpg
 description: 
 menubar: portfolio_menu
 show_sidebar: false    	

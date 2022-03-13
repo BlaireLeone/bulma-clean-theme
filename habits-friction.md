@@ -3,7 +3,7 @@ title: Habits
 subtitle: "How can friction help us change our habits?"
 description: An example showcase page to help you easily display your work
 layout: page
-showcase: showcase_example
+hero_image: /img/habits-1.jpg
 show_sidebar: false
 ---
 

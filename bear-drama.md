@@ -11,7 +11,7 @@ February 27, 2022
 
 By: Blaire Hobbs
 
-## **This article is in progress**
+## *This article is in progress**
 
 Last month, news broke that Hank the Tank, the infamous 500lb. black bear ransacking South Lake Tahoe homes was in fact [3 bears](https://www.theguardian.com/environment/2022/feb/25/very-hungry-bear-hank-the-tank-is-in-fact-three-bears-dna-shows). Thanks to DNA evidence, Hank is now off the hook, however, while Hank may be glad to no longer shoulder all the blame, communities and bear's alike must shoulder a potential reality where bears like Hank are showing up more often.
 

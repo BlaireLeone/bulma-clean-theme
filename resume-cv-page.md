@@ -212,7 +212,7 @@ I work remotely  with the *Journal of Media Literacy Education* to ensure consis
 
 #### **Beach Clean-ups**  •  *Save Our Shores* • *Santa Cruz, CA*
 
-2014 – 2021
+2017 – 2021
 
 I combed beaches once a month and picked up trash with *Save Our Shores,* a nonprofit in Santa Cruz, CA. I also organized my own beach clean-ups with friends and volunteers.
 

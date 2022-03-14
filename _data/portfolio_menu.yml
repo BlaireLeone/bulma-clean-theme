@@ -12,8 +12,8 @@
       link: /autonomous-vehicles-and-bikes-part-1/  
     - name: Part 2 - Bike accidents          
       link: /autonomous-vehicles-and-bikes-part-2/
-- label: Blog
-  items:         
-    - name: Healthy Habits for the Conscious Consumer
+# - label: Blog
+  # items:         
+   # - name: Healthy Habits for the Conscious Consumer
       link: /blog/ 
 

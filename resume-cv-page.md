@@ -27,7 +27,7 @@ JANUARY 2022 – PRESENT
 
 #### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
 
-JUNE 2021 - PRESENT
+August 2021 - PRESENT
 
 - Conducts interviews for video series on propaganda: pitches stories, receives assignments, sources professionals and academics, researches extensively, drafts questions, interviews experts in 1–2-hour interviews.  
 

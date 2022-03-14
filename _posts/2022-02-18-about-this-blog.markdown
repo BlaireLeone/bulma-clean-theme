@@ -28,21 +28,29 @@ Through this blog, I’ll share what I’ve learned on my journey to be a consci
 
 While Conscious Consumerism has no fixed definition, and in fact isn't listed in any modern dictionary, several sustainability-adjacent websites provide their own take. According to these websites, a conscious consumer can be [someone who looks at a label](https://medium.com/naturehub/what-is-a-conscious-consumer-and-why-does-it-matter-4b7a14ca08fc#:~:text=A%20conscious%20consumer%2C%20in%20a%20nutshell%2C%20is%20someone,is%20always%20a%20company%20motive%20to%20think%20about.) to someone who is [always conscious](https://earthhero.com/what-is-a-conscious-consumer/) to someone who has an [awareness while purchasing](https://bezen.eco/conscious-consumerism-and-its-relevance/) especially focusing on locally produced, ethical, and environmentally-friendly goods.
 
-All of these are correct, though, for the sake of this blog, my own definition is a little different. It can be narrowed down from 'always conscious', but is more generous than just 'looking at labels' or 'being aware of purchases'. I believe to be truly effective, a conscious consumer shouldn't just look at their consumption, but at their entire way of life, because as human beings, our lives are complex and interconnected. I believe instead that conscious consumerism is a lifestyle that promotes mindfulness, low-impact living, and wellness. 
+All of these are correct, though, for the sake of this blog, my own definition is a little different. It can be narrowed down from 'always conscious', but is more generous than just 'looking at labels' or 'being aware of purchases'. I believe to be truly effective, a conscious consumer shouldn't just look at their consumption, but at their entire way of life, because as human beings, our lives are complex and interconnected.
 
-Notes on Conscious Consumerism:
+Purchases are an extension of our daily habits, values, background, impulses, even our attention span. When stressed, we may eat or buy more. When tired, we may not think critically about what we are buying. Part of being a conscious consumer means not only being aware of our purchases, but being aware of ourselves, and how our beliefs and habits shape the choices we make.  
 
-1.) Conscious consumerism is a lifestyle - one that promotes mindfulness in general, but specifically intends to be low-impact.
+I believe instead that conscious consumerism is a lifestyle that promotes mindfulness, low-impact living, and wellness.
 
-A low impact lifestyle means buying and consuming less, and focusing on locally produced, ethical, and environmentally friendly goods. In doing so, consumers are mindful of how our decisions effect the environment, other people, and our own personal health. This applies to what we buy, but also how we drive or how communicate with others. What trickle down effects does one mode of behavior cause versus another? On ourselves and on others?
+​	
 
-2 .) Conscious consumerism is not limited to purchasing. 
+ What do I mean by wellness?
 
-Purchases are an extension of our daily habits, values, background, impulses, even our attention span. When stressed, we may eat or buy more. When tired, we may not think critically about what we are buying. Part of being a conscious consumer means not only being aware of our purchases, but being aware of ourselves, and how our beliefs and habits shape the choices we make. 
+I came across what the University of Maryland calls the [8 Dimensions of Wellness](https://umwellness.wordpress.com/8-dimensions-of-wellness/), which deconstructs personal health into 8 categories. While originally, I hadn't thought of all these in my own mental framework of wellness, I now think that each of these dimensions is valuable. They identify not just physical or emotional health, but also other more nuanced dimensions such as social, financial, and vocational health. These dimensions interconnect and balance in an ever fluctuating ecosystem that impacts our lives and happiness. 
 
-3.) Conscious consumerism is wellness.
+Wellness also implies environmental health and seeking to be sustainable and low impact.
 
-Conscious consumer lifestyle unintentional builds on what the University of Maryland calls the [8 Dimensions of Wellness](https://umwellness.wordpress.com/8-dimensions-of-wellness/), which deconstructs personal health into not just physical or emotional health, but also other more nuanced dimensions such as social, financial, and environmental health. These dimensions interconnect and balance in an ever fluctuating ecosystem that impacts our lives and happiness. Though not originally connected, I believe these levels of wellness can easily be considered when considering health and sustainability.
+​	
+
+What does it mean to be mindful and low-impact?
+
+A low impact lifestyle means buying and consuming less, ideally focusing on locally produced, ethical, and environmentally friendly goods. These parameters mean different things to different people, but just having a protocol for buying under these guidelines can be enough. In doing so, consumers are mindful of how decisions effect the environment, other people, and personal health. 
+
+
+
+
 
 In short, conscious consumerism seeks to build habits that are healthy, sustainable, and ultimately, cheaper.  As you seek choices that boost your health, the environments, and other peoples, you are also consuming less and generating less waste! And as an added perk, you save money too! 
 

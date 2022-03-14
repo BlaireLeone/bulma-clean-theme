@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: Blog
-  link: /blog/
+- name: Resume
+  link: /resume-cv-page/
 - name: Portfolio
   link: /portfolio/
 - name: Privacy Policy

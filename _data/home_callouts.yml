@@ -1,6 +1,6 @@
 style: is-light
 height: is-small
-items:
+#items:
   - title: Healthy Habits
     subtitle: Check out the blog!
     #icon: fa-shuttle

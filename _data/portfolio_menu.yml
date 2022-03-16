@@ -6,6 +6,12 @@
       link: /the-moray-eel/
     - name: Habits
       link: /habits-friction/
+- label: Nutrition and Plant Writings
+  items:
+    - name: Albizia
+      link: /albizia/
+    - name: How to process your own herbs
+      link: /processing-herbs/
 - label: Bikes and Autonomous Vehicle Series
   items:         
     - name: Part 1 - Autonomous vehicle technology

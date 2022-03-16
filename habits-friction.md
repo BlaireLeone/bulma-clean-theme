@@ -3,6 +3,7 @@ title: Friction
 subtitle: A concept most people are familiar with from one science class or another, friction is also a term applied to behavioral economics or behavioral science, and can come in handy when changing our daily behaviors. 
 layout: page
 hero_image: /img/habits-5.jpg
+menubar: portfolio_menu
 hero_darken: true
 show_sidebar: false
 ---

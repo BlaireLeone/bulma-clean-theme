@@ -3,7 +3,7 @@ title: Processing Herbs
 subtitle: From harvesting to storing!
 layout: page
 show_sidebar: false
-menubar: plant_newsletter_menu
+menubar: portfolio_menu
 hero_image: /img/harvesting-herbs.png
 hero_darken: true
 ---

@@ -2,7 +2,7 @@
 title: Albizia
 subtitle: How to identify Albizia and some of its common benefits
 layout: page
-menubar: plant_newsletter_menu
+menubar: portfolio_menu
 show_sidebar: false
 hero_image: /img/albizia.png
 ---

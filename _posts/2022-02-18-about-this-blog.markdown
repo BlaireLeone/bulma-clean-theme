@@ -40,7 +40,7 @@ I believe instead that conscious consumerism is a lifestyle that promotes mindfu
 
 I came across what the University of Maryland calls the [8 Dimensions of Wellness](https://umwellness.wordpress.com/8-dimensions-of-wellness/), which deconstructs personal health into 8 categories. While originally, I hadn't thought of all these in my own mental framework of wellness, I now think that each of these dimensions is valuable. They identify not just physical or emotional health, but also other more nuanced dimensions such as social, financial, and vocational health. These dimensions interconnect and balance in an ever fluctuating ecosystem that impacts our lives and happiness. 
 
-But wellness also implies environmental health and seeking to be sustainable and low impact. This means being mindful of how our choices and purchases affect our surrounding environment and environment at large, and attempting to mitigate this impact as much as possible.
+But wellness also implies environmental health, and when speaking about lifestyle, means seeking to be sustainable and low impact. This means being mindful of how our choices and purchases affect our surrounding environment and the environment at large, and attempting to mitigate this impact as much as possible.
 
 ​	
 

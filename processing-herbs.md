@@ -1,6 +1,6 @@
 ---
-title: Processing Herbs
-subtitle: From harvesting to storing!
+title: Got Herbs? 
+subtitle: See how you can process them from harvesting to storing!
 layout: page
 show_sidebar: false
 menubar: portfolio_menu

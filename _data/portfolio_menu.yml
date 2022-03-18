@@ -1,6 +1,6 @@
 - label: Science Writings
   items:
-    - name: Urbanizing black bears
+   #- name: Urbanizing black bears
       link: /bear-drama/
     - name: The moray eel
       link: /the-moray-eel/

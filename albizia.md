@@ -1,6 +1,6 @@
 ---
-title: You've seen this plant around town
-subtitle: But do you know how you can use it?
+title: Feeling anxious? 
+subtitle: Try Albizia and see what else it alleviates!
 layout: page
 menubar: portfolio_menu
 show_sidebar: false

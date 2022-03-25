@@ -26,7 +26,7 @@ JANUARY 2022 – PRESENT
 
 #### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
 
-August 2021 - PRESENT
+AUGUST 2021 - PRESENT
 
 - Conducts interviews for video series on misinformation: pitches stories, receives assignments, sources professionals and academics, researches extensively, drafts questions, interviews experts in 1–2-hour interviews.  
 
@@ -60,7 +60,7 @@ FALL 2020
 
   ​	
 
-#### Botanical Writer *• HAALo Botanicals •* *Nevada City, CA*  
+#### Botanical Writer *• HAALo Herb Shoppe •* *Nevada City, CA*  
 
 2015 – 2017  
 

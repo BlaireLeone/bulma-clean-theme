@@ -20,10 +20,9 @@ hero_image: /img/bryce.jpg
 
 JANUARY 2022 – PRESENT 
 
-- Authors weekly cognitive  science articles for client in the tech startup field: compiles and  organizes research, discusses and reviews articles with client.  
+- Authors cognitive science articles for client in the tech startup field: compiles and organizes research, discusses and reviews articles with client.  
 
-
-​	
+   
 
 #### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
 
@@ -37,7 +36,7 @@ August 2021 - PRESENT
 
 - Participates in weekly team meetings to discuss ongoing and future projects.  
 
-  
+   
 
 #### Freelance Editor *•* *Remote*   
 
@@ -49,7 +48,7 @@ August 2021 - PRESENT
 
 - Edited first-person commentary on benefits of local water system infrastructural repairs for civil engineer in Shasta County, California: adapted technical language and fleshed out narrative.
 
-  
+   
 
 #### Newsletter Intern • *League of Women Voters of Milwaukee County •* *Remote* 
 
@@ -61,7 +60,7 @@ FALL 2020
 
   ​	
 
-#### Herbal Apprentice and Newsletter Writer *• HAALo Botanicals •* *Nevada City, CA*  
+#### Botanical Writer *• HAALo Botanicals •* *Nevada City, CA*  
 
 2015 – 2017  
 

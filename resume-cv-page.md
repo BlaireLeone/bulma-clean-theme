@@ -20,7 +20,7 @@ hero_image: /img/bryce.jpg
 
 JANUARY 2022 – PRESENT 
 
-- Authors cognitive science articles for client in the tech startup field: compiles and organizes research, discusses and reviews articles with client.  
+- Authors cognitive science articles for client in the tech startup field: compiles and organizes research, discusses and reviews articles with client. 
 
    
 
@@ -28,7 +28,7 @@ JANUARY 2022 – PRESENT
 
 August 2021 - PRESENT
 
-- Conducts interviews for video series on propaganda: pitches stories, receives assignments, sources professionals and academics, researches extensively, drafts questions, interviews experts in 1–2-hour interviews.  
+- Conducts interviews for video series on misinformation: pitches stories, receives assignments, sources professionals and academics, researches extensively, drafts questions, interviews experts in 1–2-hour interviews.  
 
 - Authors investigative articles for digital publication: pitches and receives story assignments, conducts research, identifies diverse sources and additional media, drafts catchy headlines and summaries.
 

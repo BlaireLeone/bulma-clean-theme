@@ -1,16 +1,18 @@
 - label: Science Writings
   items:
    #- name: Urbanizing black bears
-      link: /bear-drama/
+      #link: /bear-drama/
     - name: The moray eel
       link: /the-moray-eel/
     - name: Habits
       link: /habits-friction/
-- label: Nutrition and Plant Writings
+- label: Food and Plant Writings
   items:
-    - name: Albizia
+    - name: Three Fun Facts About Honey
+      link: /honey/
+    - name: The Happiness Bark
       link: /albizia/
-    - name: How to process your own herbs
+    - name: Processing Your Own Herbs!
       link: /processing-herbs/
 - label: Bikes and Autonomous Vehicle Series
   items:         
@@ -21,5 +23,5 @@
 # - label: Blog
   # items:         
    # - name: Healthy Habits for the Conscious Consumer
-      link: /blog/ 
+    #  link: /blog/ 
 

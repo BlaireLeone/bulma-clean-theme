@@ -50,3 +50,16 @@ Come into the store and check out [Harvesting Vitality](http://www.mcclaughryfar
 Mixes like Happy Belly can help digestive issues or stomach cramps. Or Cool 'n' Calm mix can help kids relieve anxiety or restlessness.
 
 Also, stop by [McClaughery Farms](http://www.mcclaughryfarms.com/?msclkid=f63f6482b53911ec9ef3b719d2d849c3) on Old Grass Valley Highway for a sweet tour and a tasty treat!
+
+
+
+Bibliography
+
+[Avocados « Bee Aware](https://beeaware.org.au/pollination/pollinator-reliant-crops/avocados/?msclkid=d9d4e1aab52111ec8eac0f66bde13a7b)
+
+[Bees and Avocado Trees: The Power of Pollinators](https://greenarborists.com/bees-and-avocado-trees-the-power-of-pollinators/?msclkid=4a4a10ccb52111ec898763e4a248dff3)
+
+[How honey Is made | National Honey Board](https://beeaware.org.au/pollination/pollinator-reliant-crops/avocados/?msclkid=d9d4e1aab52111ec8eac0f66bde13a7b)
+
+[Monofloral Honey: Types and Benefits | Geohoney](https://blog.geohoney.com/what-is-monofloral-honey-types-and-benefits?msclkid=313e144cb52b11ec94d8be11c24be341)
+

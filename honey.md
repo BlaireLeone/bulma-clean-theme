@@ -33,7 +33,7 @@ Because of the biological constraints of the avocado tree, it needs an external 
 
 ![](/img/honey_15.jpg)
 
-However, avocados have a controversial story with honey bees. Avocados don't need them to pollinate. In fact, any insect or agile vector will do. However, traveling honey bee farmers will lend their bees to avocado farms and in turn get avocado honey. The problem? It intentionally silos the bee's nutrient source, and limits their biodiversity - an unhealthy fate for the bees. 
+However, avocados have a controversial story with honey bees. Avocados don't need them to pollinate. In fact, any insect or agile vector will do. However, traveling honey bee farmers will lend their bees to avocado farms and in turn get avocado honey. The problem? It intentionally silos the bee's nutrient source, and limits their biodiversity - an unhealthy eventuality for the bees. 
 
 ![](/img/honey_16.jpg)
 
@@ -45,7 +45,7 @@ Ready to try some honey with an extra medicinal kick?
 
 ![](/img/honey.jpg)
 
-Come into the store and check out [Harvesting Vitality](http://www.mcclaughryfarms.com/?msclkid=f63f6482b53911ec9ef3b719d2d849c3)'s locally sourced and fortified honeys. These honey mixes use local honey combined with thoughtful herbal formulas to help alleviate additional ailments. 
+Come into the store and check out [Harvesting Vitality](http://www.mcclaughryfarms.com/?msclkid=f63f6482b53911ec9ef3b719d2d849c3)'s locally sourced and fortified honeys. These honey mixes use local honey combined with thoughtful herbal formulas to help alleviate additional ailments. The sweetness of the honey is a perfect complement to some of the more bitter herb combos, which can make them a snackable treat for adults or a tasty medicine for kids.
 
 Mixes like Happy Belly can help digestive issues or stomach cramps. Or Cool 'n' Calm mix can help kids relieve anxiety or restlessness.
 

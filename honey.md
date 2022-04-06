@@ -45,7 +45,7 @@ Ready to try some honey with an extra medicinal kick?
 
 ![](/img/honey.jpg)
 
-Come into the store and check out [Harvesting Vitality](http://www.mcclaughryfarms.com/?msclkid=f63f6482b53911ec9ef3b719d2d849c3)'s locally sourced and fortified honeys. These honey mixes use local honey combined with thoughtful herbal formulas to help alleviate additional ailments. The sweetness of the honey is a perfect complement to some of the more bitter herb combos, which can make them a snackable treat for adults or a tasty medicine for kids.
+Come into the store and check out [Harvesting Vitality](http://www.mcclaughryfarms.com/?msclkid=f63f6482b53911ec9ef3b719d2d849c3)'s locally sourced and fortified honeys called electuaries - an ancient practice of combining herbs with honey. These mixes use locally sourced honey combined with thoughtful herbal formulas to help alleviate additional ailments. The sweetness of the honey is a perfect complement to some of the more bitter herb combos, which can make them a snackable treat for adults or a tasty medicine for kids.
 
 Mixes like Happy Belly can help digestive issues or stomach cramps. Or Cool 'n' Calm mix can help kids relieve anxiety or restlessness.
 

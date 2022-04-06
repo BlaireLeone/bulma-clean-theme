@@ -1,6 +1,6 @@
 ---
-title: Looking to make some changes to your daily habits?
-subtitle: Friction can help
+title: Friction is a subconscious force
+subtitle: But can you make changes to your daily habits
 layout: page
 hero_image: /img/habits-5.jpg
 menubar: portfolio_menu

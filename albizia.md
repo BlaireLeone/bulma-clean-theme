@@ -1,6 +1,6 @@
 ---
 title: Feeling anxious? 
-subtitle: Try Albizia and see what else it alleviates!
+subtitle: Try Albizia - The Happiness Bark!
 layout: page
 menubar: portfolio_menu
 show_sidebar: false
@@ -19,11 +19,11 @@ Albizia is a traditionally Chinese herb from the Mimosa, or Persian Silk, tree (
 
 ### What is Albizia used for?
 
-“Albizia is one of our all-star herbs,” says Shea, owner of HAALo. And it’s no wonder. Albizia contains antioxidant, sedative, and analgesic properties - or in other words it has immune-boosting, sleep-inducing, and pain-relieving properties. This translates to providing relief to many different ailments, from anxiety, to insomnia, to pain, and even to dry and itchy skin.
+“Albizia is one of our all-star herbs,” says Shea Smith, HAALo's owner. And it’s no wonder. Albizia contains antioxidant, sedative, and analgesic properties - or in other words it has immune-boosting, sleep-inducing, and pain-relieving properties. This translates to providing relief to many different ailments, from anxiety, to insomnia, to pain, and even to dry and itchy skin.
 
 Albizia is used both internally, via tea or tinctures, or externally, via balms or poultices. And both albizia flowers and bark are considered medicinal.
 
-Referred to also as the *happiness herb*, “albizia has been used for centuries to help with mental ailments like stress, anxiety, and depression”, says Shea. It’s sedative properties dampen the nervous system and balance hormonal fluctuations when stressed or anxious. In doing so, it can also alleviate feelings of depression or irrational anger that arise from stress, or sudden hormone spikes or depletions.
+Referred to also as the *happiness herb*, “Albizia has been used for centuries to help with mental ailments like stress, anxiety, and depression”, says Shea. It’s sedative properties dampen the nervous system and balance hormonal fluctuations when stressed or anxious. In doing so, it can also alleviate feelings of depression or irrational anger that arise from stress, or sudden hormone spikes or depletions.
 
 
 
@@ -31,7 +31,7 @@ Referred to also as the *happiness herb*, “albizia has been used for centuries
 
 
 
-Marza, a local herbal practitioner, who follows the traditions of earth medicine, adds that in traditional Chinese medicine, it is often considered a calming spirit herb. “The bark anchors the spirit while the flowers lighten it”. 
+Marza Millar, a local herbal practitioner, who follows the traditions of earth medicine, adds that in traditional Chinese medicine, it is often considered a calming spirit herb. “The bark anchors the spirit while the flowers lighten it”. 
 
 It is also useful in treating insomnia and promoting restful sleep. Here, stress and anxiety also play key roles, as the act of alleviating a frayed nervous system, also allows for a better night’s sleep.
 

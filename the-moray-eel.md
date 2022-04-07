@@ -8,13 +8,13 @@ menubar: portfolio_menu
 show_sidebar: false    	
 ---
 
-March 12, 2017
+
 
 
 
 Dr. Rita Mehta, a UCSC biologist studying animal physiology, behavior, and evolutional morphology, has provided some of the most significant research findings on moray eels. After discovering a unique feature of their physiology, Dr. Mehta now considers how this feature contributes to their eating habits and role within their ecosystems.
 
-**Description**
+**What does a moray eel look like?**
 
 Moray eels encompass over 200 species of eels, with a wide variety of sizes and colors. Morays are known for their serpentine like body and large head, with a long snout and big piercing eyes. Their coloring ranges from black to orange to green with a spectrum of speckled, spotted, or striped patterns. Some species also have camouflaging abilities. 
 

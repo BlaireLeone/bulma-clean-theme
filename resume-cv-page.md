@@ -20,7 +20,7 @@ hero_image: /img/bryce.jpg
 
 JANUARY 2022 – PRESENT 
 
-- Authors cognitive science articles for client in the tech startup field: compiles and organizes research, discusses and reviews articles with client. 
+- Authors organizational and cognitive science articles for client in the managerial consulting field: compiles and organizes research, discusses and reviews articles with client. 
 
    
 
@@ -58,9 +58,8 @@ FALL 2020
 
 - Copyedited formatting, selected images, and created headlines.     
 
-  ​	
 
-#### Botanical Writer *• HAALo Herb Shoppe •* *Nevada City, CA*  
+#### Food and Botanical Writer *• HAALo Botanicals•* *Nevada City, CA*  
 
 2015 – 2017  
 

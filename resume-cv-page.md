@@ -63,11 +63,11 @@ FALL 2020
 
 2015 – 2017  
 
-- Wrote articles on food, plants, locally-sourced products, and profiles of local herbal and natural food experts for weekly newsletter: sourced and interviewed experts, pitched content, drafted articles. 
+- Wrote articles on food, plants, locally-sourced products, and profiles of local botanical and natural food experts for weekly newsletter: sourced and interviewed experts, pitched content, drafted articles. 
 
 - Copyedited documents: photographed items and instructors, selected images, formatted content.
 
-- Shadowed herbalists: studied plant physiology and nutrition, plant cultivation, and home remedies.
+- Shadowed practitioners: studied plant physiology and nutrition, plant cultivation, and home remedies.
 
 - Worked at local farms and personal gardens: planted, watered, tended, and harvested fruits, vegetables, and seasonal plants.  
 
@@ -101,7 +101,7 @@ SPRING 2019
 
 ------
 
-#### Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
+#### Bartender and Lead Server *• Riva Fish House* *•* *Santa Cruz, CA*
 
 2017 – MARCH 2020
 
@@ -109,7 +109,7 @@ SPRING 2019
 
 - Collaborated and communicated with diverse personalities across customers and restaurant team.
 
-- Waited on 7+ tables a night: prioritized tasks; maintained attention to detail. 
+- Served drink at bar and waited on 7+ tables a night: prioritized tasks; maintained attention to detail. 
 
 #### Book Sales Associate *• The Bookseller •* *Grass Valley, CA*
 

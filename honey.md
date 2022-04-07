@@ -19,13 +19,13 @@ Honey is produced from honey bees, who collect nectar from flowers, eat and regu
 
 ##### 1.) Every batch is different. 
 
-Local beekeeper Mary Jo Harris with McClaughery Farms says, "Honey can be manipulated for taste and vitamin content, but by nature no company or batch will have the same flavor". Since the flavor and properties of the honey are determined by the surrounding flowers the bees collect nectar from, each batch is unique. Sometimes the nectar is sourced entirely from one kind of flower, sometimes from a variety of flowers. This affects not only the flavor but the color and aroma as well.
-
-Stop by [McClaughery Farms](http://www.mcclaughryfarms.com/?msclkid=f63f6482b53911ec9ef3b719d2d849c3) on Old Grass Valley Highway for a sweet tour and a tasty treat!
+Local beekeeper Mary Jo Harris with McClaughery Farms says, "Honey can be manipulated for taste and vitamin content, but by nature, no company or batch will have the same flavor". Since these honey properties are determined by the bee's surrounding flowers, each batch is wildly unique. More than that, sometimes the nectar is sourced from one kind of flower, known as monofloral honey, sometimes from a variety of flowers, known as polyfloral. This affects not only the flavor but the color and aroma as well. Despite most store bought honey's monofloral assertions, most honeys are have elements from other plants, due to the difficulties and expense involved with controlling the bees movements. But not to worry - this just increasing the diverse honey properties.
 
 ![](/img/honey _7.jpg)
 
 While clover honey tends to be the least flavorful, it is one of the most highly produced honey flavors, even outside of Nevada County, because of the ubiquity of wild clover. Also in Nevada County, you often find blackberry and thistle honey. If you visit warmer coastal cities, like San Luis Obispo, you might find more exotic flavors like avocado or pomegranate!
+
+Want to learn more? Stop by [McClaughery Farms](http://www.mcclaughryfarms.com/?msclkid=f63f6482b53911ec9ef3b719d2d849c3) on Old Grass Valley Highway for a sweet tour and a tasty treat!
 
 ![](/img/honey_6.jpg)
 

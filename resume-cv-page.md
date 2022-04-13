@@ -123,7 +123,7 @@ JANUARY 2016 - JUNE 2016
 
 - Coordinated with artists, bands, wedding planners, city officials, and business and conference coordinators for event details such as dates, arrival, equipment, membership, ticketing, food, and more.
 - Managed food, drink, and merchandise coordinating, ordering, and inventory.
-- Communicated with partner organizations, members, and media outlets about event updates.
+- Fostered and maintained relationships with partner organizations, members, and media outlets.
 
 #### Assistant Festival Director *• Nevada City Film Festival* *•* *Nevada City, CA*  
 
@@ -133,7 +133,7 @@ MAY 2015 - SEPTEMBER 2015
 
 - Event communications and marketing: created and distributed fliers, maintained social media accounts, and developed press releases for local media outlets.
 
-- Managed food, drink, and merchandise: researched, ordered, and inventoried; kept and maintained a detailed budget; communicated with outside regularly with vendors.  
+- Managed food, drink, and merchandise: researched, ordered, and inventoried; kept and maintained a detailed budget; communicated with vendors.  
 
 - Authored reviews and summaries of films for playbill and flyers of short films from around the world, including films on Icelandic horse breeding and a day in the life of a Tibetan monk.
 

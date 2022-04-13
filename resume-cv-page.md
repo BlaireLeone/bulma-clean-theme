@@ -59,17 +59,17 @@ FALL 2020
 - Copyedited formatting, selected images, and created headlines.     
 
 
-#### Food and Botanical Writer *• HAALo Botanicals•* *Nevada City, CA*  
+#### Nutrition Writer and Communications Coordinator*• HAALo Botanicals•* *Nevada City, CA*  
 
 2015 – 2017  
 
 - Wrote articles on food, plants, locally-sourced products, and profiles of local botanical and natural food experts for weekly newsletter: sourced and interviewed experts, pitched content, drafted articles. 
 
-- Copyedited documents: photographed items and instructors, selected images, formatted content.
+- Developed communication materials: drafted press releases for local media outlets, maintained social media accounts, posted to a variety of event hosting platforms, and created advertising posters and fliers.
 
-- Shadowed practitioners: studied plant physiology and nutrition, plant cultivation, and home remedies.
+- Proofed copy: photographed items and instructors, selected images, formatted content.
 
-- Worked at local farms and personal gardens: planted, watered, tended, and harvested fruits, vegetables, and seasonal plants.  
+- Shadowed and interviewed practitioners: studied plant physiology and nutrition, plant cultivation, and home remedies.
 
   ​	
 
@@ -113,28 +113,31 @@ SPRING 2019
 
 #### Book Sales Associate *• The Bookseller •* *Grass Valley, CA*
 
-SEPTEMBER - DECEMBER 2016
+SEPTEMBER 2016 - DECEMBER 2016
 
 - Read extensively and studied existing books and best sellers, new authors, and literary trends to assist customers with book choices.
 
 #### Event Coordinator *• Miners Foundry Cultural Center •* *Nevada City, CA*
 
-JANUARY - MARCH 2016
+JANUARY 2016 - JUNE 2016
 
-- Coordinated event details with artists, bands, and festival coordinators such as dates, arrival, equipment, and ticketing.
+- Coordinated with artists, bands, wedding planners, city officials, and business and conference coordinators for event details such as dates, arrival, equipment, membership, ticketing, food, and more.
+- Managed food, drink, and merchandise coordinating, ordering, and inventory.
+- Communicated with partner organizations, members, and media outlets about event updates.
 
 #### Assistant Festival Director *• Nevada City Film Festival* *•* *Nevada City, CA*  
 
-MAY - SEPTEMBER 2015 
+MAY 2015 - SEPTEMBER 2015 
+
+- Coordinated and trained diverse group of volunteers for all festival tasks. 
+
+- Event communications and marketing: created and distributed fliers, maintained social media accounts, and developed press releases for local media outlets.
+
+- Managed food, drink, and merchandise: researched, ordered, and inventoried; kept and maintained a detailed budget; communicated with outside regularly with vendors.  
 
 - Authored reviews and summaries of films for playbill and flyers of short films from around the world, including films on Icelandic horse breeding and a day in the life of a Tibetan monk.
 
-- Reviewed films with team to determine best fit for festival.
-
-- Coordinated and trained diverse group of volunteers for all festival tasks.   
-
-
-​	
+  
 
 ## Education    
 

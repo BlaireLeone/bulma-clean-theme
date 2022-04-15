@@ -18,13 +18,13 @@ Behavioral science is somewhat self-explanatory - it is the study of human behav
 
 #### **Behavioral economics**
 
-Behavioral economics, a subdiscipline of behavioral science, is more specific in that it examines human behavior as it relates to decision-making. While more of a psychological science in practice, it is also considered an economic discipline for how individual decision-making affects broader socio-economic trends. For instance, behavioral economists might study the proportion of people that bought one product compared to another. And why? Or what made this insurance plan, or that gym membership more popular. While behaviorists are curious about particular decisions, they more accurately, are curious about what made this decision so appealing out of the array of decisions available, despite the trade-offs attached to each decision. Why did they choose to drive vs flying or taking the train? [[2]](https://news.uchicago.edu/explainer/what-is-behavioral-economics)
+Behavioral economics, a subdiscipline of behavioral science, is more specific in that it examines human behavior as it relates to decision-making. While more of a psychological science in practice, it is also considered an economic discipline for how individual decision-making affects broader socio-economic trends. For instance, behavioral economists might study the proportion of people that bought one product compared to another. And why? Or what made this insurance plan, or that gym membership more popular. While behaviorist economists are curious about particular decisions, they more accurately, are curious about what made this decision so appealing out of the array of decisions available, despite the trade-offs attached to each decision. Why did they choose to buy fast food vs produce or other takeout? [[2]](https://news.uchicago.edu/explainer/what-is-behavioral-economics)
 
-Most behaviors seem deliberate, either carefully calculated or obvious based on personal principles: affirming strongly held beliefs - like the decision to attend a place of worship (if you have a particular faith) or the decision to join an extraterrestrial book club (if you believe in aliens); performing a practical or efficient task – like doing your laundry because you ran out of clean socks or doing your taxes because it's that time of year. 
+Most behaviors seem deliberate, either carefully calculated or obvious given a person's principles: affirming strongly held beliefs - like the decision to attend a place of worship (if you have a particular faith) or the decision to join an extraterrestrial book club (if you believe in aliens); performing a practical or efficient task – like doing your laundry because you ran out of clean socks or doing your taxes because it's that time of year. 
 
-Nobel Laureate and psychologist Daniel Kahneman from Princeton University (and his late colleague Amos Tversky), however, has a new perspective, which generally suggests that we may not have as much control over our decisions as we think we do. Spoiler alert: it changed how we view psychology and behavioral economics forever.
+Nobel Laureate and cognitive scientist Daniel Kahneman from Princeton University (and his late colleague Amos Tversky), however, has a new perspective, which generally suggests that we may not have as much control over our decisions as we think. Spoiler alert: it changed how we view psychology and behavioral economics forever.
 
-In his 2011 book, Thinking Fast and Slow, he posits that our thinking, and more than that, our behavior, operates on two settings: slow and fast. [[3]](https://us.macmillan.com/books/9780374533557/thinkingfastandslow) And that these settings effect our decision making in surprising ways. Although it should be noted that in summarizing these two systems (in the book, they are actually referred two as System 1 and System 2 respectively), I am vastly oversimplifying their nuance.
+In his 2011 book, Thinking Fast and Slow, he posits that our thinking and, because our actions are an extension of our thinking, our behavior operates on two settings: slow and fast. [[3]](https://us.macmillan.com/books/9780374533557/thinkingfastandslow) And that these settings effect our decision making in surprising ways. Although it should be noted that in summarizing these two systems (in the book, they are actually referred two as System 1 and System 2 respectively), I am vastly oversimplifying their nuance.
 
 ### Thinking Fast and Slow
 
@@ -56,17 +56,19 @@ With all this in mind, we can think of habits by the description offered by Jame
 
 ------
 
-So where does friction come in? **Friction** refers to the factors that make it harder to accomplish our desired goals[[3\]](#_ftn3) or demotivate us from habits we otherwise would pursue. It might be obvious, but the easier a task, or the less steps involved, the more likely we are to do it. For instance, which involves more steps - elevator or staircase? Friction is our staircase. Like the physical friction that slows objects down, behavioral friction makes it just a little more difficult to achieve behaviors we desire. 
+This is where does friction comes in. **Friction** refers to the factors that make it harder to accomplish our desired goals[[3\]](#_ftn3) or demotivate us from habits we otherwise would pursue. It might be obvious, but the easier a task, or the less steps involved, the more likely we are to do it. For instance, which involves more steps - elevator or staircase? While staircases involve more literal steps, this translates into metaphysical steps as well, since it takes more time and effort. Thus, friction is our staircase. Like the physical friction that slows objects down, behavioral friction makes it just a little more difficult to achieve behaviors we desire. 
 
-When we make a decision to do something, but are unable to follow through, it is often friction that swoops in at the 11th hour and hinders our efforts. The worst part? We don't consciously register when friction impedes us - it just happens. Ever wanted to stop at the grocery store on your way home, but the parking lot was full? So you think, "I'll do it tomorrow!" Friction strikes again. While we could zoom around for 15 min to find parking, the extra effort involved hinders our desire to stop.
+When we make a decision to do something, but are unable to follow through, it is often friction that swoops in at the 11th hour and hinders our efforts. The worst part? We don't consciously register when friction impedes us - it impacts our fast thinking habits that generally don't register either. Ever wanted to stop at the grocery store on your way home, but the parking lot was full? So you think, "I'll do it tomorrow!" Friction strikes again. While we could zoom around for 15 min to find parking, the extra effort involved hinders our desire to stop.
 
-Because we are not thinking critically about our actions when friction affects them, it is our fast thinking that is impacted. However, friction is not simply negative. We can also consciously apply it to our behaviors when trying to build new habits. 
+Because we are not thinking critically about our actions when friction affects them, it is our fast thinking that is impacted. However, with careful consideration, we can determine what our fast thinking behaviors are and how friction affects them.
+
+
 
 ![](img/habits-2.jpg)
 
 #### So how can we use friction to our advantage?
 
-Friction plays two roles in our efforts.
+Friction plays two roles in our efforts. Friction is not necessarily a negative force. We can also intentionally apply it to our behaviors when trying to build new habits, and turn the previous cumbersome force, into a gratifying one. 
 
 **1.)  Increasing:**  We can use friction to our advantage when trying to demotivate a behavior by consciously increasing friction - or making it harder to pursue that habit.
 

@@ -86,6 +86,8 @@ Several other kinds of bikes, though not widely used, are still considered legal
 
 
 
+
+
 ### **Autonomous Vehicle Collision Stats**
 
 *AV Collisions*
@@ -102,3 +104,10 @@ In fact, [a report](https://www.rand.org/content/dam/rand/pubs/research_reports/
 
 Another limitation the study notes is the context of the vehicle testing, or more specifically, where the vehicles were not tested – icy, stormy, or geographically unstable areas, or otherwise dangerous conditions. It’s unclear how many CVs are involved in accidents due to circumstances outside the driver’s control; it should thus be noted that AV collision results, could significantly differ depending on their location. 3.) The report specifies that none of the accidents AVs were involved in were the AVs fault, however, it’s unclear what they mean by “fault”. It could mean that the AVs didn’t collide with the other vehicles, and by that metric, it wasn’t the AV’s fault. Or it could mean, that the situations where the AVs stopped or slowed and CVs hit them were entirely justified (as in there may have been a pedestrian in the road) and therefore were not the AVs fault. However, as it has been suggested that so many rear-end accidents with AVs occurred because human drivers were surprised by the AVs behavior, I believe there is room to allow for AV culpability. If AVs are not following the intuitive rules of the road that every other driver subscribes to, they may lead to accidents that may have happened otherwise. Thus, I believe it’s prudent to reserve judgement on the exact safety viability of these stats until more information can be obtained.
 
+
+
+
+
+[[6\]](#_ftnref6) The variability is due to how many crashes tend not to be reported. Though 1.9 cpmm is a fixed number from the DMV, the researchers here estimated unreported ones as well, and put the actual US crash rate at about 4.1pmm.
+
+[[7\]](#_ftnref7) AV manufacturers are required to report any crash or collision involving AVs within 10 days to the DMV.

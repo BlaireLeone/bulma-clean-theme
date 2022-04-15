@@ -10,33 +10,29 @@ hero_image: /img/av-hero.jpg
 
 
 
-### How do you define AVs and what technology is used?
+### How do you define autonomous vehicles and what technology do they come with?
 
-In short, autonomous here means driver-less, or else, having little to no need for human supervision. But within this, AVs can be deconstructed into ascending levels of autonomy. The Society of Automotive Engineers (SAE) categorized AVs in 2013, and then [updated them again](https://www.sae.org/news/press-room/2018/12/sae-international-releases-updated-visual-chart-for-its-"levels-of-driving-automation"-standard-for-self-driving-vehicles) in 2018, developing 6 tiers of automation.[[1\]](#_ftn1) While it includes Level 0, where the car is completely manual, the automation evaluation spans from Level 1, in which the vehicle only makes suggestions to a human driver, to Level 5, where the vehicle has complete control and passengers have confidence in not supervising. Between Levels 2 to 3, is the threshold between a human’s control and the vehicles; thus, Level 3 signals the beginning of vehicle autonomy. Despite some company’s misleading advertising, like Tesla’s “[full self-driving](https://www.thedrive.com/news/26700/tesla-puts-full-self-driving-back-on-the-menu-but-its-not-what-you-think)” tech package, as yet, no company involved with AV technology has reached level 5. The table below details the different levels. 
+In short, autonomous here means driver-less, or else, having little to no need for human supervision. But within this, AVs can be deconstructed into ascending levels of autonomy. The Society of Automotive Engineers (SAE) categorized AVs in 2013, and then [updated them again](https://www.sae.org/news/press-room/2018/12/sae-international-releases-updated-visual-chart-for-its-"levels-of-driving-automation"-standard-for-self-driving-vehicles) in 2018, developing 6 tiers of automation.[[1\]](#_ftn1) While it includes Level 0, where the car is completely manual, the automation evaluation spans from Level 1, in which the vehicle only makes suggestions to a human driver, to Level 5, where the vehicle has complete control and passengers have confidence in not supervising. Between Levels 2 to 3, is the threshold between a human’s control and the vehicles; thus, Level 3 signals the beginning of vehicle autonomy. Despite some company’s misleading advertising, like Tesla’s “[full self-driving](https://www.thedrive.com/news/26700/tesla-puts-full-self-driving-back-on-the-menu-but-its-not-what-you-think)” tech package, as yet, no company involved with AV technology has reached level 5. The table below details the different levels; the blue signifies human control while green is vehicle control.
 
  ![](/img/AVs level of Autonomy 3.jpg)  
-
-[Levels of Autonomy developed by the Society of Automotive Engineers. The blue signifies human control while green is vehicle control]
 
  ![](/img/AV Levels of Autonomy.png)
 
 
 
-[Simplified version. Includes more examples and year of initial or projected operation. Note: ADAS stands for Advanced Driver Assistance Systems.]
+Example of levels that includes more examples and year of initial or projected operation. Note: ADAS stands for Advanced Driver Assistance Systems.
 
 
 
 
 
-Looking back at Tom’s story, we don’t see a Level 5 driverless vehicle. Instead, his experience features a human-driven car equipped with AEBs, a form of brake assist designed to help the driver identify and avoid head on collisions, putting this vehicle between a Level 0 and a Level 1, according to SAE’s interpretation.[[2\]](#_ftn2) These brakes operate by receiving a command from a computer once it receives information from built-in sensors. When these sensors detect possible impending obstacles, they relay that data to the computer, which decides if they are indeed obstacles to be avoided; if so, the computer gives the word to brake. In other words, AEBs are a low-level form of artificial intelligence (AI). Like these AEB’s, AI makes decisions according to information it receives. While the AI of today is getting increasingly more complicated, thus analyzing a broader spectrum of data in more depth and outputting information akin to a human’s intelligence (and in many ways faster), at their core they operate by gathering, synthesizing, and processing data. Making decisions similarly to how an AEB makes decisions.
+A feature most people will recognize in their modern vehicles are AEBs - Automatic Emergency Braking systems, a form of brake assist designed to help the driver identify and avoid head on collisions.[[2\]](#_ftn2) According to SAE’s interpretation, they lie between level's 0 and 1,  just breaking the cusp of AV technology. These brakes operate by receiving a command from a computer once it receives information from built-in sensors. When these sensors detect possible impending obstacles, they relay that data to the computer, which decides if they are indeed obstacles to be avoided; if so, the computer gives the word to brake. 
 
 ![](/img/AEBs.jpg)
 
 
 
-Thus, despite Tom’s brush with what could be considered babies first AI, these brakes are in fact the immature fledglings of a fully autonomous vehicle. More than that, the AVs of today are intended by some to be the prototype of a nationwide fleet of vehicles. Already, the technology that enables AVs has grown exponentially in the last decade, to the point where we currently see functioning Level 4 vehicles on roadways worldwide (albeit on a trial level as most are still under supervision, and prone to adjustments as the systems run into novel situations). And progress begets progress, as they say. Given this projected eventuality, I believe it’s fair to interrogate the nature of AVs in general, as they are poised to be the next greatest technological advancement since the bread slicer gave us sliced bread.
-
-Driverless-ness, however, is a tall order. While certainly more than the sum of its parts, when disassembled, we can see the complex systems that AVs must employ to function. Among technologies like GPS, automatic braking, steering, and locking, AVs have what Alan Amici, vice president of TE Connectivity, an automotive company at the forefront of sensory technology, identifies as the 3 most essential AV elements: sensors, connectivity, and software/control algorithms.
+Level 5 driverless-ness is a tall order. While certainly more than the sum of its parts, when disassembled, we can see the complex systems that AVs must employ to function. Among technologies like GPS, automatic braking, steering, and locking, AVs have what Alan Amici, vice president of TE Connectivity, an automotive company at the forefront of sensory technology, identifies as the 3 most essential AV elements: sensors, connectivity, and software/control algorithms.
 
 ##### *Sensors*
 
@@ -78,12 +74,8 @@ While I’m not going to focus too much on AV connectivity technology, it’s in
 
 [[2\]](#_ftnref2) It’s worth noting, that since SAE created the autonomy levels, they have taken on a life of their own. It’s unclear if SAE sanctioned any of the changes or if they were simplified through the grapevine. But many other sources would not characterize AEBs as Level 0, only Level 1, however, SAE leaves room for them in Level 0.
 
-[[3\]](#_ftnref3) [This article](https://www.thedrive.com/article/16916/lidar-vs-radar-pros-and-cons-of-different-autonomous-driving-technologies#:~:text=First of all%2C what's the,for Light Detection And Ranging.&text=Radar uses radio waves to,light rather than radio waves.) discusses how lidar and radar work, their differences, pros and cons, and which of the two sensors individual AV companies prefer
+[[3\]](#_ftnref3) [This article](https://www.thedrive.com/article/16916/lidar-vs-radar-pros-and-cons-of-different-autonomous-driving-technologies#:~:text=First of all%2C what's the,for Light Detection And Ranging.&text=Radar uses radio waves to,light rather than radio waves.) discusses how lidar and radar work, their differences, pros and cons, and which of the two sensors individual AV companies prefer.
 
 [[4\]](#_ftnref4) I won’t go into the different kinds of AI models employed by AV’s, however [this article](https://www.jdsupra.com/legalnews/the-basics-of-autonomous-vehicles-part-35016/) details many of the commonly used algorithms.
 
-[[5\]](#_ftnref5)Check out [this video](https://www.youtube.com/watch?v=iHzzSao6ypE&t=253s) on how phantom traffic forms and [this video](https://www.youtube.com/watch?v=TNokBgtSUvQ&t=255s) for a more detailed look. While I prefer the first video because it provides more information in less time, the animation in the second video is hard to beat.
-
-[[6\]](#_ftnref6) The variability is due to how many crashes tend not to be reported. Though 1.9 cpmm is a fixed number from the DMV, the researchers here estimated unreported ones as well, and put the actual US crash rate at about 4.1pmm.
-
-[[7\]](#_ftnref7) AV manufacturers are required to report any crash or collision involving AVs within 10 days to the DMV.
+[[5\]](#_ftnref5) Check out [this video](https://www.youtube.com/watch?v=iHzzSao6ypE&t=253s) on how phantom traffic forms and [this video](https://www.youtube.com/watch?v=TNokBgtSUvQ&t=255s) for a more detailed look. While I prefer the first video because it provides more information in less time, the animation in the second video is hard to beat.

@@ -2,7 +2,7 @@
 title: Friction is a subconscious force
 subtitle: But can you make changes to your daily habits
 layout: page
-hero_image: /img/habits-5.jpg
+hero_image: /img/habits.jpg
 menubar: portfolio_menu
 hero_darken: true
 show_sidebar: false

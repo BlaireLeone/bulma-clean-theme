@@ -6,20 +6,16 @@
       link: /the-moray-eel/
     - name: Habits
       link: /habits-friction/
+    - name: Autonomous Vehicle Technology
+      link: /autonomous-vehicles/ 
 - label: Food and Plant Writings
   items:
     - name: Three Fun Facts About Honey
       link: /honey/
     - name: The Happiness Bark
       link: /albizia/
-    - name: How to Process Bulk Cooking Herbs
+    - name: Drying Your Own Herbs
       link: /processing-herbs/
-- label: Bikes and Autonomous Vehicle Series
-  items:         
-    - name: Part 1 - Autonomous vehicle technology
-      link: /autonomous-vehicles-and-bikes-part-1/  
-    - name: Part 2 - Bike accidents          
-      link: /autonomous-vehicles-and-bikes-part-2/
 # - label: Blog
   # items:         
    # - name: Healthy Habits for the Conscious Consumer

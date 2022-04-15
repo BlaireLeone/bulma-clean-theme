@@ -1,6 +1,6 @@
 ---
 title: Autonomous Vehicles are Mainstream Now
-subtitle: But what happens 
+subtitle: What technology allows autonomous vehicles to be autonomous? 
 layout: page
 show_sidebar: false
 menubar: portfolio_menu
@@ -10,33 +10,7 @@ hero_image: /img/av-hero.jpg
 
 
 
-My friend, Tom, called me one day asking for a ride home - my destination? An empty two-lane street, with wide bike lanes and a park nearby - one of the main thoroughfares going into town. This description will make sense in a bit.
-
-When I arrived, he was sitting on the curb with a bandaged hand, bruised face, and a general look of shock and bewilderment. Another man spoke to a couple officers nearby, broadly gesticulating. Several vehicles were parked along the curb - the paramedics who had clearly just seen to Tom, two patrol cars investigating the accident, and another vehicle - a Honda midsized SUV - parked on the curb, with a quarter of the back window missing. It looked like the whole lower right corner had been punched out.
-
-Tom explained:
-
-He had been riding his bike into town early in the morning. It was a Tuesday. The streets were mostly empty.
-
-After shooting down a short, but steep hill, Tom started gaining on a midsized SUV. He was still coasting from the downhill and hoped to use this momentum for an easier ride on the subsequent flat part coming into town. 
-
-Tom was accelerating so fast from the momentum, he started making moves to pass the car ahead. As he was coming up on it's back right bumper, but still a reasonable distance behind, a pedestrian ran through the crosswalk ahead of the car. As Tom put it, the guy appeared out of nowhere, whooped and sprinted across the road, then disappeared into a nearby park. And though the car was still a good distance from the crosswalk, it stopped completely, causing the back wheels to swing into the bike lane.  
-
-Tom, still trying to maximize his speed from the downhill, ran arm-first into the back window, while his face swung around and hit the side of the car. His hand, probably in trying to brace himself, punched through the bottom right corner of the window and his arm went through to the shoulder.
-
-While this may seem like a clear case of an overreactive driver, the driver, in fact, was not at fault. Instead, the car, a fresh-off-the-lot 2022 vehicle installed with an automatic emergency braking system (AEB), had made the decision to stop. Even though the car was far enough from the pedestrian for the driver to consciously reduce his speed, the whooper/sprinter was speeding so fast through the crosswalk that the car wouldn’t have hit him regardless (according to Tom), the AEBs had recognized a potential target and literally skidded to a halt. 
-
-Both Tom and the driver paid for it, the driver in repairing his new car, and Tom with his medical bills and newly cracked bike frame (Tom is luckily the kind of guy that parades his injuries around with pride, and wasn’t deterred by the pain or broken bones).
-
-**So, what does this mean?**
-
-I believe there are several takeaways from this story, perhaps the least of which is the question of when it’s prudent for a cyclist to pass a vehicle, especially if it involves speeding. Legality aside, is doing so inconsiderate if not rash? In retrospect, Tom acknowledges that his attempt at overtaking the car may have been reckless. Given the flatness of the road, Tom’s experience as a cyclist, and the lightness of his bike, he had no need to save himself the pedaling effort nor outpace the only other vehicle on the roadway.
-
-But the question I ultimately believe to be most poignant here is that of how autonomous vehicles (AVs) will coalesce with bicyclists in the future. I don’t believe one could truly attribute Tom's accident to the AEBs, given that they were attempting to save the driver and pedestrian from needless harm. However, the fact that an accident resulted nonetheless suggests a need for further analysis of how autonomous vehicles interact with bicyclists, as they may not prioritize bicyclist's safety as highly as they should.
-
 ### How do you define AVs and what technology is used?
-
-What technology allows autonomous vehicles to be autonomous? And is it fair to question AVs in general despite Tom’s story only featuring AEBs?
 
 In short, autonomous here means driver-less, or else, having little to no need for human supervision. But within this, AVs can be deconstructed into ascending levels of autonomy. The Society of Automotive Engineers (SAE) categorized AVs in 2013, and then [updated them again](https://www.sae.org/news/press-room/2018/12/sae-international-releases-updated-visual-chart-for-its-"levels-of-driving-automation"-standard-for-self-driving-vehicles) in 2018, developing 6 tiers of automation.[[1\]](#_ftn1) While it includes Level 0, where the car is completely manual, the automation evaluation spans from Level 1, in which the vehicle only makes suggestions to a human driver, to Level 5, where the vehicle has complete control and passengers have confidence in not supervising. Between Levels 2 to 3, is the threshold between a human’s control and the vehicles; thus, Level 3 signals the beginning of vehicle autonomy. Despite some company’s misleading advertising, like Tesla’s “[full self-driving](https://www.thedrive.com/news/26700/tesla-puts-full-self-driving-back-on-the-menu-but-its-not-what-you-think)” tech package, as yet, no company involved with AV technology has reached level 5. The table below details the different levels. 
 
@@ -96,25 +70,7 @@ While I’m not going to focus too much on AV connectivity technology, it’s in
 
 ![](/img/connectivity.png)
 
-
-
-### **Autonomous Vehicle Collision Stats**
-
-*AV Collisions*
-
-Despite sensationalist belief, the majority of AV incidents are not explosive or fatal, nor are head-on collisions representative of the accidents that self-driving vehicles usually engage in. In the US especially, we are prone to think that fatal high-speed collisions are the norm for the AVs, given media coverage of such incidents as Elaine Herzberg (who I discuss in Part 2) and also Tesla’s [numerous highway crashes](https://insideevs.com/tag/tesla-autopilot/). 
-
-[Tentative research]([Traffic Accidents with Autonomous Vehicles: Type of Collisions, Manoeuvres and Errors of Conventional Vehicles' Drivers - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352146520301654#:~:text=Applying statistical analysis%2C we were found that the,were less in traffic accidents with autonomous vehicles.)) analyzing data from 2015-2017 has shown that, in actuality, rear-end collisions make up the majority of AV accidents at 64.2% - a staggeringly high number considering that the next most frequent accident type for AVs are side swipes (when the sides of two cars collide at a slight angle) at 31.4%. Even [conventional vehicles](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812981) (CVs) with a human driver don’t get close to that rear ending stat; only 28.3% of motor vehicle accidents in the US are rear ends (Though rear-end and angle collisions are still the first and second most common crash type for conventional vehicles). On top of all that, AVs are far more likely to be rear-ended by other vehicles than to do the rear-ending themselves. It’s speculated that this is due to the unconventional way AVs drive. In sticking to the letter of the law as they are programmed to do, they tend to confuse human drivers who are more likely to speed, tailgate, hug the side line, shoot the gaps, etc. And, as AVs are hyper aware of any pedestrians or vehicles in front of them, they are more likely to fully stop for their protection, encountering situations where human drivers may instead slow down, make a wide berth, or, if what the AV was perceiving wasn’t actually another person at all, keep on at normal speed.
-
-Perhaps not surprisingly, because of this, AVs have a higher accident rate per miles traveled than conventional vehicles. A study from 2015 calculated that human drivers averaged anywhere from 1.9 – 4.1 crashes per million miles traveled (mmt).[[6\]](#_ftn6) AVs, on the other hand, average about 9.1 crashes per mmt. An alarming stat on the surface; however, as these accidents are largely in the form of rear-endings from other vehicles, they are not nearly as fatal or injurious as conventional vehicle crashes. On top of that, almost ¾ of the crashes occurred with the AV going at a speed of 5mph or lower; however, this again, is probably due to the excessively cautious driving style employed by AVs. But it should be noted that the report doesn’t detail how fast the other vehicles were going and thus how great of an impact the other drivers felt. 
-
-While this study, [and others like it]([Crash comparison of autonomous and conventional vehicles using pre-crash scenario typology - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0001457521003122)), provide confident results, three caveats need to be recognized. 1.) AVs, unfortunately don’t exist in the quantities needed to make meaningful comparisons with conventional vehicles. The data acquired from DMV[[7\]](#_ftn7) of combined accident rates for conventional vehicles totals nearly 3 trillion miles as opposed to 1.2 million by AVs. Put another way, that’s 1 AV mile for every 2,500,000 CV mile (10 full vehicle life spans). 
-
-In fact, [a report](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1478/RAND_RR1478.pdf) released by the RAND corporation (a public policy research organization) concludes that 100 AVs driving 24 hours a day, 365 days of the year, at an average speed of 25 mph, would need to drive for 12.5 years, or 275 million miles, to conclude with 95% confidence that their failure rate leads to at most 1.09 deaths per 100 million miles. A lot of numbers to process, but in essence, the sample size of this study was too small to make any generalizable statements. 2.) 
-
-Another limitation the study notes is the context of the vehicle testing, or more specifically, where the vehicles were not tested – icy, stormy, or geographically unstable areas, or otherwise dangerous conditions. It’s unclear how many CVs are involved in accidents due to circumstances outside the driver’s control; it should thus be noted that AV collision results, could significantly differ depending on their location. 3.) The report specifies that none of the accidents AVs were involved in were the AVs fault, however, it’s unclear what they mean by “fault”. It could mean that the AVs didn’t collide with the other vehicles, and by that metric, it wasn’t the AV’s fault. Or it could mean, that the situations where the AVs stopped or slowed and CVs hit them were entirely justified (as in there may have been a pedestrian in the road) and therefore were not the AVs fault. However, as it has been suggested that so many rear-end accidents with AVs occurred because human drivers were surprised by the AVs behavior, I believe there is room to allow for AV culpability. If AVs are not following the intuitive rules of the road that every other driver subscribes to, they may lead to accidents that may have happened otherwise. Thus, I believe it’s prudent to reserve judgement on the exact safety viability of these stats until more information can be obtained.
-
-
+​		
 
 ------
 

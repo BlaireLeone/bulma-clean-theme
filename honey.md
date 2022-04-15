@@ -11,19 +11,21 @@ menubar: portfolio_menu
 
 ### The v*Herb*iage: Honey
 
-Honey is produced from honey bees, who collect nectar from flowers, eat and regurgitate the nectar several times, then fan the sticky substance with their wings to achieve the thick viscous sweetener we know as honey.
+Honey is produced from honey bees, who collect nectar from flowers, eat and regurgitate the nectar several times, then fan the sticky substance with their wings to achieve the thick viscous sweetener we know and love.
 
 ![](/img/honey_14.jpg)
 
 ## Honey is unique among sweeteners for several reasons:
 
-##### 1.) Every batch is different. 
+##### 1.) Every batch is inherently different. 
 
-Local beekeeper Mary Jo Harris with McClaughery Farms says, "Honey can be manipulated for taste and vitamin content, but by nature, no company or batch will have the same flavor". Since these honey properties are determined by the bee's surrounding flowers, each batch is wildly unique. More than that, sometimes the nectar is sourced from one kind of flower, known as monofloral honey, sometimes from a variety of flowers, known as polyfloral. This affects not only the flavor but the color and aroma as well. Despite most store bought honey's monofloral assertions, most honeys are have elements from other plants, due to the difficulties and expense involved with controlling the bees movements. But not to worry - this just increasing the diverse honey properties.
-
-![](/img/honey _7.jpg)
+Local beekeeper Mary Jo Harris with McClaughery Farms says, "Honey can be manipulated for taste and vitamin content, but by nature, no company or batch will have the same flavor". Since these honey properties are determined by the bee's surrounding flowers, each batch is wildly unique. More than that, sometimes the nectar is sourced from one kind of flower, known as monofloral honey, sometimes from a variety of flowers, known as polyfloral. This affects not only the flavor but the color and aroma as well. 
 
 While clover honey tends to be the least flavorful, it is one of the most highly produced honey flavors, even outside of Nevada County, because of the ubiquity of wild clover. Also in Nevada County, you often find blackberry and thistle honey. If you visit warmer coastal cities, like San Luis Obispo, you might find more exotic flavors like avocado or pomegranate!
+
+As it turns out, regulation around honey labeling is limited resulting in misleading labels. According to Mary Jo, despite most store bought honey's monofloral assertions, most honeys have elements from other plants, making instead a polyfloral combination. Due to the difficulties and expense involved with controlling honeybees' movements or finding a homogenous flower area, it's very rare for bees to visit only one flower while collecting nectar. But not to worry - this just increasing the diverse honey properties.
+
+![](/img/honey _7.jpg)
 
 Want to learn more? Stop by [McClaughery Farms](http://www.mcclaughryfarms.com/?msclkid=f63f6482b53911ec9ef3b719d2d849c3) on Old Grass Valley Highway for a sweet tour and a tasty treat!
 
@@ -35,7 +37,7 @@ Because of the biological constraints of the avocado tree, it needs an external 
 
 ![](/img/honey_15.jpg)
 
-However, avocados, and other insect-reliant plants, have a controversial story with honey bees. Avocados don't need them to pollinate. In fact, any insect or agile vector will do. However, traveling honey bee farmers will lend their bees to avocado farms and in turn get avocado honey. The problem? It intentionally silos the bee's nutrient source, and limits their biodiversity - an unhealthy eventuality for the bees if it continues long term. 
+However, avocados, and other insect-reliant plants, have a controversial story with honey bees. Avocados don't need them to pollinate. In fact, any insect or agile vector will do. However, traveling honey bee farmers will lend their bees to avocado farms and in turn receive avocado honey. The problem? It intentionally silos the bee's nutrient source, and limits their biodiversity - an unhealthy eventuality for the bees if it continues long term. 
 
 ![](/img/honey_16.jpg)
 

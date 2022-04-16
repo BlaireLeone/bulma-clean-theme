@@ -10,17 +10,7 @@ show_sidebar: false
 
 A concept most people are familiar with from one science class or another, friction is also a term applied to behavioral economics or behavioral science, and can come in handy when changing our daily behaviors. 
 
-#### **Behavioral science** 
-
-Behavioral science is somewhat self-explanatory - it is the study of human behavior, although it can range from studying specific behaviors, to motivations for behaviors, to behaviors linked to psychological conditions or trauma. Behavioral science is a broad discipline that can encompass anthropology, sociology, cognitive psychology, as well as behavioral economics. [[1]](https://www.chicagobooth.edu/mindworks/what-is-behavioral-science-research#:~:text=Several%20disciplines%20fall%20under%20the%20broad%20label%20of,4%20Consumer%20behavior%205%20Social%20psychology%206%20Sociology)
-
-![](img/behavioral-economics.jpg)
-
-#### **Behavioral economics**
-
-Behavioral economics, a subdiscipline of behavioral science, is more specific in that it examines human behavior as it relates to decision-making. While more of a psychological science in practice, it is also considered an economic discipline for how individual decision-making affects broader socio-economic trends. For instance, behavioral economists might study the proportion of people that bought one product compared to another. And why? Or what made this insurance plan, or that gym membership more popular. While behaviorist economists are curious about particular decisions, they more accurately, are curious about what made this decision so appealing out of the array of decisions available, despite the trade-offs attached to each decision. Why did they choose to buy fast food vs produce or other takeout? [[2]](https://news.uchicago.edu/explainer/what-is-behavioral-economics)
-
-Most behaviors seem deliberate, either carefully calculated or routine given a person's principles: affirming strongly held beliefs - like the decision to attend a place of worship (if you have a particular faith) or the decision to join an extraterrestrial book club (if you believe in aliens); performing a practical or efficient task – like doing your laundry because you ran out of clean socks or doing your taxes because it's that time of year. 
+Most behaviors seem deliberate, either carefully calculated or a given: affirming strongly held beliefs - like the decision to attend a place of worship (if you have a particular faith) or the decision to join an extraterrestrial book club (if you believe in aliens); performing a practical or efficient task – like doing your laundry because you ran out of clean socks or doing your taxes because it's that time of year. 
 
 Nobel Laureate and cognitive scientist Daniel Kahneman from Princeton University (and his late colleague Amos Tversky), however, has a new perspective, which generally suggests that we may not have as much control over our decisions as we think. Spoiler alert: it changed how we view psychology and behavioral economics forever.
 

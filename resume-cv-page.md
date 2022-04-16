@@ -16,31 +16,11 @@ hero_image: /img/bryce.jpg
 
 ------
 
-#### Freelance Writer • *Remote*   
-
-JANUARY 2022 – PRESENT 
-
-- Authors organizational and cognitive science articles for client in the managerial consulting field: compiles and organizes research, discusses and reviews articles with client. 
-
-   
-
-#### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
-
-AUGUST 2021 - PRESENT
-
-- Conducts interviews for video series on misinformation: pitches stories, receives assignments, sources professionals and academics, researches extensively, drafts questions, interviews experts in 1–2-hour interviews.  
-
-- Authors investigative articles for digital publication: pitches and receives story assignments, conducts research, identifies diverse sources and additional media, drafts catchy headlines and summaries.
-
-- Edits audio from interviews for upcoming podcast on disinformation and propaganda.
-
-- Participates in weekly team meetings to discuss ongoing and future projects.  
-
-   
-
-#### Freelance Editor *•* *Remote*   
+#### Freelance Writer and Editor • *Remote*   
 
 2017 – PRESENT 
+
+- Compiles research and authors organizational and cognitive science articles for client in the managerial consulting field: organizes research into database, discusses and reviews articles with client. 
 
 - Revises environmental documents for the Placer County Air Pollution Control District Office to ensure public understanding of data gathering practices, local and federal air quality policy, prescribed burning, and wildfire smoke updates.
 
@@ -49,6 +29,21 @@ AUGUST 2021 - PRESENT
 - Edited first-person commentary on benefits of local water system infrastructural repairs for civil engineer in Shasta County, California: adapted technical language and fleshed out narrative.
 
    
+
+#### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
+
+AUGUST 2021 - PRESENT
+
+- Conducts 1-2-hour interviews for video series on misinformation: sources professionals and academics, researches extensively, drafts questions.  
+
+- Authors investigative articles for digital publication: pitches and receives story assignments, conducts research, identifies diverse sources and additional media, drafts headlines and summaries.
+
+- Edits audio from interviews for upcoming podcast on disinformation and propaganda.
+
+- Performs outreach and supports event logistics with partners.  
+
+
+ 
 
 #### Newsletter Intern • *League of Women Voters of Milwaukee County •* *Remote* 
 

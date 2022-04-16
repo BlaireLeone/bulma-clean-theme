@@ -19,7 +19,9 @@ Albizia is a traditionally Chinese herb from the Mimosa, or Persian Silk, tree (
 
 ### What is Albizia used for?
 
-“Albizia is one of our all-star herbs,” says Shea Smith, HAALo's owner. And it’s no wonder. Albizia contains antioxidant, sedative, and analgesic properties - or in other words it has immune-boosting, sleep-inducing, and pain-relieving properties. This translates to providing relief to many different ailments, from anxiety, to insomnia, to pain, and even to dry and itchy skin.
+“Albizia is one of our all-star herbs,” says Shea Smith, HAALo's owner. 
+
+And it’s no wonder. Albizia contains antioxidant, sedative, and analgesic properties - or in other words it has immune-boosting, sleep-inducing, and pain-relieving properties. This translates to providing relief to many different ailments, from anxiety, to insomnia, to pain, and even to dry and itchy skin.
 
 Albizia is used both internally, via tea or tinctures, or externally, via balms or poultices. And both albizia flowers and bark are considered medicinal.
 

@@ -19,7 +19,9 @@ Honey is produced from honey bees, who collect nectar from flowers, eat and regu
 
 ##### 1.) Every batch is inherently different. 
 
-Local beekeeper Mary Jo Harris with McClaughery Farms says, "Honey can be manipulated for taste and vitamin content, but by nature, no company or batch will have the same flavor". Since these honey properties are determined by the bee's surrounding flowers, each batch is wildly unique. More than that, sometimes the nectar is sourced from one kind of flower, known as monofloral honey, sometimes from a variety of flowers, known as polyfloral. This affects not only the flavor but the color and aroma as well. 
+Local beekeeper Mary Jo Harris with McClaughery Farms says, "Honey can be manipulated for taste and vitamin content, but by nature, no company or batch will have the same flavor". 
+
+Since these honey properties are determined by the bee's surrounding flowers, each batch is wildly unique. More than that, sometimes the nectar is sourced from one kind of flower, known as monofloral honey, sometimes from a variety of flowers, known as polyfloral. This affects not only the flavor but the color and aroma as well. 
 
 While clover honey tends to be the least flavorful, it is one of the most highly produced honey flavors, even outside of Nevada County, because of the ubiquity of wild clover. Also in Nevada County, you often find blackberry and thistle honey. If you visit warmer coastal cities, like San Luis Obispo, you might find more exotic flavors like avocado or pomegranate!
 
@@ -33,17 +35,19 @@ Want to learn more? Stop by [McClaughery Farms](http://www.mcclaughryfarms.com/?
 
 ##### 2.) Honey is sometimes produced symbiotically with other fruit-producing plants - such as the avocado. 
 
-Because of the biological constraints of the avocado tree, it needs an external propagator, such as the honey bee, to pollinate it. As the honey bee swoops from flower to flower to dredge up some nectar, it also collects pollen, which attach like Velcro to the bee's hairy legs. It distributes these to other plants of the same species as it continues to find nectar. Thus, it's not unusual to find honey and avocado products sold together from private farms, or for honey and avocado growers to partner together.
+Because of the biological constraints of the avocado tree, it needs an external propagator, such as the honey bee, to pollinate it. As the honey bee swoops from flower to flower to dredge up some nectar, it also collects pollen, which attach like Velcro to the bee's hairy legs. It distributes these to other plants of the same species as it continues to find nectar. Thus, it's not unusual to find honey and avocado products sold together from private farms - or for honey and avocado growers to partner together.
 
 ![](/img/honey_15.jpg)
 
-However, avocados, and other insect-reliant plants, have a controversial story with honey bees. Avocados don't need them to pollinate. In fact, any insect or agile vector will do. However, traveling honey bee farmers will lend their bees to avocado farms and in turn receive avocado honey. The problem? It intentionally silos the bee's nutrient source, and limits their biodiversity - an unhealthy eventuality for the bees if it continues long term. 
+However, avocados, and other insect-reliant plants, have a controversial influence on honey bees. Avocados don't need the honey bee in particular to pollinate them. In fact, any insect or agile vector will do. Honey bees are the only one of those options however, that produces something valuable. Thus, traveling honey bee farmers will lend their bees to avocado farms and in turn receive avocado honey. The problem? It intentionally silos the bee's nutrient source and limits their biodiversity, which in turn limits their exposure to essential vitamins - an unnatural eventuality for the bees if it continues long term. 
 
 ![](/img/honey_16.jpg)
 
 ##### 3.) Got allergies? Try a local honey.
 
-Jasmine Noble, HAALo's western practitioner, recommends locally sourced honey for locals. "Honey is your medicine and your spoonful of sugar all in one!", she says. Because honey originates from the content of local plants, it can help your body develop a defense system against the airborne pollen come Spring. In essence, you are inoculating yourself against daily allergen intake. And if you start eating a local honey regularly in the winter, you can build up an immunity by the time those Spring blooms come knocking.
+Jasmine Noble, a practitioner of western medicine at HAALo, recommends regular doses of locally sourced honey. A perk, she notes: "Honey is your medicine and your spoonful of sugar all in one!".
+
+Because honey originates from the irritants we breathe in from local plants, it can help your body develop a defense system against airborne pollens come Spring. In essence, you are inoculating yourself against daily allergen intake. And if you start eating a local honey regularly in the winter, you can build up an immunity by the time those Spring blooms come knocking.
 
 ​	
 

@@ -25,7 +25,9 @@ And it’s no wonder. Albizia contains antioxidant, sedative, and analgesic prop
 
 Albizia is used both internally, via tea or tinctures, or externally, via balms or poultices. And both albizia flowers and bark are considered medicinal.
 
-Referred to also as the *happiness herb*, “Albizia has been used for centuries to help with mental ailments like stress, anxiety, and depression”, says Shea. It’s sedative properties dampen the nervous system and balance hormonal fluctuations when stressed or anxious. In doing so, it can also alleviate feelings of depression or irrational anger that arise from stress, or sudden hormone spikes or depletions.
+Referred to also as the *happiness herb*, “Albizia has been used for centuries to help with mental ailments like stress, anxiety, and depression”, says Shea. 
+
+It’s sedative properties dampen the nervous system and balance hormonal fluctuations when stressed or anxious. In doing so, it can also alleviate feelings of depression or irrational anger that arise from stress, or sudden hormone spikes or depletions.
 
 
 

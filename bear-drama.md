@@ -11,8 +11,6 @@ February 27, 2022
 
 By: Blaire Hobbs
 
-## *This article is in progress**
-
 Last month, news broke that Hank the Tank, the infamous 500lb. black bear ransacking South Lake Tahoe homes was in fact [3 bears](https://www.theguardian.com/environment/2022/feb/25/very-hungry-bear-hank-the-tank-is-in-fact-three-bears-dna-shows). Thanks to DNA evidence, Hank is now off the hook, however, while Hank may be glad to no longer shoulder all the blame, communities and bear's alike must shoulder a potential reality where bears like Hank are showing up more often.
 
 Due to human encroachment on the bear's habitat as well as additional climate and disease pressures, Californians may be seeing an uptick of bears wandering into urbanized spaces as they develop a preference for human food and acclimate to human environments.
@@ -55,3 +53,17 @@ While highly adaptable creatures, the rapidly changing environment has driven th
 - **Wildfires**
 
   
+
+
+
+
+
+#### **Behavioral science** 
+
+Behavioral science is somewhat self-explanatory - it is the study of human behavior, although it can range from studying specific behaviors, to motivations for behaviors, to behaviors linked to psychological conditions or trauma. Behavioral science is a broad discipline that can encompass anthropology, sociology, cognitive psychology, as well as behavioral economics. [[1]](https://www.chicagobooth.edu/mindworks/what-is-behavioral-science-research#:~:text=Several%20disciplines%20fall%20under%20the%20broad%20label%20of,4%20Consumer%20behavior%205%20Social%20psychology%206%20Sociology)
+
+#### **Behavioral economics**
+
+Behavioral economics, a subdiscipline of behavioral science, is more specific in that it examines human behavior as it relates to decision-making. While more of a psychological science in practice, it is also considered an economic discipline for how individual decision-making affects broader socio-economic trends. For instance, behavioral economists might study the proportion of people that bought one product compared to another. And why? Or what made this insurance plan, or that gym membership more popular. While behaviorist economists are curious about particular decisions, they more accurately, are curious about what made this decision so appealing out of the array of decisions available, despite the trade-offs attached to each decision. Why did they choose to buy fast food vs produce or other takeout? [[2]](https://news.uchicago.edu/explainer/what-is-behavioral-economics)
+
+![](C:/Users/bleoh/OneDrive/Documents/GitHub/bulma-clean-theme/img/behavioral-economics.jpg)

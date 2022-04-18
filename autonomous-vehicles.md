@@ -1,6 +1,6 @@
 ---
-title: With autonomous vehicles being mainstream -
-subtitle: This article discusses what technology allows autonomous vehicles to be autonomous 
+title: Autonomous vehicles Have Reached the Mainstream
+subtitle: What technology differentiates them from a conventional vehicle?
 layout: page
 show_sidebar: false
 menubar: portfolio_menu

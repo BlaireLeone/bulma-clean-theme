@@ -1,6 +1,6 @@
 ---
-title: Autonomous Vehicles are Mainstream Now
-subtitle: What technology allows autonomous vehicles to be autonomous? 
+title: With autonomous vehicles being mainstream -
+subtitle: This article discusses what technology allows autonomous vehicles to be autonomous 
 layout: page
 show_sidebar: false
 menubar: portfolio_menu
@@ -10,7 +10,7 @@ hero_image: /img/av-hero.jpg
 
 
 
-In short, autonomous here means driver-less, or else, having little to no need for human supervision. But within this, AVs can be deconstructed into ascending levels of autonomy. The Society of Automotive Engineers (SAE) categorized AVs in 2013, and then [updated them again](https://www.sae.org/news/press-room/2018/12/sae-international-releases-updated-visual-chart-for-its-"levels-of-driving-automation"-standard-for-self-driving-vehicles) in 2018, developing 6 tiers of automation.[[1\]](#_ftn1) While it includes Level 0, where the car is completely manual, the automation evaluation spans from Level 1, in which the vehicle only makes suggestions to a human driver, to Level 5, where the vehicle has complete control and passengers have confidence in not supervising. Between Levels 2 to 3, is the threshold between a human’s control and the vehicles; thus, Level 3 signals the beginning of vehicle autonomy. Despite some company’s misleading advertising, like Tesla’s “[full self-driving](https://www.thedrive.com/news/26700/tesla-puts-full-self-driving-back-on-the-menu-but-its-not-what-you-think)” tech package, as yet, no company involved with AV technology has reached level 5. 
+In short, autonomous here means driver-less, or else, having little to no need for human supervision. But within this, AVs can be deconstructed into ascending levels of autonomy. The Society of Automotive Engineers (SAE) categorized AVs in 2013, and then [updated them again](https://www.sae.org/news/press-room/2018/12/sae-international-releases-updated-visual-chart-for-its-"levels-of-driving-automation"-standard-for-self-driving-vehicles) in 2018, developing 6 tiers of automation.[[1\]](#_ftn1) While it includes Level 0, where the car is completely manual, the automated versions span from Level 1, in which the vehicle only makes suggestions to a human driver, to Level 5, where the vehicle has complete control and passengers have confidence in not supervising. Between Levels 2 to 3, is the threshold between a human’s control and the vehicles; thus, Level 3 signals the beginning of vehicle autonomy. Despite some company’s misleading advertising, like Tesla’s “[full self-driving](https://www.thedrive.com/news/26700/tesla-puts-full-self-driving-back-on-the-menu-but-its-not-what-you-think)” tech package, as yet, no company involved with AV technology has reached level 5. 
 
  ![](/img/AVs level of Autonomy 3.jpg)  
 

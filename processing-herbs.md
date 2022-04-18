@@ -1,6 +1,6 @@
 ---
 title: Got Herbs? 
-subtitle: Try this process for drying bulk cooking herbs!
+subtitle: Try this process for drying bulk cooking herbs
 layout: page
 show_sidebar: false
 menubar: portfolio_menu

@@ -54,17 +54,17 @@ FALL 2020
 - Copyedited formatting, selected images, and created headlines.     
 
 
-#### Nutrition Writer and Communications Coordinator*• HAALo Botanicals•* *Nevada City, CA*  
+#### Writer and Communications Coordinator • *HAALo Botanicals* • *Nevada City, CA*  
 
 2015 – 2017  
 
-- Wrote articles on food, plants, locally-sourced products, and profiles of local botanical and natural food experts for weekly newsletter: sourced and interviewed experts, pitched content, drafted articles. 
+- Wrote articles on food, plants, locally-sourced products, and profiles of local botanical and natural food experts for weekly newsletter: sourced, shadowed, and interviewed experts; pitched content. 
 
-- Developed communication materials: drafted press releases for local media outlets, maintained social media accounts, posted to a variety of event hosting platforms, and created advertising posters and fliers.
+- Developed communication materials: drafted press releases for local media outlets, maintained social media accounts, posted to a variety of event hosting platforms, and created newsletter.
 
 - Proofed copy: photographed items and instructors, selected images, formatted content.
 
-- Shadowed and interviewed practitioners: studied plant physiology and nutrition, plant cultivation, and home remedies.
+- Communicated with customers, vendors, and local media sources: maintained excellent customer service
 
   ​	
 
@@ -184,7 +184,7 @@ AUGUST 2019
 
 #### **Awards**
 
-- **Best Student Teacher in Psychology Award**
+- **Best Student Teacher in Psychology Award**eeeeee
 
   After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
 

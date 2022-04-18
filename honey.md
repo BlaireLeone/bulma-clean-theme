@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Honey is pretty sweet. It's flavorful, versatile, and medicinal!
-subtitle: Here's three facts to motivate your sweet tooth!
+title: Honey is pretty sweet. It's flavorful, versatile, and medicinal
+subtitle: Here's three facts to motivate your sweet tooth
 description: A simple image gallery page 
 show_sidebar: false
 hero_image: /img/honey_13.jpg

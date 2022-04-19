@@ -11,6 +11,8 @@ menubar: portfolio_menu
 
 ### The v*Herb*iage: Honey
 
+------
+
 Honey is produced from honey bees, who collect nectar from flowers, eat and regurgitate the nectar several times, then fan the sticky substance with their wings to achieve the thick viscous sweetener we know and love.
 
 ![](/img/honey_14.jpg)

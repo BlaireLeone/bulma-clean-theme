@@ -43,7 +43,7 @@ AUGUST 2021 - PRESENT
 - Performs outreach and supports event logistics with partners.  
 
 
- 
+
 
 #### Newsletter Intern • *League of Women Voters of Milwaukee County •* *Remote* 
 
@@ -114,7 +114,7 @@ SEPTEMBER 2016 - DECEMBER 2016
 
 #### Event Coordinator *• Miners Foundry Cultural Center •* *Nevada City, CA*
 
-JANUARY 2016 - JUNE 2016
+OCTOBER 2015 - MARCH 2016
 
 - Coordinated with artists, bands, wedding planners, city officials, and business and conference coordinators for event details such as dates, arrival, equipment, membership, ticketing, food, and more.
 - Managed food, drink, and merchandise coordinating, ordering, and inventory.

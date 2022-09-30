@@ -1,8 +1,9 @@
 - label: Lookout Santa Cruz
   items:
     - name: Student Ambassadors
-      link: /https://lookout.co/santacruz/business-technology/local-business/story/2022-09-12/beach-boardwalk-global-student-workers-ambassadors-state-department-interexchange-santa-cruz-seaside-company/
-      name: Helicopters
+      link: https://lookout.co/santacruz/business-technology/local-business/story/2022-09-12/beach-boardwalk-global-student-workers-ambassadors-state-department-interexchange-santa-cruz-seaside-company/
+#      link: /honey/
+    - name: Helicopters
       link: /honey/
     - name: Volleyball
       link: /albizia/
@@ -18,7 +19,7 @@
       link: /autonomous-vehicles/ 
 - label: Food and Plant Writings
   items:
-    - name: Honey: Not Just a Sweetner
+    - name: Honey - Not Just a Sweetner
       link: /honey/
     - name: The Happiness Bark
       link: /albizia/

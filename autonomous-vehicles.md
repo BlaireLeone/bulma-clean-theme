@@ -3,7 +3,7 @@ title: Autonomous vehicles Have Reached the Mainstream
 subtitle: What technology differentiates them from a conventional vehicle?
 layout: page
 show_sidebar: false
-menubar: portfolio_menu
+menubar: additional_writings_menu
 hero_darken: true
 hero_image: /img/av-hero.jpg
 ---

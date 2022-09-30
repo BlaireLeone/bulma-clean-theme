@@ -4,7 +4,7 @@ title: The Moray Eel
 subtitle: New findings could illuminate novel information on surrounding ecosystems
 hero_image: /img/moray.jpg
 description: 
-menubar: portfolio_menu
+menubar: additional_writings_menu
 show_sidebar: false    	
 ---
 

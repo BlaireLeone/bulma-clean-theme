@@ -1,6 +1,5 @@
 - label: About
-  items:
-    - name: portfolio
+  link: portfolio 
 - label: Professional Writings
   items:
     - name: Lookout Santa Cruz
@@ -23,10 +22,6 @@
   items:
    #- name: Urbanizing black bears
       #link: /bear-drama/
-    - name: The Moray Eel
-      link: /the-moray-eel/
-    - name: Habits
-      link: /habits-friction/
-    - name: Autonomous Vehicle Technology
-      link: /autonomous-vehicles/ 
+      link: /Lookout Santa Cruz/
+ 
 

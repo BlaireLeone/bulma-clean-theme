@@ -1,5 +1,5 @@
--label: Additional Writings
- items:
+- label: Additional Writings
+  items:
     - name: The Moray Eel
       link: /the-moray-eel/
     - name: Habits

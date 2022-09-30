@@ -1,24 +1,11 @@
-- label: Lookout Santa Cruz
+- label: Professional Writings
   items:
-    - name: Student Ambassadors
+    - name: Lookout Santa Cruz
       link: https://lookout.co/santacruz/business-technology/local-business/story/2022-09-12/beach-boardwalk-global-student-workers-ambassadors-state-department-interexchange-santa-cruz-seaside-company/
-#      link: /honey/
-    - name: Helicopters
+    - name: the vHerbiage
       link: /honey/
     - name: Volleyball
       link: /albizia/
-- label: Science Writings
-  items:
-   #- name: Urbanizing black bears
-      #link: /bear-drama/
-    - name: The Moray Eel
-      link: /the-moray-eel/
-    - name: Habits
-      link: /habits-friction/
-    - name: Autonomous Vehicle Technology
-      link: /autonomous-vehicles/ 
-- label: Food and Plant Writings
-  items:
     - name: Honey - Not Just a Sweetner
       link: /honey/
     - name: The Happiness Bark
@@ -29,4 +16,14 @@
   # items:         
    # - name: Healthy Habits for the Conscious Consumer
     #  link: /blog/ 
+- label: Additional Writings
+  items:
+   #- name: Urbanizing black bears
+      #link: /bear-drama/
+    - name: The Moray Eel
+      link: /the-moray-eel/
+    - name: Habits
+      link: /habits-friction/
+    - name: Autonomous Vehicle Technology
+      link: /autonomous-vehicles/ 
 

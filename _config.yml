@@ -72,8 +72,8 @@ highlighter: rouge
 footer_menu: footer_menu
 
 collections:
-  pages: 
+  products: 
     output: true
-    layout: page
+    layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false

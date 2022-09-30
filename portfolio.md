@@ -4,7 +4,7 @@ subtitle: By Blaire Hobbs
 hero_image: /img/maroon-peaks.jpg
 layout: product-category
 show_sidebar: false
-sort: title
+
 ---
 
 ![](/img/lookoutsc.png)
@@ -30,7 +30,7 @@ https://lookout.co/santacruz/business-technology/local-business/story/2022-09-12
 features:
     - label: No Attitudes Beach Volleyball
       icon: fa-location-arrow
-    - label: CAL Fire Helicopters
+        - label: CAL Fire Helicopters
       icon: fa-grin-stars
-    - label: International Student Workers
+            - label: International Student Workers
       icon: fa-fighter-jet

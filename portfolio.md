@@ -1,10 +1,16 @@
 ---
-title: Featured Work
-subtitle: by Blaire Hobbs
-layout: page
-show_sidebar: false
-menubar: portfolio_menu
+title: Published Writings
+subtitle: By Blaire Hobbs
 hero_image: /img/maroon-peaks.jpg
+layout: product
+image: /img/lookoutsc.png
+features:
+    - label: No Attitudes Beach Volleyball
+      icon: fa-location-arrow
+    - label: CAL Fire Helicopters
+      icon: fa-grin-stars
+    - label: International Student Workers
+      icon: fa-fighter-jet
 ---
 
 ![](/img/lookoutsc.png)

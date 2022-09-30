@@ -1,7 +1,10 @@
+- label: About
+  items:
+    - name: portfolio
 - label: Professional Writings
   items:
     - name: Lookout Santa Cruz
-      link: https://lookout.co/santacruz/business-technology/local-business/story/2022-09-12/beach-boardwalk-global-student-workers-ambassadors-state-department-interexchange-santa-cruz-seaside-company/
+      link: /Lookout Santa Cruz/
     - name: the vHerbiage
       link: /honey/
     - name: Volleyball

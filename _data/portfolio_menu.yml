@@ -1,5 +1,5 @@
 - label: About
-  items:
+  name:
      link: /portfolio/ 
 - label: Professional Writings
   items:

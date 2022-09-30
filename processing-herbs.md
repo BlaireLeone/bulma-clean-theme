@@ -1,6 +1,6 @@
 ---
-title: Got Herbs? 
-subtitle: Try this process for drying bulk cooking herbs
+title: Got Herbs? Try this bulk drying process
+subtitle: Written for HAALo Botanicals' newsletter called The vHerbiage
 layout: page
 show_sidebar: false
 menubar: portfolio_menu

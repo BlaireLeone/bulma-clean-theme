@@ -1,6 +1,6 @@
 ---
-title: Feeling anxious? 
-subtitle: Try Albizia - The Happiness Bark!
+title: Feeling anxious? Try The Happiness Bark!
+subtitle: Written for HAALo Botanicals' newsletter called The vHerbiage
 layout: page
 menubar: portfolio_menu
 show_sidebar: false

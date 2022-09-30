@@ -6,8 +6,6 @@
       link: /Lookout Santa Cruz/
     - name: the vHerbiage
       link: /honey/
-    - name: Volleyball
-      link: /albizia/
     - name: Honey - Not Just a Sweetner
       link: /honey/
     - name: The Happiness Bark
@@ -19,9 +17,6 @@
    # - name: Healthy Habits for the Conscious Consumer
     #  link: /blog/ 
 - label: Additional Writings
-  items:
-   #- name: Urbanizing black bears
-      #link: /bear-drama/
-      link: /Lookout Santa Cruz/
+      link: /Additional Writings/
  
 

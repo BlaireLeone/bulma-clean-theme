@@ -1,22 +1,16 @@
 - label: About
-  link: portfolio 
+  link: /portfolio/ 
 - label: Professional Writings
   items:
     - name: Lookout Santa Cruz
-      link: /Lookout Santa Cruz/
-    - name: the vHerbiage
-      link: /honey/
-    - name: Honey - Not Just a Sweetner
-      link: /honey/
-    - name: The Happiness Bark
-      link: /albizia/
-    - name: Processing Dried Herbs, Step-by-Step
-      link: /processing-herbs/
+      link: /lookout-santa-cruz/
+    - name: The vHerbiage
+      link: /the-vHerbiage/
 # - label: Blog
   # items:         
    # - name: Healthy Habits for the Conscious Consumer
     #  link: /blog/ 
 - label: Additional Writings
-      link: /Additional Writings/
+      link: /additional-writings/
  
 

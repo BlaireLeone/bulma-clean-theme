@@ -1,5 +1,6 @@
-- name: About
-  link: /portfolio/ 
+- label: About
+  items:
+     link: /portfolio/ 
 - label: Professional Writings
   items:
     - name: Lookout Santa Cruz

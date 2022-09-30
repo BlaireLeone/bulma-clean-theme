@@ -6,7 +6,7 @@ description: A simple image gallery page
 show_sidebar: false
 hero_image: /img/honey_13.jpg
 hero_darken: true
-menubar: portfolio_menu
+menubar: the_vHerbiage_menu
 ---
 
 ### The v*Herb*iage: Honey

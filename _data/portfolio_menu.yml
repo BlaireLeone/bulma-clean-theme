@@ -1,3 +1,11 @@
+- label: Lookout Santa Cruz
+  items:
+    - name: Volleyball
+      link: /honey/
+    - name: Helicopters
+      link: /albizia/
+    - name: Student Ambassadors
+      link: /https://lookout.co/santacruz/business-technology/local-business/story/2022-09-12/beach-boardwalk-global-student-workers-ambassadors-state-department-interexchange-santa-cruz-seaside-company/
 - label: Science Writings
   items:
    #- name: Urbanizing black bears
@@ -10,11 +18,11 @@
       link: /autonomous-vehicles/ 
 - label: Food and Plant Writings
   items:
-    - name: Three Interesting Facts About Honey
+    - name: Honey: Not Just a Sweetner
       link: /honey/
     - name: The Happiness Bark
       link: /albizia/
-    - name: Drying Your Own Herbs
+    - name: Processing Dried Herbs, Step-by-Step
       link: /processing-herbs/
 # - label: Blog
   # items:         

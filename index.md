@@ -23,5 +23,5 @@ In my day-to-day life, I enjoy experimenting in the kitchen, especially with unu
 
 I'm also an avid reader. In the past year, my family and I started an informal book club, which made me realize how much I love dissecting a good book (and why I decided to get a literature minor in college).
 
-While originally from the foothills of the Sierra Nevada Mountains in California, for the last 8 years I have lived in Santa Cruz, CA (with a brief 9 month stint in Chicago, IL) where I spend my spare time riding my bike, playing volleyball, and cooking enormous meals with my partner and friends.
+While originally from the foothills of the Sierra Nevada Mountains in California, for the last 8 years I have lived in Santa Cruz, CA (with a brief 9-month stint in Chicago, IL), where I spend my spare time riding my bike, playing volleyball on the beach, and cooking enormous meals with my partner and friends.
 

@@ -32,15 +32,15 @@ hero_image: /img/bryce.jpg
 
 #### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
 
-AUGUST 2021 - PRESENT
+AUGUST 2021 - MAY 2022
 
-- Conducts 1-2-hour interviews for video series on misinformation: sources professionals and academics, researches extensively, drafts questions.  
+- Conducted 1-2-hour interviews for video series on misinformation: sourced professionals and academics, researched extensively, drafted questions.  
 
-- Authors investigative articles for digital publication: pitches and receives story assignments, conducts research, identifies diverse sources and additional media, drafts headlines and summaries.
+- Authored investigative articles for digital publication: pitched and received story assignments, conducted research, identified diverse sourced and additional media, drafted headlines and summaries.
 
-- Edits audio from interviews for upcoming podcast on disinformation and propaganda.
+- Edited audio from interviews for upcoming podcast on disinformation and propaganda.
 
-- Performs outreach and supports event logistics with partners.  
+- Performed outreach and supports event logistics with partners.  
 
 
 
@@ -200,11 +200,11 @@ AUGUST 2019
 
 ------
 
-#### **Editing**  •  *Journal of Media Literacy Education*  • *Remote*
+#### **Editing**  •  *Journal of Media Literacy Education* • *Remote*
 
-SEPTEMBER 2021 - PRESENT
+SEPTEMBER 2021 - MAY 2022
 
-I work remotely  with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
+I worked remotely with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
 
 #### **Beach Clean-ups**  •  *Save Our Shores* • *Santa Cruz, CA*
 

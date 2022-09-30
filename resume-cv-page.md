@@ -16,6 +16,16 @@ hero_image: /img/bryce.jpg
 
 ------
 
+#### Reporter • *Lookout Santa Cruz* • Santa Cruz, CA 
+
+June 2022  
+
+- Writes articles covering the environment, food, and the local community.  
+
+- Pitches and receives assignments, sources contacts, interviews experts, develops graphics.     
+
+
+
 #### Freelance Writer and Editor • *Remote*   
 
 2017 – PRESENT 

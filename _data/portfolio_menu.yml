@@ -1,11 +1,11 @@
 - label: Lookout Santa Cruz
   items:
-    - name: Volleyball
-      link: /honey/
-    - name: Helicopters
-      link: /albizia/
     - name: Student Ambassadors
       link: /https://lookout.co/santacruz/business-technology/local-business/story/2022-09-12/beach-boardwalk-global-student-workers-ambassadors-state-department-interexchange-santa-cruz-seaside-company/
+      name: Helicopters
+      link: /honey/
+    - name: Volleyball
+      link: /albizia/
 - label: Science Writings
   items:
    #- name: Urbanizing black bears

@@ -1,1 +1,0 @@
-Lookout Santa Cruz 

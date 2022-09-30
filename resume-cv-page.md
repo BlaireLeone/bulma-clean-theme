@@ -184,9 +184,9 @@ AUGUST 2019
 
 #### **Awards**
 
-- **Best Student Teacher in Psychology Award**eeeeee
+- **Best Student Teacher in Psychology Award**
 
-  After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, anmd high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
+  After teaching an introduction to psychology class, I was awarded the best student teacher in psychology award for my dedication to students, excellent student reviews, and high student testing achievement. I held additional workshops to assist their writing and studying. I also tailored each lecture to be as approachable as possible.
 
   
 

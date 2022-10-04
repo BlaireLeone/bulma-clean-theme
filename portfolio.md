@@ -10,9 +10,7 @@ sort: title
 
 
 
-![](/img/lookoutsc.png)
-
-**Selected Works** 
+## ![](/img/lookoutsc.png) **Selected Works** 
 
 ****
 

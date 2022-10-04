@@ -7,7 +7,7 @@ show_sidebar: false
 hero_image: /img/albizia.png
 ---
 
-
+*This article was written for the HAALo Botanicals newsletter titled The vHerbiage*
 
 
 

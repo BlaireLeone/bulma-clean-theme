@@ -10,11 +10,11 @@ sort: title
 
 
 
-## ![](/img/lookoutsc.png) **Selected Works** 
+###### ![](/img/lookoutsc.png)
 
 ****
 
- 
+#  **Selected Works** 
 
 [![](/img/helicopters.png)](https://lookout.co/santacruz/environment/wildfires/story/2022-08-23/cal-fire-helicopters-fire-hawk-ask-lookout-what-was-that-big-helicopter-going-back-and-forth-to-the-delaveaga-fire-recently)
 

@@ -1,12 +1,16 @@
 ---
-title: Got Herbs? Try this bulk drying process
-subtitle: Written for HAALo Botanicals' newsletter called The vHerbiage
+title: Got Herbs?
+subtitle: Try this bulk drying process
 layout: page
 show_sidebar: false
 menubar: portfolio_menu
 hero_image: /img/harvesting-herbs.png
 hero_darken: true
 ---
+
+*This article was written for the HAALo Botanicals newsletter titled The vHerbiage*
+
+
 
 ## **The v*Herb*iage: Processing Herbs**
 

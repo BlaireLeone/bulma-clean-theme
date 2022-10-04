@@ -3,6 +3,7 @@ title: Published Writings
 subtitle: By Blaire Hobbs
 hero_image: /img/maroon-peaks.jpg
 layout: page
+menubar: portfolio_menu
 show_sidebar: false
 sort: title
 ---

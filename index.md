@@ -29,13 +29,9 @@ My appreciation for films and storytelling developed from my experience as assis
 
 ![](/img/Hobbs_Blaire_Headshot.jpg)
 
-**My Interests and Activities**
+**Activities**
 
-I love spending time outdoors, hiking, camping, and backpacking. My favorite activity is beach volleyball, but in between running around in the sand and spending time on the trails, I enjoy cruising around on my bike and playing board games with friends.
+Hiking, camping, and backpacking, beach volleyball, biking 
 
-In my day-to-day life, I enjoy experimenting in the kitchen, especially with unusual ingredients and novel cuisines. I'm especially skilled at balancing multiple dinner plates and eyeballing the best fit Tupperware for left-overs.
-
-I'm also an avid reader. In the past year, my family and I started an informal book club, which made me realize how much I love dissecting a good book (and why I decided to get a literature minor in college).
-
-While originally from the foothills of the Sierra Nevada Mountains in California, for the last 8 years I have lived in Santa Cruz, CA (with a brief 9-month stint in Chicago, IL), where I spend my spare time riding my bike, playing volleyball on the beach, and cooking enormous meals with my partner and friends.
+Cooking, reading, board games, podcasts
 

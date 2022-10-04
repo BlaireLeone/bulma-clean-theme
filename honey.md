@@ -27,7 +27,7 @@ Since these honey properties are determined by the bee's surrounding flowers, ea
 
 While clover honey tends to be the least flavorful, it is one of the most highly produced honey flavors, even outside of Nevada County, because of the ubiquity of wild clover. Also in Nevada County, you often find blackberry and thistle honey. If you visit warmer coastal cities, like San Luis Obispo, you might find more exotic flavors like avocado or pomegranate!
 
-As it turns out, regulation around honey labeling is limited resulting in misleading labels. According to Mary Jo, despite most store bought honey's monofloral assertions, most honeys have elements from other plants, making instead a polyfloral combination. Due to the difficulties and expense involved with controlling honeybees' movements or finding a homogenous flower area, it's very rare for bees to visit only one flower while collecting nectar. But not to worry - this just increasing the diverse honey properties.
+As it turns out, regulation around honey labeling is limited, resulting in misleading labels. According to Harris, despite most store bought honey's monofloral assertions, most honeys have elements from other plants. Due to the difficulties and expense involved with controlling honeybees' movements or finding a homogenous flower area, it's very rare for bees to visit only one flower while collecting nectar. But not to worry - this just increases the diverse honey properties.
 
 ![](/img/honey _7.jpg)
 

@@ -10,7 +10,7 @@ sort: title
 
 
 
-![](/img/lookoutsc.png) Currently, I work as a reporter for Lookout Local in Santa Cruz, CA, pursuing a career as a journalist. Check out some selected works from Lookout Santa Cruz below.
+![](/img/lookoutsc.png) Currently, I work as a reporter for Lookout Santa Cruz in Santa Cruz, CA, pursuing a career as a journalist. Check out a few selected works from Lookout Santa Cruz below.
 
 Previously, I reported on misinformation techniques with *The Propwatch Project*, a nonprofit seeking to educate the public on misinformation. I wrote in-depth articles and performed interviews with misinformation researchers, including [writing on common techniques](https://www.propwatch.org/article.php?id=295) employed by state-sponsored social media trolls and discussing the relationship between state-sponsored propaganda and state violence through [an interview with misinformation expert, Dr. Josephine Lukito](https://www.propwatch.org/article.php?id=305).
 

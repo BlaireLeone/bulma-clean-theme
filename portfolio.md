@@ -10,7 +10,7 @@ sort: title
 
 
 
-![](/img/lookoutsc.png) Currently, I work as a reporter for Lookout Santa Cruz in Santa Cruz, CA, pursuing a career as a journalist. Check out a few selected works from Lookout Santa Cruz below.
+![](/img/lookoutsc.png) Currently, I work as a reporter for Lookout Santa Cruz in Santa Cruz, CA, where I cover food, the environment, and the local community. Check out a few selected works from Lookout Santa Cruz below.
 
 Previously, I reported on misinformation techniques with *The Propwatch Project*, a nonprofit seeking to educate the public on misinformation. I wrote in-depth articles and performed interviews with misinformation researchers, including [writing on common techniques](https://www.propwatch.org/article.php?id=295) employed by state-sponsored social media trolls and discussing the relationship between state-sponsored propaganda and state violence through [an interview with misinformation expert, Dr. Josephine Lukito](https://www.propwatch.org/article.php?id=305).
 
@@ -28,9 +28,7 @@ I started my writing career working for *HAALo Botanicals*, a shop dedicated to 
 
 [![](/img/beachvolleyball.png)](https://lookout.co/santacruz/recreation-sports/story/2022-08-11/beach-volleyball-lizzy-fowler-no-attitudes-allowed-classes-tournaments)
 
-
-
-
+r
 
 
 

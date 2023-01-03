@@ -18,19 +18,19 @@ hero_image: /img/bryce.jpg
 
 #### Reporter • *Lookout Santa Cruz* • Santa Cruz, CA 
 
-June 2022  
+JUNE 2022 - DECEMBER 2022  
 
-- Writes articles covering the environment, food, and the local community.  
-
-- Pitches and receives assignments, sources contacts, interviews experts, develops graphics.     
+- Writes articles covering the environment, food, and the local community.   
+-  Develops maps and data visualizations: compiles  data sets, analyses data, creates visuals using a variety of programming  tools, such as Python, SQL, and JavaScript.   
+- Manages student newsletter: builds newsletter  in CMS, writes content.  
 
 
 
 #### Freelance Writer and Editor • *Remote*   
 
-2017 – PRESENT 
+December 2019 – PRESENT 
 
-- Compiles research and authors organizational and cognitive science articles for client in the managerial consulting field: organizes research into database, discusses and reviews articles with client. 
+- Compiled research and for client in the managerial consulting field:  ingested data from  PDFs and organized data into databases.  
 
 - Revises environmental documents for the Placer County Air Pollution Control District Office to ensure public understanding of data gathering practices, local and federal air quality policy, prescribed burning, and wildfire smoke updates.
 
@@ -42,11 +42,11 @@ June 2022
 
 #### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
 
-AUGUST 2021 - MAY 2022
+AUGUST 2021 - JUNE 2022
 
 - Conducted 1-2-hour interviews for video series on misinformation: sourced professionals and academics, researched extensively, drafted questions.  
 
-- Authored investigative articles for digital publication: pitched and received story assignments, conducted research, identified diverse sourced and additional media, drafted headlines and summaries.
+- Authored investigative articles for digital publication: pitched and received story assignments, conducted research, identified diverse sources and additional media, drafted headlines and summaries.
 
 - Edited audio from interviews for upcoming podcast on disinformation and propaganda.
 
@@ -64,9 +64,9 @@ FALL 2020
 - Copyedited formatting, selected images, and created headlines.     
 
 
-#### Writer and Communications Coordinator • *HAALo Botanicals* • *Nevada City, CA*  
+#### Communications Coordinator • *HAALo Botanicals* • *Nevada City, CA*  
 
-2015 – 2017  
+SEPTEMBER 2015 – SEPTEMBER 2017  
 
 - Wrote articles on food, plants, locally-sourced products, and profiles of local botanical and natural food experts for weekly newsletter: sourced, shadowed, and interviewed experts; pitched content. 
 
@@ -84,17 +84,18 @@ FALL 2020
 
 #### Research Assistant *• University of California Santa Cruz •* *Santa Cruz, CA*
 
-SPRING - SUMMER 2019 
+MARCH - AUGUST 2019 
 
-- Drafted literature  reviews for research on the spread of fake news: reviewed complex scientific research, examined research databases, compiled information, drafted 5+ page documents, developed bibliographies.
-- Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power dynamics on conversation: asked constructive questions and provided  actionable feedback to strengthen experimental design.
-- Transcribed and annotated 50+ interviews from participants during trials. 
+- Compiled and analyzed data on human-subject experiments: ran experiments to collect data and ran ANOVAs measuring the effect of authority on conversations.
+- Transcribed and compiled data on 50+ interviews from participants during trials. 
+- Drafted literature reviews for research on the spread of fake news: reviewed complex scientific research, drafted 5+ page documents, developed bibliographies.
+- Gained acknowledgement in [now published research](https://journals.sagepub.com/doi/abs/10.1177/0023830920972742?journalCode=lasa) on the effect of power dynamics on conversation: asked constructive questions and provided actionable feedback to strengthen experimental design.
 
 #### Psychology and Writing Instructor *• University of California Santa Cruz* *•* *Santa Cruz, CA* 
 
-SPRING 2019
+JANUARY - MARCH 2019
 
-- Taught  25 students the foundations of psychology: translated complex information from textbooks and academic writing, developed curriculum, designed lesson plans, created PowerPoints and worksheets for bi-weekly lectures. 
+- Taught 25 students the foundations of psychology: translated complex information from textbooks and academic writing, developed curriculum, designed lesson plans, created PowerPoints and worksheets for bi-weekly lectures. 
 
 - Provided 1:1 instruction to discuss research papers and hosted writing workshops to improve writing and research citation skills. 
 
@@ -148,11 +149,12 @@ MAY 2015 - SEPTEMBER 2015
 
 ------
 
-#### Certificate in ArcGIS  • *Coursera Online Courses and Credentials via instruction from UC Davis •* Remote
+#### GIS Certificate Series • *Coursera Online Courses and Credentials via instruction from UC Davis •* Remote
 
 MARCH 2020 
 
-- Created maps of California watersheds and CA Prop 37 electorate distributions.
+- Certificate in The Fundamentals of GIS
+- Certificate in Data Formats, Design, and Quality
 
 #### B.S. in Cognitive Science  • *University of California Santa Cruz •* *Santa Cruz, CA*  
 
@@ -214,11 +216,11 @@ AUGUST 2019
 
 SEPTEMBER 2021 - MAY 2022
 
-I worked remotely with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, insert citations, update the website, and collaborate with authors to adjust discrepancies.  
+I worked remotely with the *Journal of Media Literacy Education* to ensure consistency with journal style guides, update the website, and collaborate with authors to adjust discrepancies.  
 
 #### **Beach Clean-ups**  •  *Save Our Shores* • *Santa Cruz, CA*
 
-2017 – 2021
+2017
 
 I combed beaches once a month and picked up trash with *Save Our Shores,* a nonprofit in Santa Cruz, CA. I also organized my own beach clean-ups with friends and volunteers.
 
@@ -234,27 +236,57 @@ During the summer, I volunteered twice a week with the UCSC Arboretum in Santa C
 
 ------
 
-**Adobe Audition and Audacity**	
+**Front-end Development**  
 
-I produce podcast episodes for *The Propwatch Project* by recording, editing, cutting, and mixing audio from video interviews.
+JavaScript, HTML, CSS  
 
-**ArcGIS and QGIS**	
 
-I earned a certificate in ArcGIS through Coursera where I developed maps to compare spatial data and understand information patterns.   	
 
-**Photography**	
+**Audio Editing**
 
-During a 3-month camping  trip around the western US, I photographed landscapes and people to document my travels.   
+Adobe Audition, Audacity
 
-**Jekyll  and GitHub Pages**	
 
-I developed and maintain a blog about literature, health, and sustainability.  
+
+**Data Analysis**
+
+Python, SQL, MS Excel, MS Access
+
+
+
+**GIS**
+
+ArcGIS, MapBox GL JS, QGIS
+
+
+
+**Data Visualization**  
+
+Seaborn, DataWrapper, Infogram  
+
+
+
+**Audio Editing**
+
+Adobe Audition, Audacity
+
+
+
+**Content Management**
+
+Graphene, WordPress, Jekyll,GitHub Pages	
+
+
 
 **Language style guides** 	
 
 *The AP Stylebook* | *The Chicago Manual of Style* | *Modern Language Association* |*The American Psychological Association style*
 
+
+
 **Speaks limited-working Spanish**  
+
+
 
 **Basic photoshop skills**
 
@@ -266,11 +298,13 @@ I developed and maintain a blog about literature, health, and sustainability.
 
 ------
 
-**Food**  Plant-Based Cooking and Baking • Fermenting • Maintaining a Small Garden      
+**Outdoor Activities**  Hiking, Camping, Backpacking • Volleyball • Cycling
 
-**Outdoor Activities**  Hiking and Camping • Volleyball • Cycling  
+**Food**  Plant-Based Cooking and Baking • Fermenting • Maintaining a Small Garden       
 
-**Writing**  Creative Writing • Blogging • Reading • Listening to Podcasts
+**Sustainability**
+
+
 
 
 

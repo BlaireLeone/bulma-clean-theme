@@ -21,7 +21,7 @@ hero_image: /img/bryce.jpg
 JUNE 2022 - DECEMBER 2022  
 
 - Writes articles covering the environment, food, and the local community.   
--  Develops maps and data visualizations: compiles  data sets, analyses data, creates visuals using a variety of programming  tools, such as Python, SQL, and JavaScript.   
+-  Develops maps and data visualizations: compiles data sets, analyses data, creates visuals using a variety of programming  tools, such as Python, SQL, and JavaScript.   
 - Manages student newsletter: builds newsletter  in CMS, writes content.  
 
 
@@ -30,7 +30,7 @@ JUNE 2022 - DECEMBER 2022
 
 December 2019 – PRESENT 
 
-- Compiled research and for client in the managerial consulting field:  ingested data from  PDFs and organized data into databases.  
+- Compiled research database and for client in the managerial consulting field: ingested data from PDFs and organized data into databases.  
 
 - Revises environmental documents for the Placer County Air Pollution Control District Office to ensure public understanding of data gathering practices, local and federal air quality policy, prescribed burning, and wildfire smoke updates.
 
@@ -40,17 +40,13 @@ December 2019 – PRESENT
 
    
 
-#### Reporter and Segment Producer *• The Propwatch Project •* *Remote*   
+#### Researcher and Writer *• The Propwatch Project •* *Remote*   
 
 AUGUST 2021 - JUNE 2022
 
-- Conducted 1-2-hour interviews for video series on misinformation: sourced professionals and academics, researched extensively, drafted questions.  
-
-- Authored investigative articles for digital publication: pitched and received story assignments, conducted research, identified diverse sources and additional media, drafted headlines and summaries.
-
-- Edited audio from interviews for upcoming podcast on disinformation and propaganda.
-
-- Performed outreach and supports event logistics with partners.  
+- Compiled datasets of potential funders, experts, and community partners 
+- Conducted interviews for video series on misinformation and authored investigative articles 
+- Performed outreach and supported event logistics with partners.  
 
 
 
@@ -59,16 +55,15 @@ AUGUST 2021 - JUNE 2022
 
 FALL 2020  
 
-- Fact-checked, proofread, and pitched stories for a monthly newsletter on election updates including poll numbers, policy news, high school election literacy, historical pieces, and volunteering efforts.  
-
-- Copyedited formatting, selected images, and created headlines.     
+- Developed newsletter: compiled stories, wrote introductions, proofread and copyedited content
 
 
-#### Communications Coordinator • *HAALo Botanicals* • *Nevada City, CA*  
+
+#### Assistant Store Manager • *HAALo Botanicals* • *Nevada City, CA*  
 
 SEPTEMBER 2015 – SEPTEMBER 2017  
 
-- Wrote articles on food, plants, locally-sourced products, and profiles of local botanical and natural food experts for weekly newsletter: sourced, shadowed, and interviewed experts; pitched content. 
+- Managed inventory and sales data: compiled inventory  and imported new inventory data, tracked sales trends via Excel analysis tools
 
 - Developed communication materials: drafted press releases for local media outlets, maintained social media accounts, posted to a variety of event hosting platforms, and created newsletter.
 
@@ -137,9 +132,9 @@ MAY 2015 - SEPTEMBER 2015
 
 - Coordinated and trained diverse group of volunteers for all festival tasks. 
 
-- Event communications and marketing: created and distributed fliers, maintained social media accounts, and developed press releases for local media outlets.
+- Developed event communications and marketing: created and distributed fliers, maintained social media accounts, and drafted press releases for local media outlets.
 
-- Managed food, drink, and merchandise: researched, ordered, and inventoried; kept and maintained a detailed budget; communicated with vendors.  
+- Managed food, drink, and merchandise: researched, ordered, and inventoried concessions; kept and maintained a detailed budget; communicated with vendors.  
 
 - Authored reviews and summaries of films for playbill and flyers of short films from around the world, including films on Icelandic horse breeding and a day in the life of a Tibetan monk.
 
@@ -274,7 +269,7 @@ Adobe Audition, Audacity
 
 **Content Management**
 
-Graphene, WordPress, Jekyll,GitHub Pages	
+Graphene, WordPress, Jekyll, GitHub Pages	
 
 
 
